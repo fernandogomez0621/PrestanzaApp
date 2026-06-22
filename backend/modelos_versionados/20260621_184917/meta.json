@@ -1,0 +1,79 @@
+{
+  "version": "20260621_184917",
+  "fecha": "20260621_184917",
+  "origen": "api",
+  "modo_seleccion": "titular",
+  "metricas": {
+    "6M": {
+      "nueve_clases": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.14,
+        "clases": [
+          "10",
+          "9",
+          "8",
+          "6",
+          "5",
+          "4",
+          "2"
+        ]
+      },
+      "tres_clases": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.333
+      },
+      "buena_no_buena": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.629,
+        "accuracy": 0.673,
+        "balanced_accuracy": 0.631,
+        "precision_buena": 0.768,
+        "recall_buena": 0.746
+      },
+      "buena_no_buena_shap": {
+        "mejor_algoritmo": "Gradient Boosting",
+        "f1_macro_cv": 0.586,
+        "accuracy": 0.663,
+        "balanced_accuracy": 0.583,
+        "precision_buena": 0.731,
+        "recall_buena": 0.803
+      }
+    },
+    "12M": {
+      "nueve_clases": {
+        "mejor_algoritmo": "Random Forest",
+        "f1_macro_cv": 0.122,
+        "clases": [
+          "10",
+          "9",
+          "8",
+          "7",
+          "6",
+          "4",
+          "3",
+          "0"
+        ]
+      },
+      "tres_clases": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.386
+      },
+      "buena_no_buena": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.588,
+        "accuracy": 0.726,
+        "balanced_accuracy": 0.621,
+        "precision_buena": 0.886,
+        "recall_buena": 0.775
+      },
+      "buena_no_buena_shap": {
+        "mejor_algoritmo": "Regresi\u00f3n Log\u00edstica",
+        "f1_macro_cv": 0.624,
+        "accuracy": 0.737,
+        "balanced_accuracy": 0.681,
+        "precision_buena": 0.91,
+        "recall_buena": 0.762
+      }
+    }
+  }
+}
