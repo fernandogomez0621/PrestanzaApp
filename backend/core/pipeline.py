@@ -34,12 +34,60 @@ VERSIONES_DIR = os.path.join(BASE_DIR, 'modelos_versionados')
 os.makedirs(VERSIONES_DIR, exist_ok=True)
 
 # Dirección esperada por lógica de crédito (para validar SHAP): +1 mayor->Buena, -1 mayor->No-buena
+#
+# Cubre las 38 columnas que entran al modelo. Una variable sin entrada aquí NO se
+# audita (sale como "n/a"), por lo que dejar huecos oculta variables invertidas.
+# Los logaritmos heredan la dirección de su variable base.
 DIRECCION_ESPERADA = {
-    'debtor_credit_score': +1, 'debtor_education_ordinal': +1, 'original_amount': -1,
-    'public_db_no_lawsuits_defendant_money': -1, 'public_db_no_lawsuits': -1,
-    'quotefactor': +1, 'value_monthly_payments': -1, 'snr_estimated_unique_properties': +1,
-    'log_tax_report_total_income_value': +1, 'log_bank_monthly_avg_blance': +1,
-    'collateral_commercial_value': +1, 'debtor_education_ordinal': +1, 'score_bajo': -1,
+    # --- Capacidad de pago e ingresos: más ingreso -> mejor ---
+    'tax_report_total_income_value': +1,
+    'log_tax_report_total_income_value': +1,
+    'bank_monthly_avg_credit_value': +1,
+    'log_bank_monthly_avg_credit_value': +1,
+    'bank_monthly_avg_blance': +1,
+    'log_bank_monthly_avg_blance': +1,
+    'quotefactor': +1,
+    'bank_inflow_factor': +1,
+    'bank_average_factor': +1,
+    'solvencia_bancaria': +1,
+
+    # --- Patrimonio y garantía: más respaldo -> mejor ---
+    'tax_report_total_equity_value': +1,
+    'log_tax_report_total_equity_value': +1,
+    'equityFactor': +1,
+    'collateral_commercial_value': +1,
+    'log_collateral_commercial_value': +1,
+    'snr_estimated_unique_properties': +1,
+    'flag_tiene_propiedades': +1,
+    'equity_sobre_ltv': +1,
+
+    # --- Carga de la deuda: más carga -> peor ---
+    'original_amount': -1,
+    'log_original_amount': -1,
+    'value_monthly_payments': -1,
+    'log_value_monthly_payments': -1,
+    'LTVfactor': -1,                      # más apalancamiento sobre la garantía -> peor
+
+    # --- Calidad crediticia del deudor ---
+    'debtor_credit_score': +1,
+    'score_alto': +1,                     # score >= 700 -> mejor
+    'score_bajo': -1,                     # score < 550  -> peor
+    'debtor_education_ordinal': +1,
+    'score_x_educacion': +1,              # producto de dos factores +1
+    'score_x_quote': +1,                  # producto de dos factores +1
+
+    # --- Historial de crédito: haber cerrado créditos -> mejor ---
+    'debtor_closed_loan_value': +1,
+    'log_debtor_closed_loan_value': +1,
+    'debtor_closed_no_similar_loans': +1,
+    'creditos_cerrados_factor': +1,
+    'flag_historial_similar': +1,
+
+    # --- Litigios: más demandas -> peor ---
+    'public_db_no_lawsuits': -1,
+    'flag_demandas': -1,
+    'public_db_no_lawsuits_defendant_money': -1,
+    'flag_demanda_dinero': -1,
 }
 
 
