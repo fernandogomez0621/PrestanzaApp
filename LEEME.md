@@ -41,6 +41,11 @@ Frontend (otra terminal):
   arrancar y existen datos, se entrena solo en unos segundos.
 - Pestañas: carga de datos, modelos & versiones (métricas por validación cruzada), predicción (índices, puntaje,
   banda y decisión por simulación) y cómo se construyen.
+- La definición de Buena (por defecto calificación >= 9) se toma de la pestaña **Letras & clases** del 8501
+  (corte de la clase Buena) y la comparten ambas apps. Tras cambiarla hay que reentrenar en las dos; cada versión
+  guarda el corte con que se entrenó.
+- Documentación: `documentos/Manual_Modelos_Indices.pdf` y `documentos/Modelos_Indices_Como_Funcionan.pdf`.
+- Archivos de prueba para la pestaña Predicción: `backend/datos_ejemplo/prediccion/` (con `resultados_esperados.csv`).
 
 ## Flujo de uso
 1. **Carga de datos**: sube calificaciones 6M y 12M (mapea columnas si el encabezado no coincide) + datapoints. Botón **reentrenar**.

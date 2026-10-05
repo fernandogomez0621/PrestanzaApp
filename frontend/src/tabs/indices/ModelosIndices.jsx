@@ -32,7 +32,8 @@ function Panel({ periodo, d }) {
   const maxAuc = Math.max(...d.por_indice.map(x => x.auc_solo), 0.6);
   return (
     <div className="card">
-      <h3>{periodo === '6M' ? '6 meses' : '12 meses'} <span className="tag">n = {d.n} · No-Buena = {d.no_buena}</span></h3>
+      <h3>{periodo === '6M' ? '6 meses' : '12 meses'} <span className="tag">n = {d.n} · No-Buena = {d.no_buena}</span>
+        <span className="tag">Buena ≥ {d.corte_buena ?? 9}</span></h3>
       <div className="kpi-row">
         <div className="kpi"><div className="label">AUC</div><div className="value small">{num(d.auc)}</div></div>
         <div className="kpi"><div className="label">F1-macro</div><div className="value small">{num(d.f1_macro)}</div></div>
@@ -103,7 +104,7 @@ export default function ModelosIndices({ versiones, versionActiva, setVersionAct
             <label className="field" style={{ maxWidth: 380 }}>
               <span>Seleccionar entrenamiento por fecha</span>
               <select value={versionActiva || ''} onChange={e => setVersionActiva(e.target.value)}>
-                {versiones.map(v => <option key={v.version} value={v.version}>{fechaVersion(v.version)}</option>)}
+                {versiones.map(v => <option key={v.version} value={v.version}>{fechaVersion(v.version)} · Buena ≥ {v.corte_buena ?? 9}</option>)}
               </select>
             </label>
           )}

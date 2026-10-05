@@ -34,6 +34,7 @@ export const api = {
   detalleModelos: (v) => j('GET', `/modelos/${v}`),
   eda: (periodo, modo) => j('GET', `/eda/${periodo}?modo_seleccion=${modo||'titular'}`),
   getCalifConfig: () => j('GET', '/calificaciones-config'),
+  corte: () => j('GET', '/corte'),
   setCalifConfig: (cfg) => j('POST', '/calificaciones-config', JSON.stringify(cfg), {'Content-Type':'application/json'}),
   getReglas: () => j('GET', '/reglas'),
   setReglas: (reglas) => j('POST', '/reglas', JSON.stringify(reglas), {'Content-Type':'application/json'}),

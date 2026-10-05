@@ -30,11 +30,14 @@ function Composicion({ titulo, defs }) {
 
 export default function Metodologia({ versionActiva }) {
   const [d, setD] = useState(null);
+  const c = d?.['12M']?.corte_buena ?? d?.['6M']?.corte_buena;
   useEffect(() => { if (versionActiva) api.detalleModelos(versionActiva).then(setD).catch(() => setD(null)); }, [versionActiva]);
   return (
     <div>
       <h2 className="section-title">Cómo se construyen</h2>
       <div className="card" style={{ marginBottom: 20, fontSize: 13, lineHeight: 1.7 }}>
+        <p><b>0. Etiqueta.</b> Buena si la calificación es mayor o igual al corte de la clase Buena{c != null ? ` (hoy ${c})` : ''};
+          No-Buena en caso contrario. El corte se define en “Letras & clases” de la app principal y lo comparten las dos apps.</p>
         <p><b>1. Estandarización.</b> Cada variable se lleva a una escala común con parámetros del entrenamiento.
           12M: logaritmo con signo y z-score, z = (slog(x) − media) / desviación. 6M: z = (x − mediana) / rango intercuartílico.</p>
         <p><b>2. Índice.</b> Promedio de sus variables estandarizadas multiplicadas por su signo: (+) si un valor más alto implica más riesgo,

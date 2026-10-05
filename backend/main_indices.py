@@ -40,6 +40,20 @@ def _calif(periodo):
     return c.drop_duplicates('id_simulacion', keep='last').set_index('id_simulacion')['Valor_calificacion'].astype(float)
 
 
+def _corte_buena():
+    """Corte de Buena compartido con la app principal (pestaña 'Letras & clases' -> calif_config.json)."""
+    ruta = os.path.join(DATA_DIR, 'calif_config.json')
+    try:
+        return float(json.load(open(ruta, encoding='utf-8'))['cortes']['Buena'])
+    except Exception:
+        return float(MI.CORTE_BUENA)
+
+
+@app.get("/api/corte")
+def corte():
+    return {"corte_buena": _corte_buena()}
+
+
 def _leer_datapoints(ruta):
     return leer_tabla(ruta, dtype={'id_simulacion': 'str', U: 'str'})
 
@@ -101,6 +115,7 @@ def _entrenar():
     c6, c12 = _calif('6M'), _calif('12M')
     if not os.path.exists(dpath) or (c6 is None and c12 is None):
         raise HTTPException(400, "Faltan datapoints o calificaciones para entrenar")
+    corte = _corte_buena()
     V12, V6 = MI.construir_variables(_leer_datapoints(dpath))
     version = datetime.datetime.now().strftime('%Y%m%d_%H%M%S')
     carpeta = os.path.join(MOD_DIR, version); os.makedirs(carpeta, exist_ok=True)
@@ -108,18 +123,18 @@ def _entrenar():
     for h, V, y, y12 in [('12M', V12, c12, None), ('6M', V6, c6, c12)]:
         if y is None: continue
         yy = y.reindex(V.index); y12r = None if y12 is None else y12.reindex(V.index)
-        if yy.notna().sum() < 20 or (yy.dropna() < MI.CORTE_BUENA).sum() < 5:
+        if yy.notna().sum() < 20 or (yy.dropna() < corte).sum() < 5 or (yy.dropna() >= corte).sum() < 5:
             continue
-        m = MI.ModeloIndices(h).fit(V, yy, y12r)
+        m = MI.ModeloIndices(h, corte).fit(V, yy, y12r)
         m.guardar(os.path.join(carpeta, f'modelo_{h}.json'))
-        ev = MI.evaluar(h, V, yy, y12r)
+        ev = MI.evaluar(h, V, yy, y12r, corte=corte)
         ev.update(umbral=round(m.umbral, 4), terciles=[round(t, 4) for t in m.terciles], frac_marcado=round(m.frac_marcado, 3),
                   n_entrenamiento=m.n_entrenamiento, malos_entrenamiento=m.malos_entrenamiento)
         metricas[h] = ev
     if not metricas:
         shutil.rmtree(carpeta, ignore_errors=True)
-        raise HTTPException(400, "No hay suficientes operaciones calificadas para entrenar")
-    json.dump(_limpio({'version': version, 'fecha': datetime.datetime.now().isoformat(timespec='seconds'), 'metricas': metricas}),
+        raise HTTPException(400, f"No hay suficientes operaciones calificadas para entrenar con Buena >= {corte:g}")
+    json.dump(_limpio({'version': version, 'corte_buena': corte, 'fecha': datetime.datetime.now().isoformat(timespec='seconds'), 'metricas': metricas}),
               open(os.path.join(carpeta, 'meta.json'), 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
     return version, metricas
 
@@ -128,7 +143,7 @@ def _entrenar():
 def entrenar(modo_seleccion: str = Form('titular')):
     with _lock:
         version, metricas = _entrenar()
-    return _limpio({"ok": True, "version": version, "metricas": metricas})
+    return _limpio({"ok": True, "version": version, "corte_buena": _corte_buena(), "metricas": metricas})
 
 
 @app.on_event("startup")
@@ -149,7 +164,9 @@ def _versiones():
     for v in sorted(os.listdir(MOD_DIR), reverse=True):
         meta = os.path.join(MOD_DIR, v, 'meta.json')
         if os.path.exists(meta):
-            out.append({"version": v, "modo_seleccion": "índices"})
+            try: c = json.load(open(meta, encoding='utf-8')).get('corte_buena', MI.CORTE_BUENA)
+            except Exception: c = MI.CORTE_BUENA
+            out.append({"version": v, "modo_seleccion": "índices", "corte_buena": c})
     return out
 
 
@@ -172,7 +189,8 @@ def detalle_modelos(version: str):
     modelos, meta = _cargar(version)
     salida = {}
     for h, m in modelos.items():
-        salida[h] = {**meta['metricas'].get(h, {}), 'definiciones': m.defs, 'tasa_entrenamiento': m.tasa_entrenamiento}
+        salida[h] = {**meta['metricas'].get(h, {}), 'definiciones': m.defs, 'tasa_entrenamiento': m.tasa_entrenamiento,
+                     'corte_buena': m.corte}
     return _limpio(salida)
 
 

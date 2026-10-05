@@ -1,0 +1,183 @@
+﻿id;id_simulacion;id_usuario (opcional);data_set;data_name;value;id_user_creacion;fecha_creacion;group_id
+1;79754;16099;general-loan-data;line_of_credit;3;3;25/09/2023;DZ2OE16DL90MG
+2;79754;16099;general-loan-data;type_of_loan;C;3;25/09/2023;DZ2OE16DL90MG
+3;79754;16099;general-loan-data;id_loan_request;79754;3;25/09/2023;DZ2OE16DL90MG
+4;79754;16099;general-loan-data;original_amount;$ 120.000.000,00;3;25/09/2023;DZ2OE16DL90MG
+5;79754;16099;general-loan-data;pct_interest_rate;0,274345212;3;25/09/2023;DZ2OE16DL90MG
+6;79754;16099;general-loan-data;loan_to_value_ratio;0,709755854;3;25/09/2023;DZ2OE16DL90MG
+7;79754;16099;general-loan-data;amortization_schedule;0;3;25/09/2023;DZ2OE16DL90MG
+8;79754;16099;general-loan-data;payment_frequency;30;3;25/09/2023;DZ2OE16DL90MG
+9;79754;16099;general-loan-data;value_monthly_payments;$ 2.448.980,00;3;25/09/2023;DZ2OE16DL90MG
+10;79754;16099;general-loan-data;loan_duration;60;3;25/09/2023;DZ2OE16DL90MG
+11;79754;16099;general-loan-data;no_debtors;1;3;25/09/2023;DZ2OE16DL90MG
+12;79754;16099;other-loan-data;use_of_funds;small and medium enterprices;3;25/09/2023;DZ2OE16DL90MG
+13;79754;16099;other-loan-data;advance_value;0;3;25/09/2023;DZ2OE16DL90MG
+14;79754;16099;other-loan-data;advance_use_of_funds;;3;25/09/2023;DZ2OE16DL90MG
+15;79754;16099;loan-scores;id_advisor;7936;3;25/09/2023;DZ2OE16DL90MG
+16;79754;16099;loan-scores;beauty_score;8;3;25/09/2023;DZ2OE16DL90MG
+17;79754;16099;loan-scores;cleaness_score;8;3;25/09/2023;DZ2OE16DL90MG
+18;79754;16099;loan-scores;advisor_score;8;3;25/09/2023;DZ2OE16DL90MG
+19;79754;16099;loan-scores;id_analist;6353;3;25/09/2023;DZ2OE16DL90MG
+20;79754;16099;loan-scores;analist_score;8;3;25/09/2023;DZ2OE16DL90MG
+21;79754;16099;loan-scores;id_inspector;0;3;25/09/2023;DZ2OE16DL90MG
+22;79754;16099;loan-scores;inspection_score;0;3;25/09/2023;DZ2OE16DL90MG
+23;79754;16099;collateral-data;id_collateral;933;3;25/09/2023;DZ2OE16DL90MG
+24;79754;16099;collateral-data;type_collateral;oficina;3;25/09/2023;DZ2OE16DL90MG
+25;79754;16099;collateral-data;id_location_collateral;107;3;25/09/2023;DZ2OE16DL90MG
+26;79754;16099;collateral-data;location_collateral;bogota d.c.;3;25/09/2023;DZ2OE16DL90MG
+27;79754;16099;collateral-data;collateral_identification_number;50C-455024;3;25/09/2023;DZ2OE16DL90MG
+28;79754;16099;collateral-data;collateral_purchase_date;12/04/2023;3;25/09/2023;DZ2OE16DL90MG
+29;79754;16099;collateral-data;collateral_tax_value;$ 110.657.000,00;3;25/09/2023;DZ2OE16DL90MG
+30;79754;16099;collateral-data;collateral_commercial_value;$ 169.072.223,00;3;25/09/2023;DZ2OE16DL90MG
+31;79754;16099;collateral-data;collateral_tax_to_value_ratio;0,6545;3;25/09/2023;DZ2OE16DL90MG
+32;79754;16099;collateral-data;collateral_area;39;3;25/09/2023;DZ2OE16DL90MG
+33;79754;16099;collateral-data;collateral_condominium_status;yes;3;25/09/2023;DZ2OE16DL90MG
+34;79754;16099;collateral-data;collateral_tax_status;current;3;25/09/2023;DZ2OE16DL90MG
+35;79754;16099;collateral-data;collateral_tax_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+36;79754;16099;collateral-data;collateral_tax_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+37;79754;16099;collateral-data;collateral_admin_status;current;3;25/09/2023;DZ2OE16DL90MG
+38;79754;16099;collateral-data;collateral_admin_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+39;79754;16099;collateral-data;collateral_admin_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+40;79754;16099;collateral-taxes;tax_record_result;found;3;25/09/2023;DZ2OE16DL90MG
+41;79754;16099;collateral-taxes;tax_record_no_records;1;3;25/09/2023;DZ2OE16DL90MG
+42;79754;16099;collateral-taxes;tax_record_status;current;3;25/09/2023;DZ2OE16DL90MG
+43;79754;16099;collateral-taxes;tax_record_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+44;79754;16099;collateral-taxes;tax_record_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+45;79754;16099;collateral-taxes;tax_record_validation;ok;3;25/09/2023;DZ2OE16DL90MG
+46;79754;16099;collateral-taxes;table data_tax_record;;3;25/09/2023;DZ2OE16DL90MG
+47;79754;16099;personal-data;id_user;16099;3;25/09/2023;DZ2OE16DL90MG
+48;79754;16099;personal-data;id_type_debtor;1;3;25/09/2023;DZ2OE16DL90MG
+49;79754;16099;personal-data;debtor_full_name;freddy sebastian velandia sanabria;3;25/09/2023;DZ2OE16DL90MG
+50;79754;16099;personal-data;debtor_age;51;3;25/09/2023;DZ2OE16DL90MG
+51;79754;16099;personal-data;debtor_gender;male;3;25/09/2023;DZ2OE16DL90MG
+52;79754;16099;personal-data;debtor_type_dni;cc;3;25/09/2023;DZ2OE16DL90MG
+53;79754;16099;personal-data;debtor_dni;79632853;3;25/09/2023;DZ2OE16DL90MG
+54;79754;16099;personal-data;id_debtor_nacionality;43;3;25/09/2023;DZ2OE16DL90MG
+55;79754;16099;personal-data;id_debtor_country_residence;52;3;25/09/2023;DZ2OE16DL90MG
+56;79754;16099;personal-data;id_debtor_dept_residence;11;3;25/09/2023;DZ2OE16DL90MG
+57;79754;16099;personal-data;id_debtor_mun_residence;107;3;25/09/2023;DZ2OE16DL90MG
+58;79754;16099;personal-data;debtor_date_birth;26/09/1971;3;25/09/2023;DZ2OE16DL90MG
+59;79754;16099;personal-data;debtor_marital_status;married;3;25/09/2023;DZ2OE16DL90MG
+60;79754;16099;personal-data;debtor_social_stratum;3;3;25/09/2023;DZ2OE16DL90MG
+61;79754;16099;personal-data;debtor_level_of_education;8;3;25/09/2023;DZ2OE16DL90MG
+62;79754;16099;personal-data;debtor_no_dependants;1;3;25/09/2023;DZ2OE16DL90MG
+63;79754;16099;personal-data;debtor_file_tax_reports;yes;3;25/09/2023;DZ2OE16DL90MG
+64;79754;16099;personal-data;debtor_tenure_at_curr_address;6;3;25/09/2023;DZ2OE16DL90MG
+65;79754;16099;personal-data;debtor_abroad_residence;no;3;25/09/2023;DZ2OE16DL90MG
+66;79754;16099;personal-data;debtor_reports_credit_agency;no;3;25/09/2023;DZ2OE16DL90MG
+67;79754;16099;personal-data;debtor_reports_credit_agency_party;;3;25/09/2023;DZ2OE16DL90MG
+68;79754;16099;personal-data;debtor_reports_credit_agency_party_other;;3;25/09/2023;DZ2OE16DL90MG
+69;79754;16099;labour-data;debtor_employment_status;self-employed;3;25/09/2023;DZ2OE16DL90MG
+70;79754;16099;labour-data;id_debtor_range_of_income;14;3;25/09/2023;DZ2OE16DL90MG
+71;79754;16099;labour-data;payroll_frequency;30;3;25/09/2023;DZ2OE16DL90MG
+72;79754;16099;labour-data;id_debtor_bank;12;3;25/09/2023;DZ2OE16DL90MG
+73;79754;16099;labour-data;id_debtor_occupation;1;3;25/09/2023;DZ2OE16DL90MG
+74;79754;16099;labour-data;debtor_occupation;abogado (a);3;25/09/2023;DZ2OE16DL90MG
+75;79754;16099;labour-data;id_debtor_position;0;3;25/09/2023;DZ2OE16DL90MG
+76;79754;16099;labour-data;debtor_position;0;3;25/09/2023;DZ2OE16DL90MG
+77;79754;16099;labour-data;debtor_business_type;;3;25/09/2023;DZ2OE16DL90MG
+78;79754;16099;labour-data;debtor_business_name;;3;25/09/2023;DZ2OE16DL90MG
+79;79754;16099;labour-data;debtor_business_date_admission;;3;25/09/2023;DZ2OE16DL90MG
+80;79754;16099;labour-data;debtor_duration_of_curr_employment;0;3;25/09/2023;DZ2OE16DL90MG
+81;79754;16099;labour-data;debtor_years_experience;20;3;25/09/2023;DZ2OE16DL90MG
+82;79754;16099;labour-data;id_debtor_business_activity;4;3;25/09/2023;DZ2OE16DL90MG
+83;79754;16099;labour-data;debtor_business_activity;consultorías - asesorías ;3;25/09/2023;DZ2OE16DL90MG
+84;79754;16099;labour-data;debtor_business_phone;;3;25/09/2023;DZ2OE16DL90MG
+85;79754;16099;labour-data;debtor_type_of_employment_contract;no-contract;3;25/09/2023;DZ2OE16DL90MG
+86;79754;16099;labour-data;debtor_business_registration;yes;3;25/09/2023;DZ2OE16DL90MG
+87;79754;16099;labour-data;debtor_business_tin;901525990;3;25/09/2023;DZ2OE16DL90MG
+88;79754;16099;labour-data;id_debtor_other_income;0;3;25/09/2023;DZ2OE16DL90MG
+89;79754;16099;labour-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DZ2OE16DL90MG
+90;79754;16099;credit-bureau-data;report_result;found;3;25/09/2023;DZ2OE16DL90MG
+91;79754;16099;credit-bureau-data;report_checkid;2,10E+19;3;25/09/2023;DZ2OE16DL90MG
+92;79754;16099;credit-bureau-data;report_date;25/09/2023 12:37;3;25/09/2023;DZ2OE16DL90MG
+93;79754;16099;credit-bureau-data;debtor_credit_agency;transunion;3;25/09/2023;DZ2OE16DL90MG
+94;79754;16099;credit-bureau-data;debtor_credit_score;855;3;25/09/2023;DZ2OE16DL90MG
+95;79754;16099;credit-bureau-data;debtor_default_loans;0;3;25/09/2023;DZ2OE16DL90MG
+96;79754;16099;credit-bureau-data;debtor_credit_agency_min_probable_income;13596475;3;25/09/2023;DZ2OE16DL90MG
+97;79754;16099;credit-bureau-data;debtor_payment_capacity;-1859437;3;25/09/2023;DZ2OE16DL90MG
+98;79754;16099;credit-bureau-data;debtor_current_loan_value;420348;3;25/09/2023;DZ2OE16DL90MG
+99;79754;16099;credit-bureau-data;debtor_current_no_loans;11;3;25/09/2023;DZ2OE16DL90MG
+100;79754;16099;credit-bureau-data;debtor_current_total_payment;8252;3;25/09/2023;DZ2OE16DL90MG
+101;79754;16099;credit-bureau-data;debtor_current_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+102;79754;16099;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+103;79754;16099;credit-bureau-data;debtor_total_loan_value;749712;3;25/09/2023;DZ2OE16DL90MG
+104;79754;16099;credit-bureau-data;debtor_total_no_loans;30;3;25/09/2023;DZ2OE16DL90MG
+105;79754;16099;credit-bureau-data;debtor_total_highest_loan_value;169220;3;25/09/2023;DZ2OE16DL90MG
+106;79754;16099;credit-bureau-data;debtor_total_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+107;79754;16099;credit-bureau-data;debtor_total_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+108;79754;16099;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+109;79754;16099;credit-bureau-data;debtor_total_no_similar_loans;2;3;25/09/2023;DZ2OE16DL90MG
+110;79754;16099;credit-bureau-data;debtor_closed_loan_value;445441;3;25/09/2023;DZ2OE16DL90MG
+111;79754;16099;credit-bureau-data;debtor_closed_no_loans;22;3;25/09/2023;DZ2OE16DL90MG
+112;79754;16099;credit-bureau-data;debtor_closed_highest_loan_value;147990;3;25/09/2023;DZ2OE16DL90MG
+113;79754;16099;credit-bureau-data;debtor_closed_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+114;79754;16099;credit-bureau-data;debtor_closed_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+115;79754;16099;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+116;79754;16099;credit-bureau-data;debtor_closed_no_similar_loans;1;3;25/09/2023;DZ2OE16DL90MG
+117;79754;16099;credit-bureau-data;debtor_current_highest_loan_value;169220;3;25/09/2023;DZ2OE16DL90MG
+118;79754;16099;credit-bureau-data;debtor_current_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+119;79754;16099;credit-bureau-data;debtor_current_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+120;79754;16099;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+121;79754;16099;credit-bureau-data;debtor_current_no_similar_loans;1;3;25/09/2023;DZ2OE16DL90MG
+122;79754;16099;credit-bureau-data;debtor_current_no_tcr;4;3;25/09/2023;DZ2OE16DL90MG
+123;79754;16099;credit-bureau-data;debtor_current_tcr_initial_limit;35151;3;25/09/2023;DZ2OE16DL90MG
+124;79754;16099;credit-bureau-data;debtor_current_tcr_value;14782;3;25/09/2023;DZ2OE16DL90MG
+125;79754;16099;credit-bureau-data;debtor_current_tcr_usage;0,420528577;3;25/09/2023;DZ2OE16DL90MG
+126;79754;16099;credit-bureau-data;table query_cr_obligaciones_1;;3;25/09/2023;DZ2OE16DL90MG
+127;79754;16099;credit-bureau-data;table query_cr_obligaciones_2;;3;25/09/2023;DZ2OE16DL90MG
+128;79754;16099;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DZ2OE16DL90MG
+129;79754;16099;bank-statement-data;bank_statement_result;found;3;25/09/2023;DZ2OE16DL90MG
+130;79754;16099;bank-statement-data;id_document;21.207.213.712.137.200.000;3;25/09/2023;DZ2OE16DL90MG
+131;79754;16099;bank-statement-data;bank_account_validation;1,2,2,2;3;25/09/2023;DZ2OE16DL90MG
+132;79754;16099;bank-statement-data;bank_statement_no_days;123;3;25/09/2023;DZ2OE16DL90MG
+133;79754;16099;bank-statement-data;bank_statement_max_days_passed;87;3;25/09/2023;DZ2OE16DL90MG
+134;79754;16099;bank-statement-data;bank_no_records;58;3;25/09/2023;DZ2OE16DL90MG
+135;79754;16099;bank-statement-data;bank_monthly_avg_blance;2333334,493;3;25/09/2023;DZ2OE16DL90MG
+136;79754;16099;bank-statement-data;bank_monthly_avg_credit_value;6829062,373;3;25/09/2023;DZ2OE16DL90MG
+137;79754;16099;bank-statement-data;bank_monthly_avg_debit_value;-3694931;3;25/09/2023;DZ2OE16DL90MG
+138;79754;16099;bank-statement-data;bank_monthly_avg_payroll_value;0;3;25/09/2023;DZ2OE16DL90MG
+139;79754;16099;bank-statement-data;bank_monthly_avg_no_credit_records;4,5;3;25/09/2023;DZ2OE16DL90MG
+140;79754;16099;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;25/09/2023;DZ2OE16DL90MG
+141;79754;16099;income-tax-return-data;tax_report_result;found;3;25/09/2023;DZ2OE16DL90MG
+142;79754;16099;income-tax-return-data;tax_report_year;2022;3;25/09/2023;DZ2OE16DL90MG
+143;79754;16099;income-tax-return-data;tax_report_total_income_value;$ 101.873.000,00;3;25/09/2023;DZ2OE16DL90MG
+144;79754;16099;income-tax-return-data;tax_report_total_assets_value;$ 513.923.000,00;3;25/09/2023;DZ2OE16DL90MG
+145;79754;16099;income-tax-return-data;tax_report_total_equity_value;$ 249.523.000,00;3;25/09/2023;DZ2OE16DL90MG
+146;79754;16099;income-tax-return-data;tax_report_total_debt_value;$ 264.400.000,00;3;25/09/2023;DZ2OE16DL90MG
+147;79754;16099;income-tax-return-data;tax_report_total_tax;$ 0,00;3;25/09/2023;DZ2OE16DL90MG
+148;79754;16099;income-tax-return-data;tax_report_value_to_pay;$ 0,00;3;25/09/2023;DZ2OE16DL90MG
+149;79754;16099;background-checks-data;public_db_result;found;3;25/09/2023;DZ2OE16DL90MG
+150;79754;16099;background-checks-data;public_db_check_id;CHKfbca05c02a5a4b1eed29b9a4d83bea60;3;25/09/2023;DZ2OE16DL90MG
+151;79754;16099;background-checks-data;public_db_check_id_date;25/09/2023 15:29;3;25/09/2023;DZ2OE16DL90MG
+152;79754;16099;background-checks-data;public_db_no_lawsuits;4;3;25/09/2023;DZ2OE16DL90MG
+153;79754;16099;background-checks-data;public_db_no_lawsuits_defendant;2;3;25/09/2023;DZ2OE16DL90MG
+154;79754;16099;background-checks-data;public_db_no_lawsuits_defendant_money;1;3;25/09/2023;DZ2OE16DL90MG
+155;79754;16099;background-checks-data;public_db_tax_responsable;no;3;25/09/2023;DZ2OE16DL90MG
+156;79754;16099;background-checks-data;public_db_tax_responsable_bdme;;3;25/09/2023;DZ2OE16DL90MG
+157;79754;16099;background-checks-data;public_db_medical_status;;3;25/09/2023;DZ2OE16DL90MG
+158;79754;16099;background-checks-data;public_db_medical_regime;;3;25/09/2023;DZ2OE16DL90MG
+159;79754;16099;background-checks-data;public_db_medical_type;;3;25/09/2023;DZ2OE16DL90MG
+160;79754;16099;background-checks-data;public_db_pension_status;;3;25/09/2023;DZ2OE16DL90MG
+161;79754;16099;background-checks-data;public_db_pension_regime;;3;25/09/2023;DZ2OE16DL90MG
+162;79754;16099;background-checks-data;public_db_ccf_status;;3;25/09/2023;DZ2OE16DL90MG
+163;79754;16099;background-checks-data;public_db_ccf_type;;3;25/09/2023;DZ2OE16DL90MG
+164;79754;16099;background-checks-data;public_db_welfare_status;;3;25/09/2023;DZ2OE16DL90MG
+165;79754;16099;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;25/09/2023;DZ2OE16DL90MG
+166;79754;16099;background-checks-data;public_db_check_dni;vigente;3;25/09/2023;DZ2OE16DL90MG
+167;79754;16099;background-checks-data;public_db_check_pedofile;found-none;3;25/09/2023;DZ2OE16DL90MG
+168;79754;16099;background-checks-data;public_db_personal_identity_score;10;3;25/09/2023;DZ2OE16DL90MG
+169;79754;16099;background-checks-data;public_db_criminal_record_score;10;3;25/09/2023;DZ2OE16DL90MG
+170;79754;16099;background-checks-data;public_db_legal_background_score;2;3;25/09/2023;DZ2OE16DL90MG
+171;79754;16099;background-checks-data;public_db_international_background_score;10;3;25/09/2023;DZ2OE16DL90MG
+172;79754;16099;background-checks-data;public_db_professional_background_score;0;3;25/09/2023;DZ2OE16DL90MG
+173;79754;16099;background-checks-data;public_db_affiliations_and_insurances_score;10;3;25/09/2023;DZ2OE16DL90MG
+174;79754;16099;background-checks-data;public_db_alert_in_media_score;10;3;25/09/2023;DZ2OE16DL90MG
+175;79754;16099;background-checks-data;public_db_taxes_and_finances_score;10;3;25/09/2023;DZ2OE16DL90MG
+176;79754;16099;background-checks-data;table data_proceso_judicial;;3;25/09/2023;DZ2OE16DL90MG
+177;79754;16099;snr-data;snr_result;found;3;25/09/2023;DZ2OE16DL90MG
+178;79754;16099;snr-data;snr_check_id;F20230925124341U16099S79754;3;25/09/2023;DZ2OE16DL90MG
+179;79754;16099;snr-data;snr_check_id_date;25/09/2023 12:43;3;25/09/2023;DZ2OE16DL90MG
+180;79754;16099;snr-data;snr_no_records;4;3;25/09/2023;DZ2OE16DL90MG
+181;79754;16099;snr-data;snr_no_unique_id_number;4;3;25/09/2023;DZ2OE16DL90MG
+182;79754;16099;snr-data;snr_estimated_unique_properties;4;3;25/09/2023;DZ2OE16DL90MG

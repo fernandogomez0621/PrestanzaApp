@@ -1,0 +1,1773 @@
+﻿id;id_simulacion;id_usuario (opcional);data_set;data_name;value;id_user_creacion;fecha_creacion;group_id
+1;79754;16099;general-loan-data;line_of_credit;3;3;25/09/2023;DZ2OE16DL90MG
+2;79754;16099;general-loan-data;type_of_loan;C;3;25/09/2023;DZ2OE16DL90MG
+3;79754;16099;general-loan-data;id_loan_request;79754;3;25/09/2023;DZ2OE16DL90MG
+4;79754;16099;general-loan-data;original_amount;$ 120.000.000,00;3;25/09/2023;DZ2OE16DL90MG
+5;79754;16099;general-loan-data;pct_interest_rate;0,274345212;3;25/09/2023;DZ2OE16DL90MG
+6;79754;16099;general-loan-data;loan_to_value_ratio;0,709755854;3;25/09/2023;DZ2OE16DL90MG
+7;79754;16099;general-loan-data;amortization_schedule;0;3;25/09/2023;DZ2OE16DL90MG
+8;79754;16099;general-loan-data;payment_frequency;30;3;25/09/2023;DZ2OE16DL90MG
+9;79754;16099;general-loan-data;value_monthly_payments;$ 2.448.980,00;3;25/09/2023;DZ2OE16DL90MG
+10;79754;16099;general-loan-data;loan_duration;60;3;25/09/2023;DZ2OE16DL90MG
+11;79754;16099;general-loan-data;no_debtors;1;3;25/09/2023;DZ2OE16DL90MG
+12;79754;16099;other-loan-data;use_of_funds;small and medium enterprices;3;25/09/2023;DZ2OE16DL90MG
+13;79754;16099;other-loan-data;advance_value;0;3;25/09/2023;DZ2OE16DL90MG
+14;79754;16099;other-loan-data;advance_use_of_funds;;3;25/09/2023;DZ2OE16DL90MG
+15;79754;16099;loan-scores;id_advisor;7936;3;25/09/2023;DZ2OE16DL90MG
+16;79754;16099;loan-scores;beauty_score;8;3;25/09/2023;DZ2OE16DL90MG
+17;79754;16099;loan-scores;cleaness_score;8;3;25/09/2023;DZ2OE16DL90MG
+18;79754;16099;loan-scores;advisor_score;8;3;25/09/2023;DZ2OE16DL90MG
+19;79754;16099;loan-scores;id_analist;6353;3;25/09/2023;DZ2OE16DL90MG
+20;79754;16099;loan-scores;analist_score;8;3;25/09/2023;DZ2OE16DL90MG
+21;79754;16099;loan-scores;id_inspector;0;3;25/09/2023;DZ2OE16DL90MG
+22;79754;16099;loan-scores;inspection_score;0;3;25/09/2023;DZ2OE16DL90MG
+23;79754;16099;collateral-data;id_collateral;933;3;25/09/2023;DZ2OE16DL90MG
+24;79754;16099;collateral-data;type_collateral;oficina;3;25/09/2023;DZ2OE16DL90MG
+25;79754;16099;collateral-data;id_location_collateral;107;3;25/09/2023;DZ2OE16DL90MG
+26;79754;16099;collateral-data;location_collateral;bogota d.c.;3;25/09/2023;DZ2OE16DL90MG
+27;79754;16099;collateral-data;collateral_identification_number;50C-455024;3;25/09/2023;DZ2OE16DL90MG
+28;79754;16099;collateral-data;collateral_purchase_date;12/04/2023;3;25/09/2023;DZ2OE16DL90MG
+29;79754;16099;collateral-data;collateral_tax_value;$ 110.657.000,00;3;25/09/2023;DZ2OE16DL90MG
+30;79754;16099;collateral-data;collateral_commercial_value;$ 169.072.223,00;3;25/09/2023;DZ2OE16DL90MG
+31;79754;16099;collateral-data;collateral_tax_to_value_ratio;0,6545;3;25/09/2023;DZ2OE16DL90MG
+32;79754;16099;collateral-data;collateral_area;39;3;25/09/2023;DZ2OE16DL90MG
+33;79754;16099;collateral-data;collateral_condominium_status;yes;3;25/09/2023;DZ2OE16DL90MG
+34;79754;16099;collateral-data;collateral_tax_status;current;3;25/09/2023;DZ2OE16DL90MG
+35;79754;16099;collateral-data;collateral_tax_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+36;79754;16099;collateral-data;collateral_tax_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+37;79754;16099;collateral-data;collateral_admin_status;current;3;25/09/2023;DZ2OE16DL90MG
+38;79754;16099;collateral-data;collateral_admin_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+39;79754;16099;collateral-data;collateral_admin_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+40;79754;16099;collateral-taxes;tax_record_result;found;3;25/09/2023;DZ2OE16DL90MG
+41;79754;16099;collateral-taxes;tax_record_no_records;1;3;25/09/2023;DZ2OE16DL90MG
+42;79754;16099;collateral-taxes;tax_record_status;current;3;25/09/2023;DZ2OE16DL90MG
+43;79754;16099;collateral-taxes;tax_record_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+44;79754;16099;collateral-taxes;tax_record_no_delinquency_payments;0;3;25/09/2023;DZ2OE16DL90MG
+45;79754;16099;collateral-taxes;tax_record_validation;ok;3;25/09/2023;DZ2OE16DL90MG
+46;79754;16099;collateral-taxes;table data_tax_record;;3;25/09/2023;DZ2OE16DL90MG
+47;79754;16099;personal-data;id_user;16099;3;25/09/2023;DZ2OE16DL90MG
+48;79754;16099;personal-data;id_type_debtor;1;3;25/09/2023;DZ2OE16DL90MG
+49;79754;16099;personal-data;debtor_full_name;freddy sebastian velandia sanabria;3;25/09/2023;DZ2OE16DL90MG
+50;79754;16099;personal-data;debtor_age;51;3;25/09/2023;DZ2OE16DL90MG
+51;79754;16099;personal-data;debtor_gender;male;3;25/09/2023;DZ2OE16DL90MG
+52;79754;16099;personal-data;debtor_type_dni;cc;3;25/09/2023;DZ2OE16DL90MG
+53;79754;16099;personal-data;debtor_dni;79632853;3;25/09/2023;DZ2OE16DL90MG
+54;79754;16099;personal-data;id_debtor_nacionality;43;3;25/09/2023;DZ2OE16DL90MG
+55;79754;16099;personal-data;id_debtor_country_residence;52;3;25/09/2023;DZ2OE16DL90MG
+56;79754;16099;personal-data;id_debtor_dept_residence;11;3;25/09/2023;DZ2OE16DL90MG
+57;79754;16099;personal-data;id_debtor_mun_residence;107;3;25/09/2023;DZ2OE16DL90MG
+58;79754;16099;personal-data;debtor_date_birth;26/09/1971;3;25/09/2023;DZ2OE16DL90MG
+59;79754;16099;personal-data;debtor_marital_status;married;3;25/09/2023;DZ2OE16DL90MG
+60;79754;16099;personal-data;debtor_social_stratum;3;3;25/09/2023;DZ2OE16DL90MG
+61;79754;16099;personal-data;debtor_level_of_education;8;3;25/09/2023;DZ2OE16DL90MG
+62;79754;16099;personal-data;debtor_no_dependants;1;3;25/09/2023;DZ2OE16DL90MG
+63;79754;16099;personal-data;debtor_file_tax_reports;yes;3;25/09/2023;DZ2OE16DL90MG
+64;79754;16099;personal-data;debtor_tenure_at_curr_address;6;3;25/09/2023;DZ2OE16DL90MG
+65;79754;16099;personal-data;debtor_abroad_residence;no;3;25/09/2023;DZ2OE16DL90MG
+66;79754;16099;personal-data;debtor_reports_credit_agency;no;3;25/09/2023;DZ2OE16DL90MG
+67;79754;16099;personal-data;debtor_reports_credit_agency_party;;3;25/09/2023;DZ2OE16DL90MG
+68;79754;16099;personal-data;debtor_reports_credit_agency_party_other;;3;25/09/2023;DZ2OE16DL90MG
+69;79754;16099;labour-data;debtor_employment_status;self-employed;3;25/09/2023;DZ2OE16DL90MG
+70;79754;16099;labour-data;id_debtor_range_of_income;14;3;25/09/2023;DZ2OE16DL90MG
+71;79754;16099;labour-data;payroll_frequency;30;3;25/09/2023;DZ2OE16DL90MG
+72;79754;16099;labour-data;id_debtor_bank;12;3;25/09/2023;DZ2OE16DL90MG
+73;79754;16099;labour-data;id_debtor_occupation;1;3;25/09/2023;DZ2OE16DL90MG
+74;79754;16099;labour-data;debtor_occupation;abogado (a);3;25/09/2023;DZ2OE16DL90MG
+75;79754;16099;labour-data;id_debtor_position;0;3;25/09/2023;DZ2OE16DL90MG
+76;79754;16099;labour-data;debtor_position;0;3;25/09/2023;DZ2OE16DL90MG
+77;79754;16099;labour-data;debtor_business_type;;3;25/09/2023;DZ2OE16DL90MG
+78;79754;16099;labour-data;debtor_business_name;;3;25/09/2023;DZ2OE16DL90MG
+79;79754;16099;labour-data;debtor_business_date_admission;;3;25/09/2023;DZ2OE16DL90MG
+80;79754;16099;labour-data;debtor_duration_of_curr_employment;0;3;25/09/2023;DZ2OE16DL90MG
+81;79754;16099;labour-data;debtor_years_experience;20;3;25/09/2023;DZ2OE16DL90MG
+82;79754;16099;labour-data;id_debtor_business_activity;4;3;25/09/2023;DZ2OE16DL90MG
+83;79754;16099;labour-data;debtor_business_activity;consultorías - asesorías ;3;25/09/2023;DZ2OE16DL90MG
+84;79754;16099;labour-data;debtor_business_phone;;3;25/09/2023;DZ2OE16DL90MG
+85;79754;16099;labour-data;debtor_type_of_employment_contract;no-contract;3;25/09/2023;DZ2OE16DL90MG
+86;79754;16099;labour-data;debtor_business_registration;yes;3;25/09/2023;DZ2OE16DL90MG
+87;79754;16099;labour-data;debtor_business_tin;901525990;3;25/09/2023;DZ2OE16DL90MG
+88;79754;16099;labour-data;id_debtor_other_income;0;3;25/09/2023;DZ2OE16DL90MG
+89;79754;16099;labour-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DZ2OE16DL90MG
+90;79754;16099;credit-bureau-data;report_result;found;3;25/09/2023;DZ2OE16DL90MG
+91;79754;16099;credit-bureau-data;report_checkid;2,10E+19;3;25/09/2023;DZ2OE16DL90MG
+92;79754;16099;credit-bureau-data;report_date;25/09/2023 12:37;3;25/09/2023;DZ2OE16DL90MG
+93;79754;16099;credit-bureau-data;debtor_credit_agency;transunion;3;25/09/2023;DZ2OE16DL90MG
+94;79754;16099;credit-bureau-data;debtor_credit_score;855;3;25/09/2023;DZ2OE16DL90MG
+95;79754;16099;credit-bureau-data;debtor_default_loans;0;3;25/09/2023;DZ2OE16DL90MG
+96;79754;16099;credit-bureau-data;debtor_credit_agency_min_probable_income;13596475;3;25/09/2023;DZ2OE16DL90MG
+97;79754;16099;credit-bureau-data;debtor_payment_capacity;-1859437;3;25/09/2023;DZ2OE16DL90MG
+98;79754;16099;credit-bureau-data;debtor_current_loan_value;420348;3;25/09/2023;DZ2OE16DL90MG
+99;79754;16099;credit-bureau-data;debtor_current_no_loans;11;3;25/09/2023;DZ2OE16DL90MG
+100;79754;16099;credit-bureau-data;debtor_current_total_payment;8252;3;25/09/2023;DZ2OE16DL90MG
+101;79754;16099;credit-bureau-data;debtor_current_delinquency_value;0;3;25/09/2023;DZ2OE16DL90MG
+102;79754;16099;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+103;79754;16099;credit-bureau-data;debtor_total_loan_value;749712;3;25/09/2023;DZ2OE16DL90MG
+104;79754;16099;credit-bureau-data;debtor_total_no_loans;30;3;25/09/2023;DZ2OE16DL90MG
+105;79754;16099;credit-bureau-data;debtor_total_highest_loan_value;169220;3;25/09/2023;DZ2OE16DL90MG
+106;79754;16099;credit-bureau-data;debtor_total_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+107;79754;16099;credit-bureau-data;debtor_total_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+108;79754;16099;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+109;79754;16099;credit-bureau-data;debtor_total_no_similar_loans;2;3;25/09/2023;DZ2OE16DL90MG
+110;79754;16099;credit-bureau-data;debtor_closed_loan_value;445441;3;25/09/2023;DZ2OE16DL90MG
+111;79754;16099;credit-bureau-data;debtor_closed_no_loans;22;3;25/09/2023;DZ2OE16DL90MG
+112;79754;16099;credit-bureau-data;debtor_closed_highest_loan_value;147990;3;25/09/2023;DZ2OE16DL90MG
+113;79754;16099;credit-bureau-data;debtor_closed_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+114;79754;16099;credit-bureau-data;debtor_closed_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+115;79754;16099;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+116;79754;16099;credit-bureau-data;debtor_closed_no_similar_loans;1;3;25/09/2023;DZ2OE16DL90MG
+117;79754;16099;credit-bureau-data;debtor_current_highest_loan_value;169220;3;25/09/2023;DZ2OE16DL90MG
+118;79754;16099;credit-bureau-data;debtor_current_no_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+119;79754;16099;credit-bureau-data;debtor_current_max_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+120;79754;16099;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;25/09/2023;DZ2OE16DL90MG
+121;79754;16099;credit-bureau-data;debtor_current_no_similar_loans;1;3;25/09/2023;DZ2OE16DL90MG
+122;79754;16099;credit-bureau-data;debtor_current_no_tcr;4;3;25/09/2023;DZ2OE16DL90MG
+123;79754;16099;credit-bureau-data;debtor_current_tcr_initial_limit;35151;3;25/09/2023;DZ2OE16DL90MG
+124;79754;16099;credit-bureau-data;debtor_current_tcr_value;14782;3;25/09/2023;DZ2OE16DL90MG
+125;79754;16099;credit-bureau-data;debtor_current_tcr_usage;0,420528577;3;25/09/2023;DZ2OE16DL90MG
+126;79754;16099;credit-bureau-data;table query_cr_obligaciones_1;;3;25/09/2023;DZ2OE16DL90MG
+127;79754;16099;credit-bureau-data;table query_cr_obligaciones_2;;3;25/09/2023;DZ2OE16DL90MG
+128;79754;16099;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DZ2OE16DL90MG
+129;79754;16099;bank-statement-data;bank_statement_result;found;3;25/09/2023;DZ2OE16DL90MG
+130;79754;16099;bank-statement-data;id_document;21.207.213.712.137.200.000;3;25/09/2023;DZ2OE16DL90MG
+131;79754;16099;bank-statement-data;bank_account_validation;1,2,2,2;3;25/09/2023;DZ2OE16DL90MG
+132;79754;16099;bank-statement-data;bank_statement_no_days;123;3;25/09/2023;DZ2OE16DL90MG
+133;79754;16099;bank-statement-data;bank_statement_max_days_passed;87;3;25/09/2023;DZ2OE16DL90MG
+134;79754;16099;bank-statement-data;bank_no_records;58;3;25/09/2023;DZ2OE16DL90MG
+135;79754;16099;bank-statement-data;bank_monthly_avg_blance;2333334,493;3;25/09/2023;DZ2OE16DL90MG
+136;79754;16099;bank-statement-data;bank_monthly_avg_credit_value;6829062,373;3;25/09/2023;DZ2OE16DL90MG
+137;79754;16099;bank-statement-data;bank_monthly_avg_debit_value;-3694931;3;25/09/2023;DZ2OE16DL90MG
+138;79754;16099;bank-statement-data;bank_monthly_avg_payroll_value;0;3;25/09/2023;DZ2OE16DL90MG
+139;79754;16099;bank-statement-data;bank_monthly_avg_no_credit_records;4,5;3;25/09/2023;DZ2OE16DL90MG
+140;79754;16099;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;25/09/2023;DZ2OE16DL90MG
+141;79754;16099;income-tax-return-data;tax_report_result;found;3;25/09/2023;DZ2OE16DL90MG
+142;79754;16099;income-tax-return-data;tax_report_year;2022;3;25/09/2023;DZ2OE16DL90MG
+143;79754;16099;income-tax-return-data;tax_report_total_income_value;$ 101.873.000,00;3;25/09/2023;DZ2OE16DL90MG
+144;79754;16099;income-tax-return-data;tax_report_total_assets_value;$ 513.923.000,00;3;25/09/2023;DZ2OE16DL90MG
+145;79754;16099;income-tax-return-data;tax_report_total_equity_value;$ 249.523.000,00;3;25/09/2023;DZ2OE16DL90MG
+146;79754;16099;income-tax-return-data;tax_report_total_debt_value;$ 264.400.000,00;3;25/09/2023;DZ2OE16DL90MG
+147;79754;16099;income-tax-return-data;tax_report_total_tax;$ 0,00;3;25/09/2023;DZ2OE16DL90MG
+148;79754;16099;income-tax-return-data;tax_report_value_to_pay;$ 0,00;3;25/09/2023;DZ2OE16DL90MG
+149;79754;16099;background-checks-data;public_db_result;found;3;25/09/2023;DZ2OE16DL90MG
+150;79754;16099;background-checks-data;public_db_check_id;CHKfbca05c02a5a4b1eed29b9a4d83bea60;3;25/09/2023;DZ2OE16DL90MG
+151;79754;16099;background-checks-data;public_db_check_id_date;25/09/2023 15:29;3;25/09/2023;DZ2OE16DL90MG
+152;79754;16099;background-checks-data;public_db_no_lawsuits;4;3;25/09/2023;DZ2OE16DL90MG
+153;79754;16099;background-checks-data;public_db_no_lawsuits_defendant;2;3;25/09/2023;DZ2OE16DL90MG
+154;79754;16099;background-checks-data;public_db_no_lawsuits_defendant_money;1;3;25/09/2023;DZ2OE16DL90MG
+155;79754;16099;background-checks-data;public_db_tax_responsable;no;3;25/09/2023;DZ2OE16DL90MG
+156;79754;16099;background-checks-data;public_db_tax_responsable_bdme;;3;25/09/2023;DZ2OE16DL90MG
+157;79754;16099;background-checks-data;public_db_medical_status;;3;25/09/2023;DZ2OE16DL90MG
+158;79754;16099;background-checks-data;public_db_medical_regime;;3;25/09/2023;DZ2OE16DL90MG
+159;79754;16099;background-checks-data;public_db_medical_type;;3;25/09/2023;DZ2OE16DL90MG
+160;79754;16099;background-checks-data;public_db_pension_status;;3;25/09/2023;DZ2OE16DL90MG
+161;79754;16099;background-checks-data;public_db_pension_regime;;3;25/09/2023;DZ2OE16DL90MG
+162;79754;16099;background-checks-data;public_db_ccf_status;;3;25/09/2023;DZ2OE16DL90MG
+163;79754;16099;background-checks-data;public_db_ccf_type;;3;25/09/2023;DZ2OE16DL90MG
+164;79754;16099;background-checks-data;public_db_welfare_status;;3;25/09/2023;DZ2OE16DL90MG
+165;79754;16099;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;25/09/2023;DZ2OE16DL90MG
+166;79754;16099;background-checks-data;public_db_check_dni;vigente;3;25/09/2023;DZ2OE16DL90MG
+167;79754;16099;background-checks-data;public_db_check_pedofile;found-none;3;25/09/2023;DZ2OE16DL90MG
+168;79754;16099;background-checks-data;public_db_personal_identity_score;10;3;25/09/2023;DZ2OE16DL90MG
+169;79754;16099;background-checks-data;public_db_criminal_record_score;10;3;25/09/2023;DZ2OE16DL90MG
+170;79754;16099;background-checks-data;public_db_legal_background_score;2;3;25/09/2023;DZ2OE16DL90MG
+171;79754;16099;background-checks-data;public_db_international_background_score;10;3;25/09/2023;DZ2OE16DL90MG
+172;79754;16099;background-checks-data;public_db_professional_background_score;0;3;25/09/2023;DZ2OE16DL90MG
+173;79754;16099;background-checks-data;public_db_affiliations_and_insurances_score;10;3;25/09/2023;DZ2OE16DL90MG
+174;79754;16099;background-checks-data;public_db_alert_in_media_score;10;3;25/09/2023;DZ2OE16DL90MG
+175;79754;16099;background-checks-data;public_db_taxes_and_finances_score;10;3;25/09/2023;DZ2OE16DL90MG
+176;79754;16099;background-checks-data;table data_proceso_judicial;;3;25/09/2023;DZ2OE16DL90MG
+177;79754;16099;snr-data;snr_result;found;3;25/09/2023;DZ2OE16DL90MG
+178;79754;16099;snr-data;snr_check_id;F20230925124341U16099S79754;3;25/09/2023;DZ2OE16DL90MG
+179;79754;16099;snr-data;snr_check_id_date;25/09/2023 12:43;3;25/09/2023;DZ2OE16DL90MG
+180;79754;16099;snr-data;snr_no_records;4;3;25/09/2023;DZ2OE16DL90MG
+181;79754;16099;snr-data;snr_no_unique_id_number;4;3;25/09/2023;DZ2OE16DL90MG
+182;79754;16099;snr-data;snr_estimated_unique_properties;4;3;25/09/2023;DZ2OE16DL90MG
+501;79855;11486;general-loan-data;line_of_credit;3;3;25/09/2023;DW9GE78PX26PG
+502;79855;11486;general-loan-data;type_of_loan;H;3;25/09/2023;DW9GE78PX26PG
+503;79855;11486;general-loan-data;id_loan_request;79855;3;25/09/2023;DW9GE78PX26PG
+504;79855;11486;general-loan-data;original_amount;$ 100.000.000,00;3;25/09/2023;DW9GE78PX26PG
+505;79855;11486;general-loan-data;pct_interest_rate;0,355016587;3;25/09/2023;DW9GE78PX26PG
+506;79855;11486;general-loan-data;loan_to_value_ratio;0,23637347;3;25/09/2023;DW9GE78PX26PG
+507;79855;11486;general-loan-data;amortization_schedule;0;3;25/09/2023;DW9GE78PX26PG
+508;79855;11486;general-loan-data;payment_frequency;30;3;25/09/2023;DW9GE78PX26PG
+509;79855;11486;general-loan-data;value_monthly_payments;$ 2.564.103,00;3;25/09/2023;DW9GE78PX26PG
+510;79855;11486;general-loan-data;loan_duration;12;3;25/09/2023;DW9GE78PX26PG
+511;79855;11486;general-loan-data;no_debtors;2;3;25/09/2023;DW9GE78PX26PG
+512;79855;11486;other-loan-data;use_of_funds;working capital;3;25/09/2023;DW9GE78PX26PG
+513;79855;11486;other-loan-data;advance_value;0;3;25/09/2023;DW9GE78PX26PG
+514;79855;11486;other-loan-data;advance_use_of_funds;;3;25/09/2023;DW9GE78PX26PG
+515;79855;11486;loan-scores;id_advisor;2503;3;25/09/2023;DW9GE78PX26PG
+516;79855;11486;loan-scores;beauty_score;8;3;25/09/2023;DW9GE78PX26PG
+517;79855;11486;loan-scores;cleaness_score;7;3;25/09/2023;DW9GE78PX26PG
+518;79855;11486;loan-scores;advisor_score;9;3;25/09/2023;DW9GE78PX26PG
+519;79855;11486;loan-scores;id_analist;6353;3;25/09/2023;DW9GE78PX26PG
+520;79855;11486;loan-scores;analist_score;10;3;25/09/2023;DW9GE78PX26PG
+521;79855;11486;loan-scores;id_inspector;0;3;25/09/2023;DW9GE78PX26PG
+522;79855;11486;loan-scores;inspection_score;0;3;25/09/2023;DW9GE78PX26PG
+523;79855;11486;collateral-data;id_collateral;755;3;25/09/2023;DW9GE78PX26PG
+524;79855;11486;collateral-data;type_collateral;lote;3;25/09/2023;DW9GE78PX26PG
+525;79855;11486;collateral-data;id_location_collateral;1058;3;25/09/2023;DW9GE78PX26PG
+526;79855;11486;collateral-data;location_collateral;villa de leiva;3;25/09/2023;DW9GE78PX26PG
+527;79855;11486;collateral-data;collateral_identification_number;070-246636;3;25/09/2023;DW9GE78PX26PG
+528;79855;11486;collateral-data;collateral_purchase_date;20/04/2022;3;25/09/2023;DW9GE78PX26PG
+529;79855;11486;collateral-data;collateral_tax_value;$ 100.000.000,00;3;25/09/2023;DW9GE78PX26PG
+530;79855;11486;collateral-data;collateral_commercial_value;$ 423.059.322,00;3;25/09/2023;DW9GE78PX26PG
+531;79855;11486;collateral-data;collateral_tax_to_value_ratio;0,2364;3;25/09/2023;DW9GE78PX26PG
+532;79855;11486;collateral-data;collateral_area;7435;3;25/09/2023;DW9GE78PX26PG
+533;79855;11486;collateral-data;collateral_condominium_status;no;3;25/09/2023;DW9GE78PX26PG
+534;79855;11486;collateral-data;collateral_tax_status;current;3;25/09/2023;DW9GE78PX26PG
+535;79855;11486;collateral-data;collateral_tax_delinquency_value;0;3;25/09/2023;DW9GE78PX26PG
+536;79855;11486;collateral-data;collateral_tax_no_delinquency_payments;0;3;25/09/2023;DW9GE78PX26PG
+537;79855;11486;collateral-data;collateral_admin_status;not_required;3;25/09/2023;DW9GE78PX26PG
+538;79855;11486;collateral-data;collateral_admin_delinquency_value;;3;25/09/2023;DW9GE78PX26PG
+539;79855;11486;collateral-data;collateral_admin_no_delinquency_payments;;3;25/09/2023;DW9GE78PX26PG
+540;79855;11486;collateral-taxes;tax_record_result;found;3;25/09/2023;DW9GE78PX26PG
+541;79855;11486;collateral-taxes;tax_record_no_records;1;3;25/09/2023;DW9GE78PX26PG
+542;79855;11486;collateral-taxes;tax_record_status;current;3;25/09/2023;DW9GE78PX26PG
+543;79855;11486;collateral-taxes;tax_record_delinquency_value;0;3;25/09/2023;DW9GE78PX26PG
+544;79855;11486;collateral-taxes;tax_record_no_delinquency_payments;0;3;25/09/2023;DW9GE78PX26PG
+545;79855;11486;collateral-taxes;tax_record_validation;ok;3;25/09/2023;DW9GE78PX26PG
+546;79855;11486;collateral-taxes;table data_tax_record;;3;25/09/2023;DW9GE78PX26PG
+547;79855;11486;personal-data;id_user;11486;3;25/09/2023;DW9GE78PX26PG
+548;79855;11486;personal-data;id_type_debtor;1;3;25/09/2023;DW9GE78PX26PG
+549;79855;11486;personal-data;debtor_full_name;;3;25/09/2023;DW9GE78PX26PG
+550;79855;11486;personal-data;debtor_age;63;3;25/09/2023;DW9GE78PX26PG
+551;79855;11486;personal-data;debtor_gender;male;3;25/09/2023;DW9GE78PX26PG
+552;79855;11486;personal-data;debtor_type_dni;cc;3;25/09/2023;DW9GE78PX26PG
+553;79855;11486;personal-data;debtor_dni;6763165;3;25/09/2023;DW9GE78PX26PG
+554;79855;11486;personal-data;id_debtor_nacionality;43;3;25/09/2023;DW9GE78PX26PG
+555;79855;11486;personal-data;id_debtor_country_residence;52;3;25/09/2023;DW9GE78PX26PG
+556;79855;11486;personal-data;id_debtor_dept_residence;11;3;25/09/2023;DW9GE78PX26PG
+557;79855;11486;personal-data;id_debtor_mun_residence;107;3;25/09/2023;DW9GE78PX26PG
+558;79855;11486;personal-data;debtor_date_birth;25/02/1960;3;25/09/2023;DW9GE78PX26PG
+559;79855;11486;personal-data;debtor_marital_status;single;3;25/09/2023;DW9GE78PX26PG
+560;79855;11486;personal-data;debtor_social_stratum;5;3;25/09/2023;DW9GE78PX26PG
+561;79855;11486;personal-data;debtor_level_of_education;7;3;25/09/2023;DW9GE78PX26PG
+562;79855;11486;personal-data;debtor_no_dependants;0;3;25/09/2023;DW9GE78PX26PG
+563;79855;11486;personal-data;debtor_file_tax_reports;yes;3;25/09/2023;DW9GE78PX26PG
+564;79855;11486;personal-data;debtor_tenure_at_curr_address;2;3;25/09/2023;DW9GE78PX26PG
+565;79855;11486;personal-data;debtor_abroad_residence;no;3;25/09/2023;DW9GE78PX26PG
+566;79855;11486;personal-data;debtor_reports_credit_agency;no;3;25/09/2023;DW9GE78PX26PG
+567;79855;11486;personal-data;debtor_reports_credit_agency_party;;3;25/09/2023;DW9GE78PX26PG
+568;79855;11486;personal-data;debtor_reports_credit_agency_party_other;;3;25/09/2023;DW9GE78PX26PG
+569;79855;11486;labour-data;debtor_employment_status;self-employed;3;25/09/2023;DW9GE78PX26PG
+570;79855;11486;labour-data;id_debtor_range_of_income;11;3;25/09/2023;DW9GE78PX26PG
+571;79855;11486;labour-data;payroll_frequency;30;3;25/09/2023;DW9GE78PX26PG
+572;79855;11486;labour-data;id_debtor_bank;16;3;25/09/2023;DW9GE78PX26PG
+573;79855;11486;labour-data;id_debtor_occupation;313;3;25/09/2023;DW9GE78PX26PG
+574;79855;11486;labour-data;debtor_occupation;arquitectos constructores;3;25/09/2023;DW9GE78PX26PG
+575;79855;11486;labour-data;id_debtor_position;0;3;25/09/2023;DW9GE78PX26PG
+576;79855;11486;labour-data;debtor_position;0;3;25/09/2023;DW9GE78PX26PG
+577;79855;11486;labour-data;debtor_business_type;;3;25/09/2023;DW9GE78PX26PG
+578;79855;11486;labour-data;debtor_business_name;;3;25/09/2023;DW9GE78PX26PG
+579;79855;11486;labour-data;debtor_business_date_admission;;3;25/09/2023;DW9GE78PX26PG
+580;79855;11486;labour-data;debtor_duration_of_curr_employment;0;3;25/09/2023;DW9GE78PX26PG
+581;79855;11486;labour-data;debtor_years_experience;5;3;25/09/2023;DW9GE78PX26PG
+582;79855;11486;labour-data;id_debtor_business_activity;6;3;25/09/2023;DW9GE78PX26PG
+583;79855;11486;labour-data;debtor_business_activity;construcción ;3;25/09/2023;DW9GE78PX26PG
+584;79855;11486;labour-data;debtor_business_phone;;3;25/09/2023;DW9GE78PX26PG
+585;79855;11486;labour-data;debtor_type_of_employment_contract;no-contract;3;25/09/2023;DW9GE78PX26PG
+586;79855;11486;labour-data;debtor_business_registration;no;3;25/09/2023;DW9GE78PX26PG
+587;79855;11486;labour-data;debtor_business_tin;;3;25/09/2023;DW9GE78PX26PG
+588;79855;11486;labour-data;id_debtor_other_income;0;3;25/09/2023;DW9GE78PX26PG
+589;79855;11486;labour-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DW9GE78PX26PG
+590;79855;11486;credit-bureau-data;report_result;found;3;25/09/2023;DW9GE78PX26PG
+591;79855;11486;credit-bureau-data;report_checkid;2,10E+19;3;25/09/2023;DW9GE78PX26PG
+592;79855;11486;credit-bureau-data;report_date;28/09/2023 11:47;3;25/09/2023;DW9GE78PX26PG
+593;79855;11486;credit-bureau-data;debtor_credit_agency;transunion;3;25/09/2023;DW9GE78PX26PG
+594;79855;11486;credit-bureau-data;debtor_credit_score;494;3;25/09/2023;DW9GE78PX26PG
+595;79855;11486;credit-bureau-data;debtor_default_loans;1;3;25/09/2023;DW9GE78PX26PG
+596;79855;11486;credit-bureau-data;debtor_credit_agency_min_probable_income;1841800;3;25/09/2023;DW9GE78PX26PG
+597;79855;11486;credit-bureau-data;debtor_payment_capacity;-473922;3;25/09/2023;DW9GE78PX26PG
+598;79855;11486;credit-bureau-data;debtor_current_loan_value;74735;3;25/09/2023;DW9GE78PX26PG
+599;79855;11486;credit-bureau-data;debtor_current_no_loans;4;3;25/09/2023;DW9GE78PX26PG
+600;79855;11486;credit-bureau-data;debtor_current_total_payment;1797;3;25/09/2023;DW9GE78PX26PG
+601;79855;11486;credit-bureau-data;debtor_current_delinquency_value;2107;3;25/09/2023;DW9GE78PX26PG
+602;79855;11486;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+603;79855;11486;credit-bureau-data;debtor_total_loan_value;137364;3;25/09/2023;DW9GE78PX26PG
+604;79855;11486;credit-bureau-data;debtor_total_no_loans;10;3;25/09/2023;DW9GE78PX26PG
+605;79855;11486;credit-bureau-data;debtor_total_highest_loan_value;24/12/2129 0:00;3;25/09/2023;DW9GE78PX26PG
+606;79855;11486;credit-bureau-data;debtor_total_no_bad_reports;5;3;25/09/2023;DW9GE78PX26PG
+607;79855;11486;credit-bureau-data;debtor_total_max_bad_reports;5;3;25/09/2023;DW9GE78PX26PG
+608;79855;11486;credit-bureau-data;debtor_total_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+609;79855;11486;credit-bureau-data;debtor_total_no_similar_loans;1;3;25/09/2023;DW9GE78PX26PG
+610;79855;11486;credit-bureau-data;debtor_closed_loan_value;119500;3;25/09/2023;DW9GE78PX26PG
+611;79855;11486;credit-bureau-data;debtor_closed_no_loans;7;3;25/09/2023;DW9GE78PX26PG
+612;79855;11486;credit-bureau-data;debtor_closed_highest_loan_value;84000;3;25/09/2023;DW9GE78PX26PG
+613;79855;11486;credit-bureau-data;debtor_closed_no_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+614;79855;11486;credit-bureau-data;debtor_closed_max_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+615;79855;11486;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+616;79855;11486;credit-bureau-data;debtor_closed_no_similar_loans;1;3;25/09/2023;DW9GE78PX26PG
+617;79855;11486;credit-bureau-data;debtor_current_highest_loan_value;12451;3;25/09/2023;DW9GE78PX26PG
+618;79855;11486;credit-bureau-data;debtor_current_no_bad_reports;5;3;25/09/2023;DW9GE78PX26PG
+619;79855;11486;credit-bureau-data;debtor_current_max_bad_reports;5;3;25/09/2023;DW9GE78PX26PG
+620;79855;11486;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+621;79855;11486;credit-bureau-data;debtor_current_no_similar_loans;0;3;25/09/2023;DW9GE78PX26PG
+622;79855;11486;credit-bureau-data;debtor_current_no_tcr;0;3;25/09/2023;DW9GE78PX26PG
+623;79855;11486;credit-bureau-data;debtor_current_tcr_initial_limit;0;3;25/09/2023;DW9GE78PX26PG
+624;79855;11486;credit-bureau-data;debtor_current_tcr_value;0;3;25/09/2023;DW9GE78PX26PG
+625;79855;11486;credit-bureau-data;debtor_current_tcr_usage;0;3;25/09/2023;DW9GE78PX26PG
+626;79855;11486;credit-bureau-data;table query_cr_obligaciones_1;;3;25/09/2023;DW9GE78PX26PG
+627;79855;11486;credit-bureau-data;table query_cr_obligaciones_2;;3;25/09/2023;DW9GE78PX26PG
+628;79855;11486;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DW9GE78PX26PG
+629;79855;11486;bank-statement-data;bank_statement_result;found;3;25/09/2023;DW9GE78PX26PG
+630;79855;11486;bank-statement-data;id_document;215.252.152.621.527;3;25/09/2023;DW9GE78PX26PG
+631;79855;11486;bank-statement-data;bank_account_validation;2,2,2;3;25/09/2023;DW9GE78PX26PG
+632;79855;11486;bank-statement-data;bank_statement_no_days;92;3;25/09/2023;DW9GE78PX26PG
+633;79855;11486;bank-statement-data;bank_statement_max_days_passed;27/03/1900 0:00;3;25/09/2023;DW9GE78PX26PG
+634;79855;11486;bank-statement-data;bank_no_records;47;3;25/09/2023;DW9GE78PX26PG
+635;79855;11486;bank-statement-data;bank_monthly_avg_blance;476841,39;3;25/09/2023;DW9GE78PX26PG
+636;79855;11486;bank-statement-data;bank_monthly_avg_credit_value;19466460,45;3;25/09/2023;DW9GE78PX26PG
+637;79855;11486;bank-statement-data;bank_monthly_avg_debit_value;-19466849;3;25/09/2023;DW9GE78PX26PG
+638;79855;11486;bank-statement-data;bank_monthly_avg_payroll_value;0;3;25/09/2023;DW9GE78PX26PG
+639;79855;11486;bank-statement-data;bank_monthly_avg_no_credit_records;2;3;25/09/2023;DW9GE78PX26PG
+640;79855;11486;bank-statement-data;bank_monthly_avg_no_payroll_records;$ 0,00;3;25/09/2023;DW9GE78PX26PG
+641;79855;11486;income-tax-return-data;tax_report_result;found;3;25/09/2023;DW9GE78PX26PG
+642;79855;11486;income-tax-return-data;tax_report_year;2022;3;25/09/2023;DW9GE78PX26PG
+643;79855;11486;income-tax-return-data;tax_report_total_income_value;$ 3.780.000,00;3;25/09/2023;DW9GE78PX26PG
+644;79855;11486;income-tax-return-data;tax_report_total_assets_value;$ 185.916.000,00;3;25/09/2023;DW9GE78PX26PG
+645;79855;11486;income-tax-return-data;tax_report_total_equity_value;$ 145.639.000,00;3;25/09/2023;DW9GE78PX26PG
+646;79855;11486;income-tax-return-data;tax_report_total_debt_value;$ 40.277.000,00;3;25/09/2023;DW9GE78PX26PG
+647;79855;11486;income-tax-return-data;tax_report_total_tax;$ 0,00;3;25/09/2023;DW9GE78PX26PG
+648;79855;11486;income-tax-return-data;tax_report_value_to_pay;$ 0,00;3;25/09/2023;DW9GE78PX26PG
+649;79855;11486;background-checks-data;public_db_result;found;3;25/09/2023;DW9GE78PX26PG
+650;79855;11486;background-checks-data;public_db_check_id;CHK98eb22279ef1ca1caee28230e1e7de38;3;25/09/2023;DW9GE78PX26PG
+651;79855;11486;background-checks-data;public_db_check_id_date;28/09/2023 14:35;3;25/09/2023;DW9GE78PX26PG
+652;79855;11486;background-checks-data;public_db_no_lawsuits;18;3;25/09/2023;DW9GE78PX26PG
+653;79855;11486;background-checks-data;public_db_no_lawsuits_defendant;9;3;25/09/2023;DW9GE78PX26PG
+654;79855;11486;background-checks-data;public_db_no_lawsuits_defendant_money;7;3;25/09/2023;DW9GE78PX26PG
+655;79855;11486;background-checks-data;public_db_tax_responsable;no;3;25/09/2023;DW9GE78PX26PG
+656;79855;11486;background-checks-data;public_db_tax_responsable_bdme;;3;25/09/2023;DW9GE78PX26PG
+657;79855;11486;background-checks-data;public_db_medical_status;retirado;3;25/09/2023;DW9GE78PX26PG
+658;79855;11486;background-checks-data;public_db_medical_regime;contributivo;3;25/09/2023;DW9GE78PX26PG
+659;79855;11486;background-checks-data;public_db_medical_type;cotizante;3;25/09/2023;DW9GE78PX26PG
+660;79855;11486;background-checks-data;public_db_pension_status;inactivo;3;25/09/2023;DW9GE78PX26PG
+661;79855;11486;background-checks-data;public_db_pension_regime;pensiones: prima media;3;25/09/2023;DW9GE78PX26PG
+662;79855;11486;background-checks-data;public_db_ccf_status;;3;25/09/2023;DW9GE78PX26PG
+663;79855;11486;background-checks-data;public_db_ccf_type;;3;25/09/2023;DW9GE78PX26PG
+664;79855;11486;background-checks-data;public_db_welfare_status;;3;25/09/2023;DW9GE78PX26PG
+665;79855;11486;background-checks-data;public_db_police_check_result;is_missing;3;25/09/2023;DW9GE78PX26PG
+666;79855;11486;background-checks-data;public_db_check_dni;vigente;3;25/09/2023;DW9GE78PX26PG
+667;79855;11486;background-checks-data;public_db_check_pedofile;error-unknown;3;25/09/2023;DW9GE78PX26PG
+668;79855;11486;background-checks-data;public_db_personal_identity_score;10;3;25/09/2023;DW9GE78PX26PG
+669;79855;11486;background-checks-data;public_db_criminal_record_score;10;3;25/09/2023;DW9GE78PX26PG
+670;79855;11486;background-checks-data;public_db_legal_background_score;0;3;25/09/2023;DW9GE78PX26PG
+671;79855;11486;background-checks-data;public_db_international_background_score;10;3;25/09/2023;DW9GE78PX26PG
+672;79855;11486;background-checks-data;public_db_professional_background_score;10;3;25/09/2023;DW9GE78PX26PG
+673;79855;11486;background-checks-data;public_db_affiliations_and_insurances_score;10;3;25/09/2023;DW9GE78PX26PG
+674;79855;11486;background-checks-data;public_db_alert_in_media_score;10;3;25/09/2023;DW9GE78PX26PG
+675;79855;11486;background-checks-data;public_db_taxes_and_finances_score;10;3;25/09/2023;DW9GE78PX26PG
+676;79855;11486;background-checks-data;table data_proceso_judicial;;3;25/09/2023;DW9GE78PX26PG
+677;79855;11486;snr-data;snr_result;found;3;25/09/2023;DW9GE78PX26PG
+678;79855;11486;snr-data;snr_check_id;F20230928115908U11486S79855;3;25/09/2023;DW9GE78PX26PG
+679;79855;11486;snr-data;snr_check_id_date;28/09/2023 11:59;3;25/09/2023;DW9GE78PX26PG
+680;79855;11486;snr-data;snr_no_records;2;3;25/09/2023;DW9GE78PX26PG
+681;79855;11486;snr-data;snr_no_unique_id_number;2;3;25/09/2023;DW9GE78PX26PG
+682;79855;11486;snr-data;snr_estimated_unique_properties;manual_review;3;25/09/2023;DW9GE78PX26PG
+683;79855;11488;personal-data;id_user;11488;3;25/09/2023;DW9GE78PX26PG
+684;79855;11488;personal-data;id_type_debtor;2;3;25/09/2023;DW9GE78PX26PG
+685;79855;11488;personal-data;debtor_full_name;;3;25/09/2023;DW9GE78PX26PG
+686;79855;11488;personal-data;debtor_age;63;3;25/09/2023;DW9GE78PX26PG
+687;79855;11488;personal-data;debtor_gender;female;3;25/09/2023;DW9GE78PX26PG
+688;79855;11488;personal-data;debtor_type_dni;cc;3;25/09/2023;DW9GE78PX26PG
+689;79855;11488;personal-data;debtor_dni;40014588;3;25/09/2023;DW9GE78PX26PG
+690;79855;11488;personal-data;id_debtor_nacionality;43;3;25/09/2023;DW9GE78PX26PG
+691;79855;11488;personal-data;id_debtor_country_residence;52;3;25/09/2023;DW9GE78PX26PG
+692;79855;11488;personal-data;id_debtor_dept_residence;11;3;25/09/2023;DW9GE78PX26PG
+693;79855;11488;personal-data;id_debtor_mun_residence;107;3;25/09/2023;DW9GE78PX26PG
+694;79855;11488;personal-data;debtor_date_birth;9/08/1960;3;25/09/2023;DW9GE78PX26PG
+695;79855;11488;personal-data;debtor_marital_status;single;3;25/09/2023;DW9GE78PX26PG
+696;79855;11488;personal-data;debtor_social_stratum;6;3;25/09/2023;DW9GE78PX26PG
+697;79855;11488;personal-data;debtor_level_of_education;7;3;25/09/2023;DW9GE78PX26PG
+698;79855;11488;personal-data;debtor_no_dependants;1;3;25/09/2023;DW9GE78PX26PG
+699;79855;11488;personal-data;debtor_file_tax_reports;yes;3;25/09/2023;DW9GE78PX26PG
+700;79855;11488;personal-data;debtor_tenure_at_curr_address;3;3;25/09/2023;DW9GE78PX26PG
+701;79855;11488;personal-data;debtor_abroad_residence;no;3;25/09/2023;DW9GE78PX26PG
+702;79855;11488;personal-data;debtor_reports_credit_agency;no;3;25/09/2023;DW9GE78PX26PG
+703;79855;11488;personal-data;debtor_reports_credit_agency_party;;3;25/09/2023;DW9GE78PX26PG
+704;79855;11488;personal-data;debtor_reports_credit_agency_party_other;;3;25/09/2023;DW9GE78PX26PG
+705;79855;11488;labour-data;debtor_employment_status;retired;3;25/09/2023;DW9GE78PX26PG
+706;79855;11488;labour-data;id_debtor_range_of_income;14;3;25/09/2023;DW9GE78PX26PG
+707;79855;11488;labour-data;payroll_frequency;30;3;25/09/2023;DW9GE78PX26PG
+708;79855;11488;labour-data;id_debtor_bank;4;3;25/09/2023;DW9GE78PX26PG
+709;79855;11488;labour-data;id_debtor_occupation;1;3;25/09/2023;DW9GE78PX26PG
+710;79855;11488;labour-data;debtor_occupation;abogado (a);3;25/09/2023;DW9GE78PX26PG
+711;79855;11488;labour-data;id_debtor_position;0;3;25/09/2023;DW9GE78PX26PG
+712;79855;11488;labour-data;debtor_position;0;3;25/09/2023;DW9GE78PX26PG
+713;79855;11488;labour-data;debtor_business_type;;3;25/09/2023;DW9GE78PX26PG
+714;79855;11488;labour-data;debtor_business_name;;3;25/09/2023;DW9GE78PX26PG
+715;79855;11488;labour-data;debtor_business_date_admission;;3;25/09/2023;DW9GE78PX26PG
+716;79855;11488;labour-data;debtor_duration_of_curr_employment;0;3;25/09/2023;DW9GE78PX26PG
+717;79855;11488;labour-data;debtor_years_experience;0;3;25/09/2023;DW9GE78PX26PG
+718;79855;11488;labour-data;id_debtor_business_activity;0;3;25/09/2023;DW9GE78PX26PG
+719;79855;11488;labour-data;debtor_business_activity;0;3;25/09/2023;DW9GE78PX26PG
+720;79855;11488;labour-data;debtor_business_phone;;3;25/09/2023;DW9GE78PX26PG
+721;79855;11488;labour-data;debtor_type_of_employment_contract;no-contract;3;25/09/2023;DW9GE78PX26PG
+722;79855;11488;labour-data;debtor_business_registration;;3;25/09/2023;DW9GE78PX26PG
+723;79855;11488;labour-data;debtor_business_tin;;3;25/09/2023;DW9GE78PX26PG
+724;79855;11488;labour-data;id_debtor_other_income;4;3;25/09/2023;DW9GE78PX26PG
+725;79855;11488;labour-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DW9GE78PX26PG
+726;79855;11488;credit-bureau-data;report_result;found;3;25/09/2023;DW9GE78PX26PG
+727;79855;11488;credit-bureau-data;report_checkid;2,10E+19;3;25/09/2023;DW9GE78PX26PG
+728;79855;11488;credit-bureau-data;report_date;28/09/2023 11:48;3;25/09/2023;DW9GE78PX26PG
+729;79855;11488;credit-bureau-data;debtor_credit_agency;transunion;3;25/09/2023;DW9GE78PX26PG
+730;79855;11488;credit-bureau-data;debtor_credit_score;601;3;25/09/2023;DW9GE78PX26PG
+731;79855;11488;credit-bureau-data;debtor_default_loans;0;3;25/09/2023;DW9GE78PX26PG
+732;79855;11488;credit-bureau-data;debtor_credit_agency_min_probable_income;;3;25/09/2023;DW9GE78PX26PG
+733;79855;11488;credit-bureau-data;debtor_payment_capacity;;3;25/09/2023;DW9GE78PX26PG
+734;79855;11488;credit-bureau-data;debtor_current_loan_value;1016934;3;25/09/2023;DW9GE78PX26PG
+735;79855;11488;credit-bureau-data;debtor_current_no_loans;18;3;25/09/2023;DW9GE78PX26PG
+736;79855;11488;credit-bureau-data;debtor_current_total_payment;12662;3;25/09/2023;DW9GE78PX26PG
+737;79855;11488;credit-bureau-data;debtor_current_delinquency_value;0;3;25/09/2023;DW9GE78PX26PG
+738;79855;11488;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+739;79855;11488;credit-bureau-data;debtor_total_loan_value;3126761;3;25/09/2023;DW9GE78PX26PG
+740;79855;11488;credit-bureau-data;debtor_total_no_loans;59;3;25/09/2023;DW9GE78PX26PG
+741;79855;11488;credit-bureau-data;debtor_total_highest_loan_value;284600;3;25/09/2023;DW9GE78PX26PG
+742;79855;11488;credit-bureau-data;debtor_total_no_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+743;79855;11488;credit-bureau-data;debtor_total_max_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+744;79855;11488;credit-bureau-data;debtor_total_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+745;79855;11488;credit-bureau-data;debtor_total_no_similar_loans;13;3;25/09/2023;DW9GE78PX26PG
+746;79855;11488;credit-bureau-data;debtor_closed_loan_value;2384101;3;25/09/2023;DW9GE78PX26PG
+747;79855;11488;credit-bureau-data;debtor_closed_no_loans;46;3;25/09/2023;DW9GE78PX26PG
+748;79855;11488;credit-bureau-data;debtor_closed_highest_loan_value;284600;3;25/09/2023;DW9GE78PX26PG
+749;79855;11488;credit-bureau-data;debtor_closed_no_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+750;79855;11488;credit-bureau-data;debtor_closed_max_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+751;79855;11488;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;25/09/2023;DW9GE78PX26PG
+752;79855;11488;credit-bureau-data;debtor_closed_no_similar_loans;10;3;25/09/2023;DW9GE78PX26PG
+753;79855;11488;credit-bureau-data;debtor_current_highest_loan_value;252383;3;25/09/2023;DW9GE78PX26PG
+754;79855;11488;credit-bureau-data;debtor_current_no_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+755;79855;11488;credit-bureau-data;debtor_current_max_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+756;79855;11488;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;25/09/2023;DW9GE78PX26PG
+757;79855;11488;credit-bureau-data;debtor_current_no_similar_loans;3;3;25/09/2023;DW9GE78PX26PG
+758;79855;11488;credit-bureau-data;debtor_current_no_tcr;4;3;25/09/2023;DW9GE78PX26PG
+759;79855;11488;credit-bureau-data;debtor_current_tcr_initial_limit;16382;3;25/09/2023;DW9GE78PX26PG
+760;79855;11488;credit-bureau-data;debtor_current_tcr_value;16678;3;25/09/2023;DW9GE78PX26PG
+761;79855;11488;credit-bureau-data;debtor_current_tcr_usage;1,018068612;3;25/09/2023;DW9GE78PX26PG
+762;79855;11488;credit-bureau-data;table query_cr_obligaciones_1;;3;25/09/2023;DW9GE78PX26PG
+763;79855;11488;credit-bureau-data;table query_cr_obligaciones_2;;3;25/09/2023;DW9GE78PX26PG
+764;79855;11488;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;25/09/2023;DW9GE78PX26PG
+765;79855;11488;bank-statement-data;bank_statement_result;found;3;25/09/2023;DW9GE78PX26PG
+766;79855;11488;bank-statement-data;id_document;21.540;3;25/09/2023;DW9GE78PX26PG
+767;79855;11488;bank-statement-data;bank_account_validation;1;3;25/09/2023;DW9GE78PX26PG
+768;79855;11488;bank-statement-data;bank_statement_no_days;92;3;25/09/2023;DW9GE78PX26PG
+769;79855;11488;bank-statement-data;bank_statement_max_days_passed;87;3;25/09/2023;DW9GE78PX26PG
+770;79855;11488;bank-statement-data;bank_no_records;22;3;25/09/2023;DW9GE78PX26PG
+771;79855;11488;bank-statement-data;bank_monthly_avg_blance;14686;3;25/09/2023;DW9GE78PX26PG
+772;79855;11488;bank-statement-data;bank_monthly_avg_credit_value;2695333,88;3;25/09/2023;DW9GE78PX26PG
+773;79855;11488;bank-statement-data;bank_monthly_avg_debit_value;2853798,77;3;25/09/2023;DW9GE78PX26PG
+774;79855;11488;bank-statement-data;bank_monthly_avg_payroll_value;0;3;25/09/2023;DW9GE78PX26PG
+775;79855;11488;bank-statement-data;bank_monthly_avg_no_credit_records;3;3;25/09/2023;DW9GE78PX26PG
+776;79855;11488;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;25/09/2023;DW9GE78PX26PG
+777;79855;11488;income-tax-return-data;tax_report_result;found;3;25/09/2023;DW9GE78PX26PG
+778;79855;11488;income-tax-return-data;tax_report_year;2021;3;25/09/2023;DW9GE78PX26PG
+779;79855;11488;income-tax-return-data;tax_report_total_income_value;24870000;3;25/09/2023;DW9GE78PX26PG
+780;79855;11488;income-tax-return-data;tax_report_total_assets_value;1880139000;3;25/09/2023;DW9GE78PX26PG
+781;79855;11488;income-tax-return-data;tax_report_total_equity_value;707267000;3;25/09/2023;DW9GE78PX26PG
+782;79855;11488;income-tax-return-data;tax_report_total_debt_value;1172872000;3;25/09/2023;DW9GE78PX26PG
+783;79855;11488;income-tax-return-data;tax_report_total_tax;0;3;25/09/2023;DW9GE78PX26PG
+784;79855;11488;income-tax-return-data;tax_report_value_to_pay;0;3;25/09/2023;DW9GE78PX26PG
+785;79855;11488;background-checks-data;public_db_result;found;3;25/09/2023;DW9GE78PX26PG
+786;79855;11488;background-checks-data;public_db_check_id;CHKf2ec8942d8a8a9d44e19cda59dba625e;3;25/09/2023;DW9GE78PX26PG
+787;79855;11488;background-checks-data;public_db_check_id_date;28/09/2023 14:35;3;25/09/2023;DW9GE78PX26PG
+788;79855;11488;background-checks-data;public_db_no_lawsuits;17;3;25/09/2023;DW9GE78PX26PG
+789;79855;11488;background-checks-data;public_db_no_lawsuits_defendant;8;3;25/09/2023;DW9GE78PX26PG
+790;79855;11488;background-checks-data;public_db_no_lawsuits_defendant_money;7;3;25/09/2023;DW9GE78PX26PG
+791;79855;11488;background-checks-data;public_db_tax_responsable;no;3;25/09/2023;DW9GE78PX26PG
+792;79855;11488;background-checks-data;public_db_tax_responsable_bdme;;3;25/09/2023;DW9GE78PX26PG
+793;79855;11488;background-checks-data;public_db_medical_status;;3;25/09/2023;DW9GE78PX26PG
+794;79855;11488;background-checks-data;public_db_medical_regime;;3;25/09/2023;DW9GE78PX26PG
+795;79855;11488;background-checks-data;public_db_medical_type;;3;25/09/2023;DW9GE78PX26PG
+796;79855;11488;background-checks-data;public_db_pension_status;;3;25/09/2023;DW9GE78PX26PG
+797;79855;11488;background-checks-data;public_db_pension_regime;;3;25/09/2023;DW9GE78PX26PG
+798;79855;11488;background-checks-data;public_db_ccf_status;;3;25/09/2023;DW9GE78PX26PG
+799;79855;11488;background-checks-data;public_db_ccf_type;;3;25/09/2023;DW9GE78PX26PG
+800;79855;11488;background-checks-data;public_db_welfare_status;;3;25/09/2023;DW9GE78PX26PG
+801;79855;11488;background-checks-data;public_db_police_check_result;is_missing;3;25/09/2023;DW9GE78PX26PG
+802;79855;11488;background-checks-data;public_db_check_dni;vigente;3;25/09/2023;DW9GE78PX26PG
+803;79855;11488;background-checks-data;public_db_check_pedofile;error-unknown;3;25/09/2023;DW9GE78PX26PG
+804;79855;11488;background-checks-data;public_db_personal_identity_score;10;3;25/09/2023;DW9GE78PX26PG
+805;79855;11488;background-checks-data;public_db_criminal_record_score;10;3;25/09/2023;DW9GE78PX26PG
+806;79855;11488;background-checks-data;public_db_legal_background_score;0;3;25/09/2023;DW9GE78PX26PG
+807;79855;11488;background-checks-data;public_db_international_background_score;10;3;25/09/2023;DW9GE78PX26PG
+808;79855;11488;background-checks-data;public_db_professional_background_score;10;3;25/09/2023;DW9GE78PX26PG
+809;79855;11488;background-checks-data;public_db_affiliations_and_insurances_score;10;3;25/09/2023;DW9GE78PX26PG
+810;79855;11488;background-checks-data;public_db_alert_in_media_score;10;3;25/09/2023;DW9GE78PX26PG
+811;79855;11488;background-checks-data;public_db_taxes_and_finances_score;10;3;25/09/2023;DW9GE78PX26PG
+812;79855;11488;background-checks-data;table data_proceso_judicial;;3;25/09/2023;DW9GE78PX26PG
+813;79855;11488;snr-data;snr_result;found;3;25/09/2023;DW9GE78PX26PG
+814;79855;11488;snr-data;snr_check_id;F20230928115508U11488S79855;3;25/09/2023;DW9GE78PX26PG
+815;79855;11488;snr-data;snr_check_id_date;28/09/2023 11:55;3;25/09/2023;DW9GE78PX26PG
+816;79855;11488;snr-data;snr_no_records;6;3;25/09/2023;DW9GE78PX26PG
+817;79855;11488;snr-data;snr_no_unique_id_number;6;3;25/09/2023;DW9GE78PX26PG
+818;79855;11488;snr-data;snr_estimated_unique_properties;6;3;25/09/2023;DW9GE78PX26PG
+1137;78486;4710;general-loan-data;line_of_credit;3;3;6/10/2023;DX0BY12YF17VS
+1138;78486;4710;general-loan-data;type_of_loan;H;3;6/10/2023;DX0BY12YF17VS
+1139;78486;4710;general-loan-data;id_loan_request;78486;3;6/10/2023;DX0BY12YF17VS
+1140;78486;4710;general-loan-data;original_amount;$ 70.000.000,00;3;6/10/2023;DX0BY12YF17VS
+1141;78486;4710;general-loan-data;pct_interest_rate;0,322102832;3;6/10/2023;DX0BY12YF17VS
+1142;78486;4710;general-loan-data;loan_to_value_ratio;0,475644307;3;6/10/2023;DX0BY12YF17VS
+1143;78486;4710;general-loan-data;amortization_schedule;1;3;6/10/2023;DX0BY12YF17VS
+1144;78486;4710;general-loan-data;payment_frequency;30;3;6/10/2023;DX0BY12YF17VS
+1145;78486;4710;general-loan-data;value_monthly_payments;$ 1.850.834,00;3;6/10/2023;DX0BY12YF17VS
+1146;78486;4710;general-loan-data;loan_duration;95;3;6/10/2023;DX0BY12YF17VS
+1147;78486;4710;general-loan-data;no_debtors;2;3;6/10/2023;DX0BY12YF17VS
+1148;78486;4710;other-loan-data;use_of_funds;remodeling or adaptations;3;6/10/2023;DX0BY12YF17VS
+1149;78486;4710;other-loan-data;advance_value;0;3;6/10/2023;DX0BY12YF17VS
+1150;78486;4710;other-loan-data;advance_use_of_funds;;3;6/10/2023;DX0BY12YF17VS
+1151;78486;4710;loan-scores;id_advisor;2503;3;6/10/2023;DX0BY12YF17VS
+1152;78486;4710;loan-scores;beauty_score;6;3;6/10/2023;DX0BY12YF17VS
+1153;78486;4710;loan-scores;cleaness_score;6;3;6/10/2023;DX0BY12YF17VS
+1154;78486;4710;loan-scores;advisor_score;1;3;6/10/2023;DX0BY12YF17VS
+1155;78486;4710;loan-scores;id_analist;6353;3;6/10/2023;DX0BY12YF17VS
+1156;78486;4710;loan-scores;analist_score;4;3;6/10/2023;DX0BY12YF17VS
+1157;78486;4710;loan-scores;id_inspector;0;3;6/10/2023;DX0BY12YF17VS
+1158;78486;4710;loan-scores;inspection_score;0;3;6/10/2023;DX0BY12YF17VS
+1159;78486;4710;collateral-data;id_collateral;186;3;6/10/2023;DX0BY12YF17VS
+1160;78486;4710;collateral-data;type_collateral;casa;3;6/10/2023;DX0BY12YF17VS
+1161;78486;4710;collateral-data;id_location_collateral;107;3;6/10/2023;DX0BY12YF17VS
+1162;78486;4710;collateral-data;location_collateral;bogota d.c.;3;6/10/2023;DX0BY12YF17VS
+1163;78486;4710;collateral-data;collateral_identification_number;50S-40225726;3;6/10/2023;DX0BY12YF17VS
+1164;78486;4710;collateral-data;collateral_purchase_date;19/07/1995;3;6/10/2023;DX0BY12YF17VS
+1165;78486;4710;collateral-data;collateral_tax_value;$ 93.910.000,00;3;6/10/2023;DX0BY12YF17VS
+1166;78486;4710;collateral-data;collateral_commercial_value;$ 147.168.796,00;3;6/10/2023;DX0BY12YF17VS
+1167;78486;4710;collateral-data;collateral_tax_to_value_ratio;0,6381;3;6/10/2023;DX0BY12YF17VS
+1168;78486;4710;collateral-data;collateral_area;173;3;6/10/2023;DX0BY12YF17VS
+1169;78486;4710;collateral-data;collateral_condominium_status;no;3;6/10/2023;DX0BY12YF17VS
+1170;78486;4710;collateral-data;collateral_tax_status;current;3;6/10/2023;DX0BY12YF17VS
+1171;78486;4710;collateral-data;collateral_tax_delinquency_value;0;3;6/10/2023;DX0BY12YF17VS
+1172;78486;4710;collateral-data;collateral_tax_no_delinquency_payments;0;3;6/10/2023;DX0BY12YF17VS
+1173;78486;4710;collateral-data;collateral_admin_status;not_required;3;6/10/2023;DX0BY12YF17VS
+1174;78486;4710;collateral-data;collateral_admin_delinquency_value;;3;6/10/2023;DX0BY12YF17VS
+1175;78486;4710;collateral-data;collateral_admin_no_delinquency_payments;;3;6/10/2023;DX0BY12YF17VS
+1176;78486;4710;collateral-taxes;tax_record_result;found;3;6/10/2023;DX0BY12YF17VS
+1177;78486;4710;collateral-taxes;tax_record_no_records;1;3;6/10/2023;DX0BY12YF17VS
+1178;78486;4710;collateral-taxes;tax_record_status;current;3;6/10/2023;DX0BY12YF17VS
+1179;78486;4710;collateral-taxes;tax_record_delinquency_value;0;3;6/10/2023;DX0BY12YF17VS
+1180;78486;4710;collateral-taxes;tax_record_no_delinquency_payments;0;3;6/10/2023;DX0BY12YF17VS
+1181;78486;4710;collateral-taxes;tax_record_validation;ok;3;6/10/2023;DX0BY12YF17VS
+1182;78486;4710;collateral-taxes;table data_tax_record;;3;6/10/2023;DX0BY12YF17VS
+1183;78486;4710;personal-data;id_user;4710;3;6/10/2023;DX0BY12YF17VS
+1184;78486;4710;personal-data;id_type_debtor;1;3;6/10/2023;DX0BY12YF17VS
+1185;78486;4710;personal-data;debtor_full_name;;3;6/10/2023;DX0BY12YF17VS
+1186;78486;4710;personal-data;debtor_age;70;3;6/10/2023;DX0BY12YF17VS
+1187;78486;4710;personal-data;debtor_gender;male;3;6/10/2023;DX0BY12YF17VS
+1188;78486;4710;personal-data;debtor_type_dni;cc;3;6/10/2023;DX0BY12YF17VS
+1189;78486;4710;personal-data;debtor_dni;11405414;3;6/10/2023;DX0BY12YF17VS
+1190;78486;4710;personal-data;id_debtor_nacionality;43;3;6/10/2023;DX0BY12YF17VS
+1191;78486;4710;personal-data;id_debtor_country_residence;52;3;6/10/2023;DX0BY12YF17VS
+1192;78486;4710;personal-data;id_debtor_dept_residence;11;3;6/10/2023;DX0BY12YF17VS
+1193;78486;4710;personal-data;id_debtor_mun_residence;107;3;6/10/2023;DX0BY12YF17VS
+1194;78486;4710;personal-data;debtor_date_birth;10/09/1953;3;6/10/2023;DX0BY12YF17VS
+1195;78486;4710;personal-data;debtor_marital_status;married;3;6/10/2023;DX0BY12YF17VS
+1196;78486;4710;personal-data;debtor_social_stratum;2;3;6/10/2023;DX0BY12YF17VS
+1197;78486;4710;personal-data;debtor_level_of_education;2;3;6/10/2023;DX0BY12YF17VS
+1198;78486;4710;personal-data;debtor_no_dependants;0;3;6/10/2023;DX0BY12YF17VS
+1199;78486;4710;personal-data;debtor_file_tax_reports;no;3;6/10/2023;DX0BY12YF17VS
+1200;78486;4710;personal-data;debtor_tenure_at_curr_address;30;3;6/10/2023;DX0BY12YF17VS
+1201;78486;4710;personal-data;debtor_abroad_residence;no;3;6/10/2023;DX0BY12YF17VS
+1202;78486;4710;personal-data;debtor_reports_credit_agency;no;3;6/10/2023;DX0BY12YF17VS
+1203;78486;4710;personal-data;debtor_reports_credit_agency_party;;3;6/10/2023;DX0BY12YF17VS
+1204;78486;4710;personal-data;debtor_reports_credit_agency_party_other;;3;6/10/2023;DX0BY12YF17VS
+1205;78486;4710;labour-data;debtor_employment_status;self-employed;3;6/10/2023;DX0BY12YF17VS
+1206;78486;4710;labour-data;id_debtor_range_of_income;8;3;6/10/2023;DX0BY12YF17VS
+1207;78486;4710;labour-data;payroll_frequency;30;3;6/10/2023;DX0BY12YF17VS
+1208;78486;4710;labour-data;id_debtor_bank;16;3;6/10/2023;DX0BY12YF17VS
+1209;78486;4710;labour-data;id_debtor_occupation;353;3;6/10/2023;DX0BY12YF17VS
+1210;78486;4710;labour-data;debtor_occupation;otro;3;6/10/2023;DX0BY12YF17VS
+1211;78486;4710;labour-data;id_debtor_position;0;3;6/10/2023;DX0BY12YF17VS
+1212;78486;4710;labour-data;debtor_position;0;3;6/10/2023;DX0BY12YF17VS
+1213;78486;4710;labour-data;debtor_business_type;;3;6/10/2023;DX0BY12YF17VS
+1214;78486;4710;labour-data;debtor_business_name;;3;6/10/2023;DX0BY12YF17VS
+1215;78486;4710;labour-data;debtor_business_date_admission;;3;6/10/2023;DX0BY12YF17VS
+1216;78486;4710;labour-data;debtor_duration_of_curr_employment;0;3;6/10/2023;DX0BY12YF17VS
+1217;78486;4710;labour-data;debtor_years_experience;30;3;6/10/2023;DX0BY12YF17VS
+1218;78486;4710;labour-data;id_debtor_business_activity;5;3;6/10/2023;DX0BY12YF17VS
+1219;78486;4710;labour-data;debtor_business_activity;comercio ;3;6/10/2023;DX0BY12YF17VS
+1220;78486;4710;labour-data;debtor_business_phone;;3;6/10/2023;DX0BY12YF17VS
+1221;78486;4710;labour-data;debtor_type_of_employment_contract;no-contract;3;6/10/2023;DX0BY12YF17VS
+1222;78486;4710;labour-data;debtor_business_registration;no;3;6/10/2023;DX0BY12YF17VS
+1223;78486;4710;labour-data;debtor_business_tin;;3;6/10/2023;DX0BY12YF17VS
+1224;78486;4710;labour-data;id_debtor_other_income;0;3;6/10/2023;DX0BY12YF17VS
+1225;78486;4710;labour-data;table data_centrales_riesgo_obligaciones;;3;6/10/2023;DX0BY12YF17VS
+1226;78486;4710;credit-bureau-data;report_result;found;3;6/10/2023;DX0BY12YF17VS
+1227;78486;4710;credit-bureau-data;report_checkid;2,11E+19;3;6/10/2023;DX0BY12YF17VS
+1228;78486;4710;credit-bureau-data;report_date;10/05/2023 11:09;3;6/10/2023;DX0BY12YF17VS
+1229;78486;4710;credit-bureau-data;debtor_credit_agency;transunion;3;6/10/2023;DX0BY12YF17VS
+1230;78486;4710;credit-bureau-data;debtor_credit_score;343;3;6/10/2023;DX0BY12YF17VS
+1231;78486;4710;credit-bureau-data;debtor_default_loans;2;3;6/10/2023;DX0BY12YF17VS
+1232;78486;4710;credit-bureau-data;debtor_credit_agency_min_probable_income;3232200;3;6/10/2023;DX0BY12YF17VS
+1233;78486;4710;credit-bureau-data;debtor_payment_capacity;638880;3;6/10/2023;DX0BY12YF17VS
+1234;78486;4710;credit-bureau-data;debtor_current_loan_value;58153;3;6/10/2023;DX0BY12YF17VS
+1235;78486;4710;credit-bureau-data;debtor_current_no_loans;4;3;6/10/2023;DX0BY12YF17VS
+1236;78486;4710;credit-bureau-data;debtor_current_total_payment;1406;3;6/10/2023;DX0BY12YF17VS
+1237;78486;4710;credit-bureau-data;debtor_current_delinquency_value;57839;3;6/10/2023;DX0BY12YF17VS
+1238;78486;4710;credit-bureau-data;debtor_current_no_loans_w_bad_reports;3;3;6/10/2023;DX0BY12YF17VS
+1239;78486;4710;credit-bureau-data;debtor_total_loan_value;46576;3;6/10/2023;DX0BY12YF17VS
+1240;78486;4710;credit-bureau-data;debtor_total_no_loans;5;3;6/10/2023;DX0BY12YF17VS
+1241;78486;4710;credit-bureau-data;debtor_total_highest_loan_value;30000;3;6/10/2023;DX0BY12YF17VS
+1242;78486;4710;credit-bureau-data;debtor_total_no_bad_reports;56;3;6/10/2023;DX0BY12YF17VS
+1243;78486;4710;credit-bureau-data;debtor_total_max_bad_reports;12;3;6/10/2023;DX0BY12YF17VS
+1244;78486;4710;credit-bureau-data;debtor_total_no_loans_w_bad_reports;3;3;6/10/2023;DX0BY12YF17VS
+1245;78486;4710;credit-bureau-data;debtor_total_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1246;78486;4710;credit-bureau-data;debtor_closed_loan_value;33400;3;6/10/2023;DX0BY12YF17VS
+1247;78486;4710;credit-bureau-data;debtor_closed_no_loans;2;3;6/10/2023;DX0BY12YF17VS
+1248;78486;4710;credit-bureau-data;debtor_closed_highest_loan_value;30000;3;6/10/2023;DX0BY12YF17VS
+1249;78486;4710;credit-bureau-data;debtor_closed_no_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1250;78486;4710;credit-bureau-data;debtor_closed_max_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1251;78486;4710;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1252;78486;4710;credit-bureau-data;debtor_closed_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1253;78486;4710;credit-bureau-data;debtor_current_highest_loan_value;10266;3;6/10/2023;DX0BY12YF17VS
+1254;78486;4710;credit-bureau-data;debtor_current_no_bad_reports;56;3;6/10/2023;DX0BY12YF17VS
+1255;78486;4710;credit-bureau-data;debtor_current_max_bad_reports;12;3;6/10/2023;DX0BY12YF17VS
+1256;78486;4710;credit-bureau-data;debtor_current_no_loans_w_bad_reports;3;3;6/10/2023;DX0BY12YF17VS
+1257;78486;4710;credit-bureau-data;debtor_current_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1258;78486;4710;credit-bureau-data;debtor_current_no_tcr;0;3;6/10/2023;DX0BY12YF17VS
+1259;78486;4710;credit-bureau-data;debtor_current_tcr_initial_limit;0;3;6/10/2023;DX0BY12YF17VS
+1260;78486;4710;credit-bureau-data;debtor_current_tcr_value;0;3;6/10/2023;DX0BY12YF17VS
+1261;78486;4710;credit-bureau-data;debtor_current_tcr_usage;0;3;6/10/2023;DX0BY12YF17VS
+1262;78486;4710;credit-bureau-data;table query_cr_obligaciones_1;;3;6/10/2023;DX0BY12YF17VS
+1263;78486;4710;credit-bureau-data;table query_cr_obligaciones_2;;3;6/10/2023;DX0BY12YF17VS
+1264;78486;4710;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;6/10/2023;DX0BY12YF17VS
+1265;78486;4710;bank-statement-data;bank_statement_result;found;3;6/10/2023;DX0BY12YF17VS
+1266;78486;4710;bank-statement-data;id_document;216.152.162.721.628;3;6/10/2023;DX0BY12YF17VS
+1267;78486;4710;bank-statement-data;bank_account_validation;2,2,2;3;6/10/2023;DX0BY12YF17VS
+1268;78486;4710;bank-statement-data;bank_statement_no_days;92;3;6/10/2023;DX0BY12YF17VS
+1269;78486;4710;bank-statement-data;bank_statement_max_days_passed;98;3;6/10/2023;DX0BY12YF17VS
+1270;78486;4710;bank-statement-data;bank_no_records;0;3;6/10/2023;DX0BY12YF17VS
+1271;78486;4710;bank-statement-data;bank_monthly_avg_blance;0;3;6/10/2023;DX0BY12YF17VS
+1272;78486;4710;bank-statement-data;bank_monthly_avg_credit_value;0;3;6/10/2023;DX0BY12YF17VS
+1273;78486;4710;bank-statement-data;bank_monthly_avg_debit_value;0;3;6/10/2023;DX0BY12YF17VS
+1274;78486;4710;bank-statement-data;bank_monthly_avg_payroll_value;0;3;6/10/2023;DX0BY12YF17VS
+1275;78486;4710;bank-statement-data;bank_monthly_avg_no_credit_records;0;3;6/10/2023;DX0BY12YF17VS
+1276;78486;4710;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;6/10/2023;DX0BY12YF17VS
+1277;78486;4710;income-tax-return-data;tax_report_result;not_required;3;6/10/2023;DX0BY12YF17VS
+1278;78486;4710;income-tax-return-data;tax_report_year;;3;6/10/2023;DX0BY12YF17VS
+1279;78486;4710;income-tax-return-data;tax_report_total_income_value;;3;6/10/2023;DX0BY12YF17VS
+1280;78486;4710;income-tax-return-data;tax_report_total_assets_value;;3;6/10/2023;DX0BY12YF17VS
+1281;78486;4710;income-tax-return-data;tax_report_total_equity_value;;3;6/10/2023;DX0BY12YF17VS
+1282;78486;4710;income-tax-return-data;tax_report_total_debt_value;;3;6/10/2023;DX0BY12YF17VS
+1283;78486;4710;income-tax-return-data;tax_report_total_tax;;3;6/10/2023;DX0BY12YF17VS
+1284;78486;4710;income-tax-return-data;tax_report_value_to_pay;;3;6/10/2023;DX0BY12YF17VS
+1285;78486;4710;background-checks-data;public_db_result;found;3;6/10/2023;DX0BY12YF17VS
+1286;78486;4710;background-checks-data;public_db_check_id;CHKaffc7742c8e9b69ef19178553b9bcab9;3;6/10/2023;DX0BY12YF17VS
+1287;78486;4710;background-checks-data;public_db_check_id_date;28/09/2023 18:50;3;6/10/2023;DX0BY12YF17VS
+1288;78486;4710;background-checks-data;public_db_no_lawsuits;2;3;6/10/2023;DX0BY12YF17VS
+1289;78486;4710;background-checks-data;public_db_no_lawsuits_defendant;2;3;6/10/2023;DX0BY12YF17VS
+1290;78486;4710;background-checks-data;public_db_no_lawsuits_defendant_money;2;3;6/10/2023;DX0BY12YF17VS
+1291;78486;4710;background-checks-data;public_db_tax_responsable;no;3;6/10/2023;DX0BY12YF17VS
+1292;78486;4710;background-checks-data;public_db_tax_responsable_bdme;;3;6/10/2023;DX0BY12YF17VS
+1293;78486;4710;background-checks-data;public_db_medical_status;activo;3;6/10/2023;DX0BY12YF17VS
+1294;78486;4710;background-checks-data;public_db_medical_regime;contributivo;3;6/10/2023;DX0BY12YF17VS
+1295;78486;4710;background-checks-data;public_db_medical_type;beneficiario;3;6/10/2023;DX0BY12YF17VS
+1296;78486;4710;background-checks-data;public_db_pension_status;;3;6/10/2023;DX0BY12YF17VS
+1297;78486;4710;background-checks-data;public_db_pension_regime;;3;6/10/2023;DX0BY12YF17VS
+1298;78486;4710;background-checks-data;public_db_ccf_status;;3;6/10/2023;DX0BY12YF17VS
+1299;78486;4710;background-checks-data;public_db_ccf_type;;3;6/10/2023;DX0BY12YF17VS
+1300;78486;4710;background-checks-data;public_db_welfare_status;;3;6/10/2023;DX0BY12YF17VS
+1301;78486;4710;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;6/10/2023;DX0BY12YF17VS
+1302;78486;4710;background-checks-data;public_db_check_dni;vigente;3;6/10/2023;DX0BY12YF17VS
+1303;78486;4710;background-checks-data;public_db_check_pedofile;found-none;3;6/10/2023;DX0BY12YF17VS
+1304;78486;4710;background-checks-data;public_db_personal_identity_score;10;3;6/10/2023;DX0BY12YF17VS
+1305;78486;4710;background-checks-data;public_db_criminal_record_score;10;3;6/10/2023;DX0BY12YF17VS
+1306;78486;4710;background-checks-data;public_db_legal_background_score;6;3;6/10/2023;DX0BY12YF17VS
+1307;78486;4710;background-checks-data;public_db_international_background_score;10;3;6/10/2023;DX0BY12YF17VS
+1308;78486;4710;background-checks-data;public_db_professional_background_score;10;3;6/10/2023;DX0BY12YF17VS
+1309;78486;4710;background-checks-data;public_db_affiliations_and_insurances_score;10;3;6/10/2023;DX0BY12YF17VS
+1310;78486;4710;background-checks-data;public_db_alert_in_media_score;10;3;6/10/2023;DX0BY12YF17VS
+1311;78486;4710;background-checks-data;public_db_taxes_and_finances_score;10;3;6/10/2023;DX0BY12YF17VS
+1312;78486;4710;background-checks-data;table data_proceso_judicial;;3;6/10/2023;DX0BY12YF17VS
+1313;78486;4710;snr-data;snr_result;found;3;6/10/2023;DX0BY12YF17VS
+1314;78486;4710;snr-data;snr_check_id;F20231003130549U4710S78486;3;6/10/2023;DX0BY12YF17VS
+1315;78486;4710;snr-data;snr_check_id_date;3/10/2023 13:05;3;6/10/2023;DX0BY12YF17VS
+1316;78486;4710;snr-data;snr_no_records;1;3;6/10/2023;DX0BY12YF17VS
+1317;78486;4710;snr-data;snr_no_unique_id_number;1;3;6/10/2023;DX0BY12YF17VS
+1318;78486;4710;snr-data;snr_estimated_unique_properties;1;3;6/10/2023;DX0BY12YF17VS
+1319;78486;4749;personal-data;id_user;4749;3;6/10/2023;DX0BY12YF17VS
+1320;78486;4749;personal-data;id_type_debtor;2;3;6/10/2023;DX0BY12YF17VS
+1321;78486;4749;personal-data;debtor_full_name;;3;6/10/2023;DX0BY12YF17VS
+1322;78486;4749;personal-data;debtor_age;74;3;6/10/2023;DX0BY12YF17VS
+1323;78486;4749;personal-data;debtor_gender;female;3;6/10/2023;DX0BY12YF17VS
+1324;78486;4749;personal-data;debtor_type_dni;cc;3;6/10/2023;DX0BY12YF17VS
+1325;78486;4749;personal-data;debtor_dni;41561688;3;6/10/2023;DX0BY12YF17VS
+1326;78486;4749;personal-data;id_debtor_nacionality;43;3;6/10/2023;DX0BY12YF17VS
+1327;78486;4749;personal-data;id_debtor_country_residence;52;3;6/10/2023;DX0BY12YF17VS
+1328;78486;4749;personal-data;id_debtor_dept_residence;11;3;6/10/2023;DX0BY12YF17VS
+1329;78486;4749;personal-data;id_debtor_mun_residence;107;3;6/10/2023;DX0BY12YF17VS
+1330;78486;4749;personal-data;debtor_date_birth;24/01/1949;3;6/10/2023;DX0BY12YF17VS
+1331;78486;4749;personal-data;debtor_marital_status;married;3;6/10/2023;DX0BY12YF17VS
+1332;78486;4749;personal-data;debtor_social_stratum;2;3;6/10/2023;DX0BY12YF17VS
+1333;78486;4749;personal-data;debtor_level_of_education;3;3;6/10/2023;DX0BY12YF17VS
+1334;78486;4749;personal-data;debtor_no_dependants;1;3;6/10/2023;DX0BY12YF17VS
+1335;78486;4749;personal-data;debtor_file_tax_reports;no;3;6/10/2023;DX0BY12YF17VS
+1336;78486;4749;personal-data;debtor_tenure_at_curr_address;40;3;6/10/2023;DX0BY12YF17VS
+1337;78486;4749;personal-data;debtor_abroad_residence;no;3;6/10/2023;DX0BY12YF17VS
+1338;78486;4749;personal-data;debtor_reports_credit_agency;no;3;6/10/2023;DX0BY12YF17VS
+1339;78486;4749;personal-data;debtor_reports_credit_agency_party;;3;6/10/2023;DX0BY12YF17VS
+1340;78486;4749;personal-data;debtor_reports_credit_agency_party_other;;3;6/10/2023;DX0BY12YF17VS
+1341;78486;4749;labour-data;debtor_employment_status;retired;3;6/10/2023;DX0BY12YF17VS
+1342;78486;4749;labour-data;id_debtor_range_of_income;4;3;6/10/2023;DX0BY12YF17VS
+1343;78486;4749;labour-data;payroll_frequency;30;3;6/10/2023;DX0BY12YF17VS
+1344;78486;4749;labour-data;id_debtor_bank;16;3;6/10/2023;DX0BY12YF17VS
+1345;78486;4749;labour-data;id_debtor_occupation;8;3;6/10/2023;DX0BY12YF17VS
+1346;78486;4749;labour-data;debtor_occupation;asistente;3;6/10/2023;DX0BY12YF17VS
+1347;78486;4749;labour-data;id_debtor_position;0;3;6/10/2023;DX0BY12YF17VS
+1348;78486;4749;labour-data;debtor_position;0;3;6/10/2023;DX0BY12YF17VS
+1349;78486;4749;labour-data;debtor_business_type;;3;6/10/2023;DX0BY12YF17VS
+1350;78486;4749;labour-data;debtor_business_name;;3;6/10/2023;DX0BY12YF17VS
+1351;78486;4749;labour-data;debtor_business_date_admission;;3;6/10/2023;DX0BY12YF17VS
+1352;78486;4749;labour-data;debtor_duration_of_curr_employment;0;3;6/10/2023;DX0BY12YF17VS
+1353;78486;4749;labour-data;debtor_years_experience;0;3;6/10/2023;DX0BY12YF17VS
+1354;78486;4749;labour-data;id_debtor_business_activity;0;3;6/10/2023;DX0BY12YF17VS
+1355;78486;4749;labour-data;debtor_business_activity;0;3;6/10/2023;DX0BY12YF17VS
+1356;78486;4749;labour-data;debtor_business_phone;;3;6/10/2023;DX0BY12YF17VS
+1357;78486;4749;labour-data;debtor_type_of_employment_contract;no-contract;3;6/10/2023;DX0BY12YF17VS
+1358;78486;4749;labour-data;debtor_business_registration;;3;6/10/2023;DX0BY12YF17VS
+1359;78486;4749;labour-data;debtor_business_tin;;3;6/10/2023;DX0BY12YF17VS
+1360;78486;4749;labour-data;id_debtor_other_income;3;3;6/10/2023;DX0BY12YF17VS
+1361;78486;4749;labour-data;table data_centrales_riesgo_obligaciones;;3;6/10/2023;DX0BY12YF17VS
+1362;78486;4749;credit-bureau-data;report_result;found;3;6/10/2023;DX0BY12YF17VS
+1363;78486;4749;credit-bureau-data;report_checkid;2,11E+19;3;6/10/2023;DX0BY12YF17VS
+1364;78486;4749;credit-bureau-data;report_date;10/05/2023 11:19;3;6/10/2023;DX0BY12YF17VS
+1365;78486;4749;credit-bureau-data;debtor_credit_agency;transunion;3;6/10/2023;DX0BY12YF17VS
+1366;78486;4749;credit-bureau-data;debtor_credit_score;684;3;6/10/2023;DX0BY12YF17VS
+1367;78486;4749;credit-bureau-data;debtor_default_loans;1;3;6/10/2023;DX0BY12YF17VS
+1368;78486;4749;credit-bureau-data;debtor_credit_agency_min_probable_income;2880152;3;6/10/2023;DX0BY12YF17VS
+1369;78486;4749;credit-bureau-data;debtor_payment_capacity;587061;3;6/10/2023;DX0BY12YF17VS
+1370;78486;4749;credit-bureau-data;debtor_current_loan_value;32366;3;6/10/2023;DX0BY12YF17VS
+1371;78486;4749;credit-bureau-data;debtor_current_no_loans;3;3;6/10/2023;DX0BY12YF17VS
+1372;78486;4749;credit-bureau-data;debtor_current_total_payment;565;3;6/10/2023;DX0BY12YF17VS
+1373;78486;4749;credit-bureau-data;debtor_current_delinquency_value;21485;3;6/10/2023;DX0BY12YF17VS
+1374;78486;4749;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;6/10/2023;DX0BY12YF17VS
+1375;78486;4749;credit-bureau-data;debtor_total_loan_value;137657;3;6/10/2023;DX0BY12YF17VS
+1376;78486;4749;credit-bureau-data;debtor_total_no_loans;8;3;6/10/2023;DX0BY12YF17VS
+1377;78486;4749;credit-bureau-data;debtor_total_highest_loan_value;36506;3;6/10/2023;DX0BY12YF17VS
+1378;78486;4749;credit-bureau-data;debtor_total_no_bad_reports;23;3;6/10/2023;DX0BY12YF17VS
+1379;78486;4749;credit-bureau-data;debtor_total_max_bad_reports;13;3;6/10/2023;DX0BY12YF17VS
+1380;78486;4749;credit-bureau-data;debtor_total_no_loans_w_bad_reports;1;3;6/10/2023;DX0BY12YF17VS
+1381;78486;4749;credit-bureau-data;debtor_total_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1382;78486;4749;credit-bureau-data;debtor_closed_loan_value;88151;3;6/10/2023;DX0BY12YF17VS
+1383;78486;4749;credit-bureau-data;debtor_closed_no_loans;6;3;6/10/2023;DX0BY12YF17VS
+1384;78486;4749;credit-bureau-data;debtor_closed_highest_loan_value;34661;3;6/10/2023;DX0BY12YF17VS
+1385;78486;4749;credit-bureau-data;debtor_closed_no_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1386;78486;4749;credit-bureau-data;debtor_closed_max_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1387;78486;4749;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;6/10/2023;DX0BY12YF17VS
+1388;78486;4749;credit-bureau-data;debtor_closed_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1389;78486;4749;credit-bureau-data;debtor_current_highest_loan_value;36506;3;6/10/2023;DX0BY12YF17VS
+1390;78486;4749;credit-bureau-data;debtor_current_no_bad_reports;23;3;6/10/2023;DX0BY12YF17VS
+1391;78486;4749;credit-bureau-data;debtor_current_max_bad_reports;13;3;6/10/2023;DX0BY12YF17VS
+1392;78486;4749;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;6/10/2023;DX0BY12YF17VS
+1393;78486;4749;credit-bureau-data;debtor_current_no_similar_loans;0;3;6/10/2023;DX0BY12YF17VS
+1394;78486;4749;credit-bureau-data;debtor_current_no_tcr;0;3;6/10/2023;DX0BY12YF17VS
+1395;78486;4749;credit-bureau-data;debtor_current_tcr_initial_limit;0;3;6/10/2023;DX0BY12YF17VS
+1396;78486;4749;credit-bureau-data;debtor_current_tcr_value;0;3;6/10/2023;DX0BY12YF17VS
+1397;78486;4749;credit-bureau-data;debtor_current_tcr_usage;0;3;6/10/2023;DX0BY12YF17VS
+1398;78486;4749;credit-bureau-data;table query_cr_obligaciones_1;;3;6/10/2023;DX0BY12YF17VS
+1399;78486;4749;credit-bureau-data;table query_cr_obligaciones_2;;3;6/10/2023;DX0BY12YF17VS
+1400;78486;4749;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;6/10/2023;DX0BY12YF17VS
+1401;78486;4749;bank-statement-data;bank_statement_result;found;3;6/10/2023;DX0BY12YF17VS
+1402;78486;4749;bank-statement-data;id_document;218.552.185.621.857;3;6/10/2023;DX0BY12YF17VS
+1403;78486;4749;bank-statement-data;bank_account_validation;1,1,1;3;6/10/2023;DX0BY12YF17VS
+1404;78486;4749;bank-statement-data;bank_statement_no_days;92;3;6/10/2023;DX0BY12YF17VS
+1405;78486;4749;bank-statement-data;bank_statement_max_days_passed;159;3;6/10/2023;DX0BY12YF17VS
+1406;78486;4749;bank-statement-data;bank_no_records;17;3;6/10/2023;DX0BY12YF17VS
+1407;78486;4749;bank-statement-data;bank_monthly_avg_blance;892694,4367;3;6/10/2023;DX0BY12YF17VS
+1408;78486;4749;bank-statement-data;bank_monthly_avg_credit_value;696015;3;6/10/2023;DX0BY12YF17VS
+1409;78486;4749;bank-statement-data;bank_monthly_avg_debit_value;1121826,667;3;6/10/2023;DX0BY12YF17VS
+1410;78486;4749;bank-statement-data;bank_monthly_avg_payroll_value;0;3;6/10/2023;DX0BY12YF17VS
+1411;78486;4749;bank-statement-data;bank_monthly_avg_no_credit_records;1,6667;3;6/10/2023;DX0BY12YF17VS
+1412;78486;4749;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;6/10/2023;DX0BY12YF17VS
+1413;78486;4749;income-tax-return-data;tax_report_result;not_required;3;6/10/2023;DX0BY12YF17VS
+1414;78486;4749;income-tax-return-data;tax_report_year;;3;6/10/2023;DX0BY12YF17VS
+1415;78486;4749;income-tax-return-data;tax_report_total_income_value;;3;6/10/2023;DX0BY12YF17VS
+1416;78486;4749;income-tax-return-data;tax_report_total_assets_value;;3;6/10/2023;DX0BY12YF17VS
+1417;78486;4749;income-tax-return-data;tax_report_total_equity_value;;3;6/10/2023;DX0BY12YF17VS
+1418;78486;4749;income-tax-return-data;tax_report_total_debt_value;;3;6/10/2023;DX0BY12YF17VS
+1419;78486;4749;income-tax-return-data;tax_report_total_tax;;3;6/10/2023;DX0BY12YF17VS
+1420;78486;4749;income-tax-return-data;tax_report_value_to_pay;;3;6/10/2023;DX0BY12YF17VS
+1421;78486;4749;background-checks-data;public_db_result;found;3;6/10/2023;DX0BY12YF17VS
+1422;78486;4749;background-checks-data;public_db_check_id;CHK8662c92c589f0a9ca2717cb2001d03e3;3;6/10/2023;DX0BY12YF17VS
+1423;78486;4749;background-checks-data;public_db_check_id_date;28/09/2023 18:50;3;6/10/2023;DX0BY12YF17VS
+1424;78486;4749;background-checks-data;public_db_no_lawsuits;2;3;6/10/2023;DX0BY12YF17VS
+1425;78486;4749;background-checks-data;public_db_no_lawsuits_defendant;2;3;6/10/2023;DX0BY12YF17VS
+1426;78486;4749;background-checks-data;public_db_no_lawsuits_defendant_money;2;3;6/10/2023;DX0BY12YF17VS
+1427;78486;4749;background-checks-data;public_db_tax_responsable;no;3;6/10/2023;DX0BY12YF17VS
+1428;78486;4749;background-checks-data;public_db_tax_responsable_bdme;;3;6/10/2023;DX0BY12YF17VS
+1429;78486;4749;background-checks-data;public_db_medical_status;activo;3;6/10/2023;DX0BY12YF17VS
+1430;78486;4749;background-checks-data;public_db_medical_regime;contributivo;3;6/10/2023;DX0BY12YF17VS
+1431;78486;4749;background-checks-data;public_db_medical_type;cotizante;3;6/10/2023;DX0BY12YF17VS
+1432;78486;4749;background-checks-data;public_db_pension_status;;3;6/10/2023;DX0BY12YF17VS
+1433;78486;4749;background-checks-data;public_db_pension_regime;;3;6/10/2023;DX0BY12YF17VS
+1434;78486;4749;background-checks-data;public_db_ccf_status;;3;6/10/2023;DX0BY12YF17VS
+1435;78486;4749;background-checks-data;public_db_ccf_type;;3;6/10/2023;DX0BY12YF17VS
+1436;78486;4749;background-checks-data;public_db_welfare_status;;3;6/10/2023;DX0BY12YF17VS
+1437;78486;4749;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;6/10/2023;DX0BY12YF17VS
+1438;78486;4749;background-checks-data;public_db_check_dni;vigente;3;6/10/2023;DX0BY12YF17VS
+1439;78486;4749;background-checks-data;public_db_check_pedofile;found-none;3;6/10/2023;DX0BY12YF17VS
+1440;78486;4749;background-checks-data;public_db_personal_identity_score;10;3;6/10/2023;DX0BY12YF17VS
+1441;78486;4749;background-checks-data;public_db_criminal_record_score;10;3;6/10/2023;DX0BY12YF17VS
+1442;78486;4749;background-checks-data;public_db_legal_background_score;6;3;6/10/2023;DX0BY12YF17VS
+1443;78486;4749;background-checks-data;public_db_international_background_score;10;3;6/10/2023;DX0BY12YF17VS
+1444;78486;4749;background-checks-data;public_db_professional_background_score;10;3;6/10/2023;DX0BY12YF17VS
+1445;78486;4749;background-checks-data;public_db_affiliations_and_insurances_score;10;3;6/10/2023;DX0BY12YF17VS
+1446;78486;4749;background-checks-data;public_db_alert_in_media_score;10;3;6/10/2023;DX0BY12YF17VS
+1447;78486;4749;background-checks-data;public_db_taxes_and_finances_score;10;3;6/10/2023;DX0BY12YF17VS
+1448;78486;4749;background-checks-data;table data_proceso_judicial;;3;6/10/2023;DX0BY12YF17VS
+1449;78486;4749;snr-data;snr_result;found;3;6/10/2023;DX0BY12YF17VS
+1450;78486;4749;snr-data;snr_check_id;F20231003130645U4749S78486;3;6/10/2023;DX0BY12YF17VS
+1451;78486;4749;snr-data;snr_check_id_date;3/10/2023 13:06;3;6/10/2023;DX0BY12YF17VS
+1452;78486;4749;snr-data;snr_no_records;1;3;6/10/2023;DX0BY12YF17VS
+1453;78486;4749;snr-data;snr_no_unique_id_number;1;3;6/10/2023;DX0BY12YF17VS
+1454;78486;4749;snr-data;snr_estimated_unique_properties;1;3;6/10/2023;DX0BY12YF17VS
+1955;78731;14972;general-loan-data;line_of_credit;3;3;12/10/2023;DT8DT08FE12LJ
+1956;78731;14972;general-loan-data;type_of_loan;C;3;12/10/2023;DT8DT08FE12LJ
+1957;78731;14972;general-loan-data;id_loan_request;78731;3;12/10/2023;DT8DT08FE12LJ
+1958;78731;14972;general-loan-data;original_amount;$ 108.000.000,00;3;12/10/2023;DT8DT08FE12LJ
+1959;78731;14972;general-loan-data;pct_interest_rate;0,274345212;3;12/10/2023;DT8DT08FE12LJ
+1960;78731;14972;general-loan-data;loan_to_value_ratio;0,509079957;3;12/10/2023;DT8DT08FE12LJ
+1961;78731;14972;general-loan-data;amortization_schedule;1;3;12/10/2023;DT8DT08FE12LJ
+1962;78731;14972;general-loan-data;payment_frequency;30;3;12/10/2023;DT8DT08FE12LJ
+1963;78731;14972;general-loan-data;value_monthly_payments;$ 2.418.182,00;3;12/10/2023;DT8DT08FE12LJ
+1964;78731;14972;general-loan-data;loan_duration;120;3;12/10/2023;DT8DT08FE12LJ
+1965;78731;14972;general-loan-data;no_debtors;3;3;12/10/2023;DT8DT08FE12LJ
+1966;78731;14972;other-loan-data;use_of_funds;other expenses;3;12/10/2023;DT8DT08FE12LJ
+1967;78731;14972;other-loan-data;advance_value;0;3;12/10/2023;DT8DT08FE12LJ
+1968;78731;14972;other-loan-data;advance_use_of_funds;;3;12/10/2023;DT8DT08FE12LJ
+1969;78731;14972;loan-scores;id_advisor;10777;3;12/10/2023;DT8DT08FE12LJ
+1970;78731;14972;loan-scores;beauty_score;7;3;12/10/2023;DT8DT08FE12LJ
+1971;78731;14972;loan-scores;cleaness_score;7;3;12/10/2023;DT8DT08FE12LJ
+1972;78731;14972;loan-scores;advisor_score;7;3;12/10/2023;DT8DT08FE12LJ
+1973;78731;14972;loan-scores;id_analist;6353;3;12/10/2023;DT8DT08FE12LJ
+1974;78731;14972;loan-scores;analist_score;7;3;12/10/2023;DT8DT08FE12LJ
+1975;78731;14972;loan-scores;id_inspector;0;3;12/10/2023;DT8DT08FE12LJ
+1976;78731;14972;loan-scores;inspection_score;0;3;12/10/2023;DT8DT08FE12LJ
+1977;78731;14972;collateral-data;id_collateral;890;3;12/10/2023;DT8DT08FE12LJ
+1978;78731;14972;collateral-data;type_collateral;casa;3;12/10/2023;DT8DT08FE12LJ
+1979;78731;14972;collateral-data;id_location_collateral;107;3;12/10/2023;DT8DT08FE12LJ
+1980;78731;14972;collateral-data;location_collateral;bogota d.c.;3;12/10/2023;DT8DT08FE12LJ
+1981;78731;14972;collateral-data;collateral_identification_number;050c00188299;3;12/10/2023;DT8DT08FE12LJ
+1982;78731;14972;collateral-data;collateral_purchase_date;10/04/2013;3;12/10/2023;DT8DT08FE12LJ
+1983;78731;14972;collateral-data;collateral_tax_value;$ 204.618.000,00;3;12/10/2023;DT8DT08FE12LJ
+1984;78731;14972;collateral-data;collateral_commercial_value;$ 212.147.421,00;3;12/10/2023;DT8DT08FE12LJ
+1985;78731;14972;collateral-data;collateral_tax_to_value_ratio;0,9645;3;12/10/2023;DT8DT08FE12LJ
+1986;78731;14972;collateral-data;collateral_area;144;3;12/10/2023;DT8DT08FE12LJ
+1987;78731;14972;collateral-data;collateral_condominium_status;no;3;12/10/2023;DT8DT08FE12LJ
+1988;78731;14972;collateral-data;collateral_tax_status;current;3;12/10/2023;DT8DT08FE12LJ
+1989;78731;14972;collateral-data;collateral_tax_delinquency_value;0;3;12/10/2023;DT8DT08FE12LJ
+1990;78731;14972;collateral-data;collateral_tax_no_delinquency_payments;0;3;12/10/2023;DT8DT08FE12LJ
+1991;78731;14972;collateral-data;collateral_admin_status;not_required;3;12/10/2023;DT8DT08FE12LJ
+1992;78731;14972;collateral-data;collateral_admin_delinquency_value;;3;12/10/2023;DT8DT08FE12LJ
+1993;78731;14972;collateral-data;collateral_admin_no_delinquency_payments;;3;12/10/2023;DT8DT08FE12LJ
+1994;78731;14972;collateral-taxes;tax_record_result;found;3;12/10/2023;DT8DT08FE12LJ
+1995;78731;14972;collateral-taxes;tax_record_no_records;1;3;12/10/2023;DT8DT08FE12LJ
+1996;78731;14972;collateral-taxes;tax_record_status;current;3;12/10/2023;DT8DT08FE12LJ
+1997;78731;14972;collateral-taxes;tax_record_delinquency_value;0;3;12/10/2023;DT8DT08FE12LJ
+1998;78731;14972;collateral-taxes;tax_record_no_delinquency_payments;0;3;12/10/2023;DT8DT08FE12LJ
+1999;78731;14972;collateral-taxes;tax_record_validation;ok;3;12/10/2023;DT8DT08FE12LJ
+2000;78731;14972;collateral-taxes;table data_tax_record;;3;12/10/2023;DT8DT08FE12LJ
+2001;78731;14972;personal-data;id_user;14972;3;12/10/2023;DT8DT08FE12LJ
+2002;78731;14972;personal-data;id_type_debtor;1;3;12/10/2023;DT8DT08FE12LJ
+2003;78731;14972;personal-data;debtor_full_name;;3;12/10/2023;DT8DT08FE12LJ
+2004;78731;14972;personal-data;debtor_age;42;3;12/10/2023;DT8DT08FE12LJ
+2005;78731;14972;personal-data;debtor_gender;female;3;12/10/2023;DT8DT08FE12LJ
+2006;78731;14972;personal-data;debtor_type_dni;cc;3;12/10/2023;DT8DT08FE12LJ
+2007;78731;14972;personal-data;debtor_dni;52865804;3;12/10/2023;DT8DT08FE12LJ
+2008;78731;14972;personal-data;id_debtor_nacionality;43;3;12/10/2023;DT8DT08FE12LJ
+2009;78731;14972;personal-data;id_debtor_country_residence;52;3;12/10/2023;DT8DT08FE12LJ
+2010;78731;14972;personal-data;id_debtor_dept_residence;11;3;12/10/2023;DT8DT08FE12LJ
+2011;78731;14972;personal-data;id_debtor_mun_residence;107;3;12/10/2023;DT8DT08FE12LJ
+2012;78731;14972;personal-data;debtor_date_birth;29/08/1981;3;12/10/2023;DT8DT08FE12LJ
+2013;78731;14972;personal-data;debtor_marital_status;single;3;12/10/2023;DT8DT08FE12LJ
+2014;78731;14972;personal-data;debtor_social_stratum;3;3;12/10/2023;DT8DT08FE12LJ
+2015;78731;14972;personal-data;debtor_level_of_education;3;3;12/10/2023;DT8DT08FE12LJ
+2016;78731;14972;personal-data;debtor_no_dependants;1;3;12/10/2023;DT8DT08FE12LJ
+2017;78731;14972;personal-data;debtor_file_tax_reports;no;3;12/10/2023;DT8DT08FE12LJ
+2018;78731;14972;personal-data;debtor_tenure_at_curr_address;10;3;12/10/2023;DT8DT08FE12LJ
+2019;78731;14972;personal-data;debtor_abroad_residence;no;3;12/10/2023;DT8DT08FE12LJ
+2020;78731;14972;personal-data;debtor_reports_credit_agency;yes;3;12/10/2023;DT8DT08FE12LJ
+2021;78731;14972;personal-data;debtor_reports_credit_agency_party;bancos o financieras;3;12/10/2023;DT8DT08FE12LJ
+2022;78731;14972;personal-data;debtor_reports_credit_agency_party_other;;3;12/10/2023;DT8DT08FE12LJ
+2023;78731;14972;labour-data;debtor_employment_status;self-employed;3;12/10/2023;DT8DT08FE12LJ
+2024;78731;14972;labour-data;id_debtor_range_of_income;6;3;12/10/2023;DT8DT08FE12LJ
+2025;78731;14972;labour-data;payroll_frequency;30;3;12/10/2023;DT8DT08FE12LJ
+2026;78731;14972;labour-data;id_debtor_bank;35;3;12/10/2023;DT8DT08FE12LJ
+2027;78731;14972;labour-data;id_debtor_occupation;356;3;12/10/2023;DT8DT08FE12LJ
+2028;78731;14972;labour-data;debtor_occupation;otros;3;12/10/2023;DT8DT08FE12LJ
+2029;78731;14972;labour-data;id_debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2030;78731;14972;labour-data;debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2031;78731;14972;labour-data;debtor_business_type;;3;12/10/2023;DT8DT08FE12LJ
+2032;78731;14972;labour-data;debtor_business_name;;3;12/10/2023;DT8DT08FE12LJ
+2033;78731;14972;labour-data;debtor_business_date_admission;;3;12/10/2023;DT8DT08FE12LJ
+2034;78731;14972;labour-data;debtor_duration_of_curr_employment;0;3;12/10/2023;DT8DT08FE12LJ
+2035;78731;14972;labour-data;debtor_years_experience;6;3;12/10/2023;DT8DT08FE12LJ
+2036;78731;14972;labour-data;id_debtor_business_activity;5;3;12/10/2023;DT8DT08FE12LJ
+2037;78731;14972;labour-data;debtor_business_activity;comercio ;3;12/10/2023;DT8DT08FE12LJ
+2038;78731;14972;labour-data;debtor_business_phone;;3;12/10/2023;DT8DT08FE12LJ
+2039;78731;14972;labour-data;debtor_type_of_employment_contract;no-contract;3;12/10/2023;DT8DT08FE12LJ
+2040;78731;14972;labour-data;debtor_business_registration;no;3;12/10/2023;DT8DT08FE12LJ
+2041;78731;14972;labour-data;debtor_business_tin;;3;12/10/2023;DT8DT08FE12LJ
+2042;78731;14972;labour-data;id_debtor_other_income;0;3;12/10/2023;DT8DT08FE12LJ
+2043;78731;14972;labour-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2044;78731;14972;credit-bureau-data;report_result;found;3;12/10/2023;DT8DT08FE12LJ
+2045;78731;14972;credit-bureau-data;report_checkid;2,04E+19;3;12/10/2023;DT8DT08FE12LJ
+2046;78731;14972;credit-bureau-data;report_date;16/08/2023 14:22;3;12/10/2023;DT8DT08FE12LJ
+2047;78731;14972;credit-bureau-data;debtor_credit_agency;transunion;3;12/10/2023;DT8DT08FE12LJ
+2048;78731;14972;credit-bureau-data;debtor_credit_score;555;3;12/10/2023;DT8DT08FE12LJ
+2049;78731;14972;credit-bureau-data;debtor_default_loans;3;3;12/10/2023;DT8DT08FE12LJ
+2050;78731;14972;credit-bureau-data;debtor_credit_agency_min_probable_income;1160000;3;12/10/2023;DT8DT08FE12LJ
+2051;78731;14972;credit-bureau-data;debtor_payment_capacity;284200;3;12/10/2023;DT8DT08FE12LJ
+2052;78731;14972;credit-bureau-data;debtor_current_loan_value;4446;3;12/10/2023;DT8DT08FE12LJ
+2053;78731;14972;credit-bureau-data;debtor_current_no_loans;5;3;12/10/2023;DT8DT08FE12LJ
+2054;78731;14972;credit-bureau-data;debtor_current_total_payment;6543;3;12/10/2023;DT8DT08FE12LJ
+2055;78731;14972;credit-bureau-data;debtor_current_delinquency_value;6641;3;12/10/2023;DT8DT08FE12LJ
+2056;78731;14972;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;12/10/2023;DT8DT08FE12LJ
+2057;78731;14972;credit-bureau-data;debtor_total_loan_value;479;3;12/10/2023;DT8DT08FE12LJ
+2058;78731;14972;credit-bureau-data;debtor_total_no_loans;1;3;12/10/2023;DT8DT08FE12LJ
+2059;78731;14972;credit-bureau-data;debtor_total_highest_loan_value;23/04/1901 0:00;3;12/10/2023;DT8DT08FE12LJ
+2060;78731;14972;credit-bureau-data;debtor_total_no_bad_reports;23;3;12/10/2023;DT8DT08FE12LJ
+2061;78731;14972;credit-bureau-data;debtor_total_max_bad_reports;14;3;12/10/2023;DT8DT08FE12LJ
+2062;78731;14972;credit-bureau-data;debtor_total_no_loans_w_bad_reports;1;3;12/10/2023;DT8DT08FE12LJ
+2063;78731;14972;credit-bureau-data;debtor_total_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2064;78731;14972;credit-bureau-data;debtor_closed_loan_value;0;3;12/10/2023;DT8DT08FE12LJ
+2065;78731;14972;credit-bureau-data;debtor_closed_no_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2066;78731;14972;credit-bureau-data;debtor_closed_highest_loan_value;0;3;12/10/2023;DT8DT08FE12LJ
+2067;78731;14972;credit-bureau-data;debtor_closed_no_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2068;78731;14972;credit-bureau-data;debtor_closed_max_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2069;78731;14972;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2070;78731;14972;credit-bureau-data;debtor_closed_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2071;78731;14972;credit-bureau-data;debtor_current_highest_loan_value;479;3;12/10/2023;DT8DT08FE12LJ
+2072;78731;14972;credit-bureau-data;debtor_current_no_bad_reports;23;3;12/10/2023;DT8DT08FE12LJ
+2073;78731;14972;credit-bureau-data;debtor_current_max_bad_reports;14;3;12/10/2023;DT8DT08FE12LJ
+2074;78731;14972;credit-bureau-data;debtor_current_no_loans_w_bad_reports;1;3;12/10/2023;DT8DT08FE12LJ
+2075;78731;14972;credit-bureau-data;debtor_current_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2076;78731;14972;credit-bureau-data;debtor_current_no_tcr;0;3;12/10/2023;DT8DT08FE12LJ
+2077;78731;14972;credit-bureau-data;debtor_current_tcr_initial_limit;0;3;12/10/2023;DT8DT08FE12LJ
+2078;78731;14972;credit-bureau-data;debtor_current_tcr_value;0;3;12/10/2023;DT8DT08FE12LJ
+2079;78731;14972;credit-bureau-data;debtor_current_tcr_usage;0;3;12/10/2023;DT8DT08FE12LJ
+2080;78731;14972;credit-bureau-data;table query_cr_obligaciones_1;;3;12/10/2023;DT8DT08FE12LJ
+2081;78731;14972;credit-bureau-data;table query_cr_obligaciones_2;;3;12/10/2023;DT8DT08FE12LJ
+2082;78731;14972;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2083;78731;14972;bank-statement-data;bank_statement_result;found;3;12/10/2023;DT8DT08FE12LJ
+2084;78731;14972;bank-statement-data;id_document;18.921.189.221.904.500.000;3;12/10/2023;DT8DT08FE12LJ
+2085;78731;14972;bank-statement-data;bank_account_validation;3,3,3,3;3;12/10/2023;DT8DT08FE12LJ
+2086;78731;14972;bank-statement-data;bank_statement_no_days;121;3;12/10/2023;DT8DT08FE12LJ
+2087;78731;14972;bank-statement-data;bank_statement_max_days_passed;13/06/1900 0:00;3;12/10/2023;DT8DT08FE12LJ
+2088;78731;14972;bank-statement-data;bank_no_records;133;3;12/10/2023;DT8DT08FE12LJ
+2089;78731;14972;bank-statement-data;bank_monthly_avg_blance;77236,9475;3;12/10/2023;DT8DT08FE12LJ
+2090;78731;14972;bank-statement-data;bank_monthly_avg_credit_value;1631205,25;3;12/10/2023;DT8DT08FE12LJ
+2091;78731;14972;bank-statement-data;bank_monthly_avg_debit_value;1631135;3;12/10/2023;DT8DT08FE12LJ
+2092;78731;14972;bank-statement-data;bank_monthly_avg_payroll_value;0;3;12/10/2023;DT8DT08FE12LJ
+2093;78731;14972;bank-statement-data;bank_monthly_avg_no_credit_records;7;3;12/10/2023;DT8DT08FE12LJ
+2094;78731;14972;bank-statement-data;bank_monthly_avg_no_payroll_records;$ 0,00;3;12/10/2023;DT8DT08FE12LJ
+2095;78731;14972;income-tax-return-data;tax_report_result;not_required;3;12/10/2023;DT8DT08FE12LJ
+2096;78731;14972;income-tax-return-data;tax_report_year;;3;12/10/2023;DT8DT08FE12LJ
+2097;78731;14972;income-tax-return-data;tax_report_total_income_value;;3;12/10/2023;DT8DT08FE12LJ
+2098;78731;14972;income-tax-return-data;tax_report_total_assets_value;;3;12/10/2023;DT8DT08FE12LJ
+2099;78731;14972;income-tax-return-data;tax_report_total_equity_value;;3;12/10/2023;DT8DT08FE12LJ
+2100;78731;14972;income-tax-return-data;tax_report_total_debt_value;;3;12/10/2023;DT8DT08FE12LJ
+2101;78731;14972;income-tax-return-data;tax_report_total_tax;;3;12/10/2023;DT8DT08FE12LJ
+2102;78731;14972;income-tax-return-data;tax_report_value_to_pay;;3;12/10/2023;DT8DT08FE12LJ
+2103;78731;14972;background-checks-data;public_db_result;found;3;12/10/2023;DT8DT08FE12LJ
+2104;78731;14972;background-checks-data;public_db_check_id;CHKbf2858acedba3caf601e0d53e5c2863c;3;12/10/2023;DT8DT08FE12LJ
+2105;78731;14972;background-checks-data;public_db_check_id_date;16/08/2023 17:30;3;12/10/2023;DT8DT08FE12LJ
+2106;78731;14972;background-checks-data;public_db_no_lawsuits;2;3;12/10/2023;DT8DT08FE12LJ
+2107;78731;14972;background-checks-data;public_db_no_lawsuits_defendant;2;3;12/10/2023;DT8DT08FE12LJ
+2108;78731;14972;background-checks-data;public_db_no_lawsuits_defendant_money;2;3;12/10/2023;DT8DT08FE12LJ
+2109;78731;14972;background-checks-data;public_db_tax_responsable;no;3;12/10/2023;DT8DT08FE12LJ
+2110;78731;14972;background-checks-data;public_db_tax_responsable_bdme;;3;12/10/2023;DT8DT08FE12LJ
+2111;78731;14972;background-checks-data;public_db_medical_status;activo;3;12/10/2023;DT8DT08FE12LJ
+2112;78731;14972;background-checks-data;public_db_medical_regime;contributivo;3;12/10/2023;DT8DT08FE12LJ
+2113;78731;14972;background-checks-data;public_db_medical_type;beneficiario;3;12/10/2023;DT8DT08FE12LJ
+2114;78731;14972;background-checks-data;public_db_pension_status;activo cotizante;3;12/10/2023;DT8DT08FE12LJ
+2115;78731;14972;background-checks-data;public_db_pension_regime;pensiones: ahorro individual;3;12/10/2023;DT8DT08FE12LJ
+2116;78731;14972;background-checks-data;public_db_ccf_status;;3;12/10/2023;DT8DT08FE12LJ
+2117;78731;14972;background-checks-data;public_db_ccf_type;;3;12/10/2023;DT8DT08FE12LJ
+2118;78731;14972;background-checks-data;public_db_welfare_status;;3;12/10/2023;DT8DT08FE12LJ
+2119;78731;14972;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;12/10/2023;DT8DT08FE12LJ
+2120;78731;14972;background-checks-data;public_db_check_dni;vigente;3;12/10/2023;DT8DT08FE12LJ
+2121;78731;14972;background-checks-data;public_db_check_pedofile;found-none;3;12/10/2023;DT8DT08FE12LJ
+2122;78731;14972;background-checks-data;public_db_personal_identity_score;10;3;12/10/2023;DT8DT08FE12LJ
+2123;78731;14972;background-checks-data;public_db_criminal_record_score;10;3;12/10/2023;DT8DT08FE12LJ
+2124;78731;14972;background-checks-data;public_db_legal_background_score;6;3;12/10/2023;DT8DT08FE12LJ
+2125;78731;14972;background-checks-data;public_db_international_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2126;78731;14972;background-checks-data;public_db_professional_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2127;78731;14972;background-checks-data;public_db_affiliations_and_insurances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2128;78731;14972;background-checks-data;public_db_alert_in_media_score;10;3;12/10/2023;DT8DT08FE12LJ
+2129;78731;14972;background-checks-data;public_db_taxes_and_finances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2130;78731;14972;background-checks-data;table data_proceso_judicial;;3;12/10/2023;DT8DT08FE12LJ
+2131;78731;14972;snr-data;snr_result;found;3;12/10/2023;DT8DT08FE12LJ
+2132;78731;14972;snr-data;snr_check_id;F20230816174952U14972S78731;3;12/10/2023;DT8DT08FE12LJ
+2133;78731;14972;snr-data;snr_check_id_date;16/08/2023 17:49;3;12/10/2023;DT8DT08FE12LJ
+2134;78731;14972;snr-data;snr_no_records;1;3;12/10/2023;DT8DT08FE12LJ
+2135;78731;14972;snr-data;snr_no_unique_id_number;1;3;12/10/2023;DT8DT08FE12LJ
+2136;78731;14972;snr-data;snr_estimated_unique_properties;1;3;12/10/2023;DT8DT08FE12LJ
+2137;78731;15020;personal-data;id_user;15020;3;12/10/2023;DT8DT08FE12LJ
+2138;78731;15020;personal-data;id_type_debtor;2;3;12/10/2023;DT8DT08FE12LJ
+2139;78731;15020;personal-data;debtor_full_name;;3;12/10/2023;DT8DT08FE12LJ
+2140;78731;15020;personal-data;debtor_age;44;3;12/10/2023;DT8DT08FE12LJ
+2141;78731;15020;personal-data;debtor_gender;female;3;12/10/2023;DT8DT08FE12LJ
+2142;78731;15020;personal-data;debtor_type_dni;cc;3;12/10/2023;DT8DT08FE12LJ
+2143;78731;15020;personal-data;debtor_dni;52453890;3;12/10/2023;DT8DT08FE12LJ
+2144;78731;15020;personal-data;id_debtor_nacionality;43;3;12/10/2023;DT8DT08FE12LJ
+2145;78731;15020;personal-data;id_debtor_country_residence;52;3;12/10/2023;DT8DT08FE12LJ
+2146;78731;15020;personal-data;id_debtor_dept_residence;11;3;12/10/2023;DT8DT08FE12LJ
+2147;78731;15020;personal-data;id_debtor_mun_residence;107;3;12/10/2023;DT8DT08FE12LJ
+2148;78731;15020;personal-data;debtor_date_birth;6/12/1978;3;12/10/2023;DT8DT08FE12LJ
+2149;78731;15020;personal-data;debtor_marital_status;common law marriage;3;12/10/2023;DT8DT08FE12LJ
+2150;78731;15020;personal-data;debtor_social_stratum;3;3;12/10/2023;DT8DT08FE12LJ
+2151;78731;15020;personal-data;debtor_level_of_education;4;3;12/10/2023;DT8DT08FE12LJ
+2152;78731;15020;personal-data;debtor_no_dependants;0;3;12/10/2023;DT8DT08FE12LJ
+2153;78731;15020;personal-data;debtor_file_tax_reports;no;3;12/10/2023;DT8DT08FE12LJ
+2154;78731;15020;personal-data;debtor_tenure_at_curr_address;10;3;12/10/2023;DT8DT08FE12LJ
+2155;78731;15020;personal-data;debtor_abroad_residence;no;3;12/10/2023;DT8DT08FE12LJ
+2156;78731;15020;personal-data;debtor_reports_credit_agency;yes;3;12/10/2023;DT8DT08FE12LJ
+2157;78731;15020;personal-data;debtor_reports_credit_agency_party;bancos o financieras;3;12/10/2023;DT8DT08FE12LJ
+2158;78731;15020;personal-data;debtor_reports_credit_agency_party_other;;3;12/10/2023;DT8DT08FE12LJ
+2159;78731;15020;labour-data;debtor_employment_status;self-employed;3;12/10/2023;DT8DT08FE12LJ
+2160;78731;15020;labour-data;id_debtor_range_of_income;3;3;12/10/2023;DT8DT08FE12LJ
+2161;78731;15020;labour-data;payroll_frequency;15;3;12/10/2023;DT8DT08FE12LJ
+2162;78731;15020;labour-data;id_debtor_bank;35;3;12/10/2023;DT8DT08FE12LJ
+2163;78731;15020;labour-data;id_debtor_occupation;3;3;12/10/2023;DT8DT08FE12LJ
+2164;78731;15020;labour-data;debtor_occupation;asesor de servicios al cliente o telemercadeo;3;12/10/2023;DT8DT08FE12LJ
+2165;78731;15020;labour-data;id_debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2166;78731;15020;labour-data;debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2167;78731;15020;labour-data;debtor_business_type;;3;12/10/2023;DT8DT08FE12LJ
+2168;78731;15020;labour-data;debtor_business_name;;3;12/10/2023;DT8DT08FE12LJ
+2169;78731;15020;labour-data;debtor_business_date_admission;;3;12/10/2023;DT8DT08FE12LJ
+2170;78731;15020;labour-data;debtor_duration_of_curr_employment;0;3;12/10/2023;DT8DT08FE12LJ
+2171;78731;15020;labour-data;debtor_years_experience;3;3;12/10/2023;DT8DT08FE12LJ
+2172;78731;15020;labour-data;id_debtor_business_activity;17;3;12/10/2023;DT8DT08FE12LJ
+2173;78731;15020;labour-data;debtor_business_activity;servicios ;3;12/10/2023;DT8DT08FE12LJ
+2174;78731;15020;labour-data;debtor_business_phone;;3;12/10/2023;DT8DT08FE12LJ
+2175;78731;15020;labour-data;debtor_type_of_employment_contract;no-contract;3;12/10/2023;DT8DT08FE12LJ
+2176;78731;15020;labour-data;debtor_business_registration;no;3;12/10/2023;DT8DT08FE12LJ
+2177;78731;15020;labour-data;debtor_business_tin;;3;12/10/2023;DT8DT08FE12LJ
+2178;78731;15020;labour-data;id_debtor_other_income;0;3;12/10/2023;DT8DT08FE12LJ
+2179;78731;15020;labour-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2180;78731;15020;credit-bureau-data;report_result;found;3;12/10/2023;DT8DT08FE12LJ
+2181;78731;15020;credit-bureau-data;report_checkid;2,04E+19;3;12/10/2023;DT8DT08FE12LJ
+2182;78731;15020;credit-bureau-data;report_date;16/08/2023 15:04;3;12/10/2023;DT8DT08FE12LJ
+2183;78731;15020;credit-bureau-data;debtor_credit_agency;transunion;3;12/10/2023;DT8DT08FE12LJ
+2184;78731;15020;credit-bureau-data;debtor_credit_score;498;3;12/10/2023;DT8DT08FE12LJ
+2185;78731;15020;credit-bureau-data;debtor_default_loans;6;3;12/10/2023;DT8DT08FE12LJ
+2186;78731;15020;credit-bureau-data;debtor_credit_agency_min_probable_income;7220595;3;12/10/2023;DT8DT08FE12LJ
+2187;78731;15020;credit-bureau-data;debtor_payment_capacity;1618944;3;12/10/2023;DT8DT08FE12LJ
+2188;78731;15020;credit-bureau-data;debtor_current_loan_value;15395;3;12/10/2023;DT8DT08FE12LJ
+2189;78731;15020;credit-bureau-data;debtor_current_no_loans;11;3;12/10/2023;DT8DT08FE12LJ
+2190;78731;15020;credit-bureau-data;debtor_current_total_payment;11466;3;12/10/2023;DT8DT08FE12LJ
+2191;78731;15020;credit-bureau-data;debtor_current_delinquency_value;12878;3;12/10/2023;DT8DT08FE12LJ
+2192;78731;15020;credit-bureau-data;debtor_current_no_loans_w_bad_reports;5;3;12/10/2023;DT8DT08FE12LJ
+2193;78731;15020;credit-bureau-data;debtor_total_loan_value;20787;3;12/10/2023;DT8DT08FE12LJ
+2194;78731;15020;credit-bureau-data;debtor_total_no_loans;12;3;12/10/2023;DT8DT08FE12LJ
+2195;78731;15020;credit-bureau-data;debtor_total_highest_loan_value;7934;3;12/10/2023;DT8DT08FE12LJ
+2196;78731;15020;credit-bureau-data;debtor_total_no_bad_reports;40;3;12/10/2023;DT8DT08FE12LJ
+2197;78731;15020;credit-bureau-data;debtor_total_max_bad_reports;8;3;12/10/2023;DT8DT08FE12LJ
+2198;78731;15020;credit-bureau-data;debtor_total_no_loans_w_bad_reports;5;3;12/10/2023;DT8DT08FE12LJ
+2199;78731;15020;credit-bureau-data;debtor_total_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2200;78731;15020;credit-bureau-data;debtor_closed_loan_value;11052;3;12/10/2023;DT8DT08FE12LJ
+2201;78731;15020;credit-bureau-data;debtor_closed_no_loans;6;3;12/10/2023;DT8DT08FE12LJ
+2202;78731;15020;credit-bureau-data;debtor_closed_highest_loan_value;5483;3;12/10/2023;DT8DT08FE12LJ
+2203;78731;15020;credit-bureau-data;debtor_closed_no_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2204;78731;15020;credit-bureau-data;debtor_closed_max_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2205;78731;15020;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2206;78731;15020;credit-bureau-data;debtor_closed_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2207;78731;15020;credit-bureau-data;debtor_current_highest_loan_value;7934;3;12/10/2023;DT8DT08FE12LJ
+2208;78731;15020;credit-bureau-data;debtor_current_no_bad_reports;40;3;12/10/2023;DT8DT08FE12LJ
+2209;78731;15020;credit-bureau-data;debtor_current_max_bad_reports;8;3;12/10/2023;DT8DT08FE12LJ
+2210;78731;15020;credit-bureau-data;debtor_current_no_loans_w_bad_reports;5;3;12/10/2023;DT8DT08FE12LJ
+2211;78731;15020;credit-bureau-data;debtor_current_no_similar_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2212;78731;15020;credit-bureau-data;debtor_current_no_tcr;1;3;12/10/2023;DT8DT08FE12LJ
+2213;78731;15020;credit-bureau-data;debtor_current_tcr_initial_limit;1100;3;12/10/2023;DT8DT08FE12LJ
+2214;78731;15020;credit-bureau-data;debtor_current_tcr_value;1073;3;12/10/2023;DT8DT08FE12LJ
+2215;78731;15020;credit-bureau-data;debtor_current_tcr_usage;0,975454545;3;12/10/2023;DT8DT08FE12LJ
+2216;78731;15020;credit-bureau-data;table query_cr_obligaciones_1;;3;12/10/2023;DT8DT08FE12LJ
+2217;78731;15020;credit-bureau-data;table query_cr_obligaciones_2;;3;12/10/2023;DT8DT08FE12LJ
+2218;78731;15020;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2219;78731;15020;bank-statement-data;bank_statement_result;found;3;12/10/2023;DT8DT08FE12LJ
+2220;78731;15020;bank-statement-data;id_document;19.276.192.811.928.600.000;3;12/10/2023;DT8DT08FE12LJ
+2221;78731;15020;bank-statement-data;bank_account_validation;2,2,2,2;3;12/10/2023;DT8DT08FE12LJ
+2222;78731;15020;bank-statement-data;bank_statement_no_days;122;3;12/10/2023;DT8DT08FE12LJ
+2223;78731;15020;bank-statement-data;bank_statement_max_days_passed;134;3;12/10/2023;DT8DT08FE12LJ
+2224;78731;15020;bank-statement-data;bank_no_records;154;3;12/10/2023;DT8DT08FE12LJ
+2225;78731;15020;bank-statement-data;bank_monthly_avg_blance;48706,75;3;12/10/2023;DT8DT08FE12LJ
+2226;78731;15020;bank-statement-data;bank_monthly_avg_credit_value;1996309,75;3;12/10/2023;DT8DT08FE12LJ
+2227;78731;15020;bank-statement-data;bank_monthly_avg_debit_value;1999516,75;3;12/10/2023;DT8DT08FE12LJ
+2228;78731;15020;bank-statement-data;bank_monthly_avg_payroll_value;0;3;12/10/2023;DT8DT08FE12LJ
+2229;78731;15020;bank-statement-data;bank_monthly_avg_no_credit_records;8,75;3;12/10/2023;DT8DT08FE12LJ
+2230;78731;15020;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;12/10/2023;DT8DT08FE12LJ
+2231;78731;15020;income-tax-return-data;tax_report_result;not_required;3;12/10/2023;DT8DT08FE12LJ
+2232;78731;15020;income-tax-return-data;tax_report_year;;3;12/10/2023;DT8DT08FE12LJ
+2233;78731;15020;income-tax-return-data;tax_report_total_income_value;;3;12/10/2023;DT8DT08FE12LJ
+2234;78731;15020;income-tax-return-data;tax_report_total_assets_value;;3;12/10/2023;DT8DT08FE12LJ
+2235;78731;15020;income-tax-return-data;tax_report_total_equity_value;;3;12/10/2023;DT8DT08FE12LJ
+2236;78731;15020;income-tax-return-data;tax_report_total_debt_value;;3;12/10/2023;DT8DT08FE12LJ
+2237;78731;15020;income-tax-return-data;tax_report_total_tax;;3;12/10/2023;DT8DT08FE12LJ
+2238;78731;15020;income-tax-return-data;tax_report_value_to_pay;;3;12/10/2023;DT8DT08FE12LJ
+2239;78731;15020;background-checks-data;public_db_result;found;3;12/10/2023;DT8DT08FE12LJ
+2240;78731;15020;background-checks-data;public_db_check_id;CHK0e18bb5c336e9dd29cee688241bdad06;3;12/10/2023;DT8DT08FE12LJ
+2241;78731;15020;background-checks-data;public_db_check_id_date;16/08/2023 20:59;3;12/10/2023;DT8DT08FE12LJ
+2242;78731;15020;background-checks-data;public_db_no_lawsuits;2;3;12/10/2023;DT8DT08FE12LJ
+2243;78731;15020;background-checks-data;public_db_no_lawsuits_defendant;;3;12/10/2023;DT8DT08FE12LJ
+2244;78731;15020;background-checks-data;public_db_no_lawsuits_defendant_money;;3;12/10/2023;DT8DT08FE12LJ
+2245;78731;15020;background-checks-data;public_db_tax_responsable;no;3;12/10/2023;DT8DT08FE12LJ
+2246;78731;15020;background-checks-data;public_db_tax_responsable_bdme;;3;12/10/2023;DT8DT08FE12LJ
+2247;78731;15020;background-checks-data;public_db_medical_status;activo;3;12/10/2023;DT8DT08FE12LJ
+2248;78731;15020;background-checks-data;public_db_medical_regime;contributivo;3;12/10/2023;DT8DT08FE12LJ
+2249;78731;15020;background-checks-data;public_db_medical_type;cotizante;3;12/10/2023;DT8DT08FE12LJ
+2250;78731;15020;background-checks-data;public_db_pension_status;inactivo;3;12/10/2023;DT8DT08FE12LJ
+2251;78731;15020;background-checks-data;public_db_pension_regime;pensiones: ahorro individual;3;12/10/2023;DT8DT08FE12LJ
+2252;78731;15020;background-checks-data;public_db_ccf_status;;3;12/10/2023;DT8DT08FE12LJ
+2253;78731;15020;background-checks-data;public_db_ccf_type;;3;12/10/2023;DT8DT08FE12LJ
+2254;78731;15020;background-checks-data;public_db_welfare_status;;3;12/10/2023;DT8DT08FE12LJ
+2255;78731;15020;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;12/10/2023;DT8DT08FE12LJ
+2256;78731;15020;background-checks-data;public_db_check_dni;vigente;3;12/10/2023;DT8DT08FE12LJ
+2257;78731;15020;background-checks-data;public_db_check_pedofile;found-none;3;12/10/2023;DT8DT08FE12LJ
+2258;78731;15020;background-checks-data;public_db_personal_identity_score;10;3;12/10/2023;DT8DT08FE12LJ
+2259;78731;15020;background-checks-data;public_db_criminal_record_score;10;3;12/10/2023;DT8DT08FE12LJ
+2260;78731;15020;background-checks-data;public_db_legal_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2261;78731;15020;background-checks-data;public_db_international_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2262;78731;15020;background-checks-data;public_db_professional_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2263;78731;15020;background-checks-data;public_db_affiliations_and_insurances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2264;78731;15020;background-checks-data;public_db_alert_in_media_score;10;3;12/10/2023;DT8DT08FE12LJ
+2265;78731;15020;background-checks-data;public_db_taxes_and_finances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2266;78731;15020;background-checks-data;table data_proceso_judicial;;3;12/10/2023;DT8DT08FE12LJ
+2267;78731;15020;snr-data;snr_result;found;3;12/10/2023;DT8DT08FE12LJ
+2268;78731;15020;snr-data;snr_check_id;F20230816180500U15020S78731;3;12/10/2023;DT8DT08FE12LJ
+2269;78731;15020;snr-data;snr_check_id_date;16/08/2023 18:05;3;12/10/2023;DT8DT08FE12LJ
+2270;78731;15020;snr-data;snr_no_records;1;3;12/10/2023;DT8DT08FE12LJ
+2271;78731;15020;snr-data;snr_no_unique_id_number;1;3;12/10/2023;DT8DT08FE12LJ
+2272;78731;15020;snr-data;snr_estimated_unique_properties;1;3;12/10/2023;DT8DT08FE12LJ
+2273;78731;16350;personal-data;id_user;16350;3;12/10/2023;DT8DT08FE12LJ
+2274;78731;16350;personal-data;id_type_debtor;2;3;12/10/2023;DT8DT08FE12LJ
+2275;78731;16350;personal-data;debtor_full_name;;3;12/10/2023;DT8DT08FE12LJ
+2276;78731;16350;personal-data;debtor_age;67;3;12/10/2023;DT8DT08FE12LJ
+2277;78731;16350;personal-data;debtor_gender;female;3;12/10/2023;DT8DT08FE12LJ
+2278;78731;16350;personal-data;debtor_type_dni;cc;3;12/10/2023;DT8DT08FE12LJ
+2279;78731;16350;personal-data;debtor_dni;21069752;3;12/10/2023;DT8DT08FE12LJ
+2280;78731;16350;personal-data;id_debtor_nacionality;43;3;12/10/2023;DT8DT08FE12LJ
+2281;78731;16350;personal-data;id_debtor_country_residence;52;3;12/10/2023;DT8DT08FE12LJ
+2282;78731;16350;personal-data;id_debtor_dept_residence;11;3;12/10/2023;DT8DT08FE12LJ
+2283;78731;16350;personal-data;id_debtor_mun_residence;107;3;12/10/2023;DT8DT08FE12LJ
+2284;78731;16350;personal-data;debtor_date_birth;28/02/1956;3;12/10/2023;DT8DT08FE12LJ
+2285;78731;16350;personal-data;debtor_marital_status;widowed;3;12/10/2023;DT8DT08FE12LJ
+2286;78731;16350;personal-data;debtor_social_stratum;3;3;12/10/2023;DT8DT08FE12LJ
+2287;78731;16350;personal-data;debtor_level_of_education;5;3;12/10/2023;DT8DT08FE12LJ
+2288;78731;16350;personal-data;debtor_no_dependants;0;3;12/10/2023;DT8DT08FE12LJ
+2289;78731;16350;personal-data;debtor_file_tax_reports;yes;3;12/10/2023;DT8DT08FE12LJ
+2290;78731;16350;personal-data;debtor_tenure_at_curr_address;40;3;12/10/2023;DT8DT08FE12LJ
+2291;78731;16350;personal-data;debtor_abroad_residence;no;3;12/10/2023;DT8DT08FE12LJ
+2292;78731;16350;personal-data;debtor_reports_credit_agency;no;3;12/10/2023;DT8DT08FE12LJ
+2293;78731;16350;personal-data;debtor_reports_credit_agency_party;;3;12/10/2023;DT8DT08FE12LJ
+2294;78731;16350;personal-data;debtor_reports_credit_agency_party_other;;3;12/10/2023;DT8DT08FE12LJ
+2295;78731;16350;labour-data;debtor_employment_status;retired;3;12/10/2023;DT8DT08FE12LJ
+2296;78731;16350;labour-data;id_debtor_range_of_income;14;3;12/10/2023;DT8DT08FE12LJ
+2297;78731;16350;labour-data;payroll_frequency;30;3;12/10/2023;DT8DT08FE12LJ
+2298;78731;16350;labour-data;id_debtor_bank;17;3;12/10/2023;DT8DT08FE12LJ
+2299;78731;16350;labour-data;id_debtor_occupation;142;3;12/10/2023;DT8DT08FE12LJ
+2300;78731;16350;labour-data;debtor_occupation;especialistas en tratamientos de belleza y afines;3;12/10/2023;DT8DT08FE12LJ
+2301;78731;16350;labour-data;id_debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2302;78731;16350;labour-data;debtor_position;0;3;12/10/2023;DT8DT08FE12LJ
+2303;78731;16350;labour-data;debtor_business_type;;3;12/10/2023;DT8DT08FE12LJ
+2304;78731;16350;labour-data;debtor_business_name;;3;12/10/2023;DT8DT08FE12LJ
+2305;78731;16350;labour-data;debtor_business_date_admission;;3;12/10/2023;DT8DT08FE12LJ
+2306;78731;16350;labour-data;debtor_duration_of_curr_employment;0;3;12/10/2023;DT8DT08FE12LJ
+2307;78731;16350;labour-data;debtor_years_experience;0;3;12/10/2023;DT8DT08FE12LJ
+2308;78731;16350;labour-data;id_debtor_business_activity;0;3;12/10/2023;DT8DT08FE12LJ
+2309;78731;16350;labour-data;debtor_business_activity;0;3;12/10/2023;DT8DT08FE12LJ
+2310;78731;16350;labour-data;debtor_business_phone;;3;12/10/2023;DT8DT08FE12LJ
+2311;78731;16350;labour-data;debtor_type_of_employment_contract;no-contract;3;12/10/2023;DT8DT08FE12LJ
+2312;78731;16350;labour-data;debtor_business_registration;;3;12/10/2023;DT8DT08FE12LJ
+2313;78731;16350;labour-data;debtor_business_tin;;3;12/10/2023;DT8DT08FE12LJ
+2314;78731;16350;labour-data;id_debtor_other_income;10;3;12/10/2023;DT8DT08FE12LJ
+2315;78731;16350;labour-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2316;78731;16350;credit-bureau-data;report_result;found;3;12/10/2023;DT8DT08FE12LJ
+2317;78731;16350;credit-bureau-data;report_checkid;2,12E+19;3;12/10/2023;DT8DT08FE12LJ
+2318;78731;16350;credit-bureau-data;report_date;10/09/2023 8:15;3;12/10/2023;DT8DT08FE12LJ
+2319;78731;16350;credit-bureau-data;debtor_credit_agency;transunion;3;12/10/2023;DT8DT08FE12LJ
+2320;78731;16350;credit-bureau-data;debtor_credit_score;860;3;12/10/2023;DT8DT08FE12LJ
+2321;78731;16350;credit-bureau-data;debtor_default_loans;0;3;12/10/2023;DT8DT08FE12LJ
+2322;78731;16350;credit-bureau-data;debtor_credit_agency_min_probable_income;24086013;3;12/10/2023;DT8DT08FE12LJ
+2323;78731;16350;credit-bureau-data;debtor_payment_capacity;2253340;3;12/10/2023;DT8DT08FE12LJ
+2324;78731;16350;credit-bureau-data;debtor_current_loan_value;525633;3;12/10/2023;DT8DT08FE12LJ
+2325;78731;16350;credit-bureau-data;debtor_current_no_loans;16;3;12/10/2023;DT8DT08FE12LJ
+2326;78731;16350;credit-bureau-data;debtor_current_total_payment;10931;3;12/10/2023;DT8DT08FE12LJ
+2327;78731;16350;credit-bureau-data;debtor_current_delinquency_value;0;3;12/10/2023;DT8DT08FE12LJ
+2328;78731;16350;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2329;78731;16350;credit-bureau-data;debtor_total_loan_value;1854084;3;12/10/2023;DT8DT08FE12LJ
+2330;78731;16350;credit-bureau-data;debtor_total_no_loans;54;3;12/10/2023;DT8DT08FE12LJ
+2331;78731;16350;credit-bureau-data;debtor_total_highest_loan_value;154327;3;12/10/2023;DT8DT08FE12LJ
+2332;78731;16350;credit-bureau-data;debtor_total_no_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2333;78731;16350;credit-bureau-data;debtor_total_max_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2334;78731;16350;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2335;78731;16350;credit-bureau-data;debtor_total_no_similar_loans;9;3;12/10/2023;DT8DT08FE12LJ
+2336;78731;16350;credit-bureau-data;debtor_closed_loan_value;1190883;3;12/10/2023;DT8DT08FE12LJ
+2337;78731;16350;credit-bureau-data;debtor_closed_no_loans;42;3;12/10/2023;DT8DT08FE12LJ
+2338;78731;16350;credit-bureau-data;debtor_closed_highest_loan_value;144000;3;12/10/2023;DT8DT08FE12LJ
+2339;78731;16350;credit-bureau-data;debtor_closed_no_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2340;78731;16350;credit-bureau-data;debtor_closed_max_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2341;78731;16350;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2342;78731;16350;credit-bureau-data;debtor_closed_no_similar_loans;5;3;12/10/2023;DT8DT08FE12LJ
+2343;78731;16350;credit-bureau-data;debtor_current_highest_loan_value;154327;3;12/10/2023;DT8DT08FE12LJ
+2344;78731;16350;credit-bureau-data;debtor_current_no_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2345;78731;16350;credit-bureau-data;debtor_current_max_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2346;78731;16350;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;12/10/2023;DT8DT08FE12LJ
+2347;78731;16350;credit-bureau-data;debtor_current_no_similar_loans;4;3;12/10/2023;DT8DT08FE12LJ
+2348;78731;16350;credit-bureau-data;debtor_current_no_tcr;4;3;12/10/2023;DT8DT08FE12LJ
+2349;78731;16350;credit-bureau-data;debtor_current_tcr_initial_limit;56080;3;12/10/2023;DT8DT08FE12LJ
+2350;78731;16350;credit-bureau-data;debtor_current_tcr_value;36017;3;12/10/2023;DT8DT08FE12LJ
+2351;78731;16350;credit-bureau-data;debtor_current_tcr_usage;0,642243224;3;12/10/2023;DT8DT08FE12LJ
+2352;78731;16350;credit-bureau-data;table query_cr_obligaciones_1;;3;12/10/2023;DT8DT08FE12LJ
+2353;78731;16350;credit-bureau-data;table query_cr_obligaciones_2;;3;12/10/2023;DT8DT08FE12LJ
+2354;78731;16350;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;12/10/2023;DT8DT08FE12LJ
+2355;78731;16350;bank-statement-data;bank_statement_result;found;3;12/10/2023;DT8DT08FE12LJ
+2356;78731;16350;bank-statement-data;id_document;218.212.182.221.823;3;12/10/2023;DT8DT08FE12LJ
+2357;78731;16350;bank-statement-data;bank_account_validation;1,1,1;3;12/10/2023;DT8DT08FE12LJ
+2358;78731;16350;bank-statement-data;bank_statement_no_days;92;3;12/10/2023;DT8DT08FE12LJ
+2359;78731;16350;bank-statement-data;bank_statement_max_days_passed;104;3;12/10/2023;DT8DT08FE12LJ
+2360;78731;16350;bank-statement-data;bank_no_records;244;3;12/10/2023;DT8DT08FE12LJ
+2361;78731;16350;bank-statement-data;bank_monthly_avg_blance;1880600,36;3;12/10/2023;DT8DT08FE12LJ
+2362;78731;16350;bank-statement-data;bank_monthly_avg_credit_value;23555544,95;3;12/10/2023;DT8DT08FE12LJ
+2363;78731;16350;bank-statement-data;bank_monthly_avg_debit_value;23992179,12;3;12/10/2023;DT8DT08FE12LJ
+2364;78731;16350;bank-statement-data;bank_monthly_avg_payroll_value;0;3;12/10/2023;DT8DT08FE12LJ
+2365;78731;16350;bank-statement-data;bank_monthly_avg_no_credit_records;14,3333;3;12/10/2023;DT8DT08FE12LJ
+2366;78731;16350;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;12/10/2023;DT8DT08FE12LJ
+2367;78731;16350;income-tax-return-data;tax_report_result;found;3;12/10/2023;DT8DT08FE12LJ
+2368;78731;16350;income-tax-return-data;tax_report_year;2022;3;12/10/2023;DT8DT08FE12LJ
+2369;78731;16350;income-tax-return-data;tax_report_total_income_value;19000;3;12/10/2023;DT8DT08FE12LJ
+2370;78731;16350;income-tax-return-data;tax_report_total_assets_value;772264000;3;12/10/2023;DT8DT08FE12LJ
+2371;78731;16350;income-tax-return-data;tax_report_total_equity_value;245017000;3;12/10/2023;DT8DT08FE12LJ
+2372;78731;16350;income-tax-return-data;tax_report_total_debt_value;527247000;3;12/10/2023;DT8DT08FE12LJ
+2373;78731;16350;income-tax-return-data;tax_report_total_tax;0;3;12/10/2023;DT8DT08FE12LJ
+2374;78731;16350;income-tax-return-data;tax_report_value_to_pay;0;3;12/10/2023;DT8DT08FE12LJ
+2375;78731;16350;background-checks-data;public_db_result;found;3;12/10/2023;DT8DT08FE12LJ
+2376;78731;16350;background-checks-data;public_db_check_id;CHKa96a3d647818ad0196f433c3299904c3;3;12/10/2023;DT8DT08FE12LJ
+2377;78731;16350;background-checks-data;public_db_check_id_date;6/10/2023 17:30;3;12/10/2023;DT8DT08FE12LJ
+2378;78731;16350;background-checks-data;public_db_no_lawsuits;4;3;12/10/2023;DT8DT08FE12LJ
+2379;78731;16350;background-checks-data;public_db_no_lawsuits_defendant;1;3;12/10/2023;DT8DT08FE12LJ
+2380;78731;16350;background-checks-data;public_db_no_lawsuits_defendant_money;1;3;12/10/2023;DT8DT08FE12LJ
+2381;78731;16350;background-checks-data;public_db_tax_responsable;no;3;12/10/2023;DT8DT08FE12LJ
+2382;78731;16350;background-checks-data;public_db_tax_responsable_bdme;;3;12/10/2023;DT8DT08FE12LJ
+2383;78731;16350;background-checks-data;public_db_medical_status;;3;12/10/2023;DT8DT08FE12LJ
+2384;78731;16350;background-checks-data;public_db_medical_regime;;3;12/10/2023;DT8DT08FE12LJ
+2385;78731;16350;background-checks-data;public_db_medical_type;;3;12/10/2023;DT8DT08FE12LJ
+2386;78731;16350;background-checks-data;public_db_pension_status;;3;12/10/2023;DT8DT08FE12LJ
+2387;78731;16350;background-checks-data;public_db_pension_regime;;3;12/10/2023;DT8DT08FE12LJ
+2388;78731;16350;background-checks-data;public_db_ccf_status;;3;12/10/2023;DT8DT08FE12LJ
+2389;78731;16350;background-checks-data;public_db_ccf_type;;3;12/10/2023;DT8DT08FE12LJ
+2390;78731;16350;background-checks-data;public_db_welfare_status;;3;12/10/2023;DT8DT08FE12LJ
+2391;78731;16350;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;12/10/2023;DT8DT08FE12LJ
+2392;78731;16350;background-checks-data;public_db_check_dni;vigente;3;12/10/2023;DT8DT08FE12LJ
+2393;78731;16350;background-checks-data;public_db_check_pedofile;found-none;3;12/10/2023;DT8DT08FE12LJ
+2394;78731;16350;background-checks-data;public_db_personal_identity_score;10;3;12/10/2023;DT8DT08FE12LJ
+2395;78731;16350;background-checks-data;public_db_criminal_record_score;10;3;12/10/2023;DT8DT08FE12LJ
+2396;78731;16350;background-checks-data;public_db_legal_background_score;6;3;12/10/2023;DT8DT08FE12LJ
+2397;78731;16350;background-checks-data;public_db_international_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2398;78731;16350;background-checks-data;public_db_professional_background_score;10;3;12/10/2023;DT8DT08FE12LJ
+2399;78731;16350;background-checks-data;public_db_affiliations_and_insurances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2400;78731;16350;background-checks-data;public_db_alert_in_media_score;10;3;12/10/2023;DT8DT08FE12LJ
+2401;78731;16350;background-checks-data;public_db_taxes_and_finances_score;10;3;12/10/2023;DT8DT08FE12LJ
+2402;78731;16350;background-checks-data;table data_proceso_judicial;;3;12/10/2023;DT8DT08FE12LJ
+2403;78731;16350;snr-data;snr_result;found;3;12/10/2023;DT8DT08FE12LJ
+2404;78731;16350;snr-data;snr_check_id;F20231009081502U16350S78731;3;12/10/2023;DT8DT08FE12LJ
+2405;78731;16350;snr-data;snr_check_id_date;9/10/2023 8:15;3;12/10/2023;DT8DT08FE12LJ
+2406;78731;16350;snr-data;snr_no_records;2;3;12/10/2023;DT8DT08FE12LJ
+2407;78731;16350;snr-data;snr_no_unique_id_number;2;3;12/10/2023;DT8DT08FE12LJ
+2408;78731;16350;snr-data;snr_estimated_unique_properties;2;3;12/10/2023;DT8DT08FE12LJ
+6363;75809;12314;general-loan-data;line_of_credit;3;3;31/10/2023;DE2RS46OY26DA
+6364;75809;12314;general-loan-data;type_of_loan;H;3;31/10/2023;DE2RS46OY26DA
+6365;75809;12314;general-loan-data;id_loan_request;75809;3;31/10/2023;DE2RS46OY26DA
+6366;75809;12314;general-loan-data;original_amount;$ 250.000.000,00;3;31/10/2023;DE2RS46OY26DA
+6367;75809;12314;general-loan-data;pct_interest_rate;0,406063132;3;31/10/2023;DE2RS46OY26DA
+6368;75809;12314;general-loan-data;loan_to_value_ratio;0,28346956;3;31/10/2023;DE2RS46OY26DA
+6369;75809;12314;general-loan-data;amortization_schedule;0;3;31/10/2023;DE2RS46OY26DA
+6370;75809;12314;general-loan-data;payment_frequency;30;3;31/10/2023;DE2RS46OY26DA
+6371;75809;12314;general-loan-data;value_monthly_payments;$ 7.201.646,00;3;31/10/2023;DE2RS46OY26DA
+6372;75809;12314;general-loan-data;loan_duration;60;3;31/10/2023;DE2RS46OY26DA
+6373;75809;12314;general-loan-data;no_debtors;2;3;31/10/2023;DE2RS46OY26DA
+6374;75809;12314;other-loan-data;use_of_funds;to pay taxes;3;31/10/2023;DE2RS46OY26DA
+6375;75809;12314;other-loan-data;advance_value;0;3;31/10/2023;DE2RS46OY26DA
+6376;75809;12314;other-loan-data;advance_use_of_funds;;3;31/10/2023;DE2RS46OY26DA
+6377;75809;12314;loan-scores;id_advisor;7936;3;31/10/2023;DE2RS46OY26DA
+6378;75809;12314;loan-scores;beauty_score;6;3;31/10/2023;DE2RS46OY26DA
+6379;75809;12314;loan-scores;cleaness_score;6;3;31/10/2023;DE2RS46OY26DA
+6380;75809;12314;loan-scores;advisor_score;8;3;31/10/2023;DE2RS46OY26DA
+6381;75809;12314;loan-scores;id_analist;6353;3;31/10/2023;DE2RS46OY26DA
+6382;75809;12314;loan-scores;analist_score;5;3;31/10/2023;DE2RS46OY26DA
+6383;75809;12314;loan-scores;id_inspector;0;3;31/10/2023;DE2RS46OY26DA
+6384;75809;12314;loan-scores;inspection_score;0;3;31/10/2023;DE2RS46OY26DA
+6385;75809;12314;collateral-data;id_collateral;953;3;31/10/2023;DE2RS46OY26DA
+6386;75809;12314;collateral-data;type_collateral;casa;3;31/10/2023;DE2RS46OY26DA
+6387;75809;12314;collateral-data;id_location_collateral;107;3;31/10/2023;DE2RS46OY26DA
+6388;75809;12314;collateral-data;location_collateral;bogota d.c.;3;31/10/2023;DE2RS46OY26DA
+6389;75809;12314;collateral-data;collateral_identification_number;50N-634464;3;31/10/2023;DE2RS46OY26DA
+6390;75809;12314;collateral-data;collateral_purchase_date;29/12/2022;3;31/10/2023;DE2RS46OY26DA
+6391;75809;12314;collateral-data;collateral_tax_value;$ 1.195.950.000,00;3;31/10/2023;DE2RS46OY26DA
+6392;75809;12314;collateral-data;collateral_commercial_value;$ 881.928.910,00;3;31/10/2023;DE2RS46OY26DA
+6393;75809;12314;collateral-data;collateral_tax_to_value_ratio;1,3561;3;31/10/2023;DE2RS46OY26DA
+6394;75809;12314;collateral-data;collateral_area;550;3;31/10/2023;DE2RS46OY26DA
+6395;75809;12314;collateral-data;collateral_condominium_status;no;3;31/10/2023;DE2RS46OY26DA
+6396;75809;12314;collateral-data;collateral_tax_status;current;3;31/10/2023;DE2RS46OY26DA
+6397;75809;12314;collateral-data;collateral_tax_delinquency_value;0;3;31/10/2023;DE2RS46OY26DA
+6398;75809;12314;collateral-data;collateral_tax_no_delinquency_payments;0;3;31/10/2023;DE2RS46OY26DA
+6399;75809;12314;collateral-data;collateral_admin_status;current;3;31/10/2023;DE2RS46OY26DA
+6400;75809;12314;collateral-data;collateral_admin_delinquency_value;0;3;31/10/2023;DE2RS46OY26DA
+6401;75809;12314;collateral-data;collateral_admin_no_delinquency_payments;0;3;31/10/2023;DE2RS46OY26DA
+6402;75809;12314;collateral-taxes;tax_record_result;found;3;31/10/2023;DE2RS46OY26DA
+6403;75809;12314;collateral-taxes;tax_record_no_records;1;3;31/10/2023;DE2RS46OY26DA
+6404;75809;12314;collateral-taxes;tax_record_status;current;3;31/10/2023;DE2RS46OY26DA
+6405;75809;12314;collateral-taxes;tax_record_delinquency_value;0;3;31/10/2023;DE2RS46OY26DA
+6406;75809;12314;collateral-taxes;tax_record_no_delinquency_payments;0;3;31/10/2023;DE2RS46OY26DA
+6407;75809;12314;collateral-taxes;tax_record_validation;ok;3;31/10/2023;DE2RS46OY26DA
+6408;75809;12314;collateral-taxes;table data_tax_record;;3;31/10/2023;DE2RS46OY26DA
+6409;75809;12314;personal-data;id_user;12314;3;31/10/2023;DE2RS46OY26DA
+6410;75809;12314;personal-data;id_type_debtor;1;3;31/10/2023;DE2RS46OY26DA
+6411;75809;12314;personal-data;debtor_full_name;;3;31/10/2023;DE2RS46OY26DA
+6412;75809;12314;personal-data;debtor_age;24;3;31/10/2023;DE2RS46OY26DA
+6413;75809;12314;personal-data;debtor_gender;male;3;31/10/2023;DE2RS46OY26DA
+6414;75809;12314;personal-data;debtor_type_dni;cc;3;31/10/2023;DE2RS46OY26DA
+6415;75809;12314;personal-data;debtor_dni;1014308339;3;31/10/2023;DE2RS46OY26DA
+6416;75809;12314;personal-data;id_debtor_nacionality;43;3;31/10/2023;DE2RS46OY26DA
+6417;75809;12314;personal-data;id_debtor_country_residence;52;3;31/10/2023;DE2RS46OY26DA
+6418;75809;12314;personal-data;id_debtor_dept_residence;11;3;31/10/2023;DE2RS46OY26DA
+6419;75809;12314;personal-data;id_debtor_mun_residence;107;3;31/10/2023;DE2RS46OY26DA
+6420;75809;12314;personal-data;debtor_date_birth;6/07/1999;3;31/10/2023;DE2RS46OY26DA
+6421;75809;12314;personal-data;debtor_marital_status;single;3;31/10/2023;DE2RS46OY26DA
+6422;75809;12314;personal-data;debtor_social_stratum;3;3;31/10/2023;DE2RS46OY26DA
+6423;75809;12314;personal-data;debtor_level_of_education;6;3;31/10/2023;DE2RS46OY26DA
+6424;75809;12314;personal-data;debtor_no_dependants;0;3;31/10/2023;DE2RS46OY26DA
+6425;75809;12314;personal-data;debtor_file_tax_reports;yes;3;31/10/2023;DE2RS46OY26DA
+6426;75809;12314;personal-data;debtor_tenure_at_curr_address;24;3;31/10/2023;DE2RS46OY26DA
+6427;75809;12314;personal-data;debtor_abroad_residence;no;3;31/10/2023;DE2RS46OY26DA
+6428;75809;12314;personal-data;debtor_reports_credit_agency;no;3;31/10/2023;DE2RS46OY26DA
+6429;75809;12314;personal-data;debtor_reports_credit_agency_party;;3;31/10/2023;DE2RS46OY26DA
+6430;75809;12314;personal-data;debtor_reports_credit_agency_party_other;;3;31/10/2023;DE2RS46OY26DA
+6431;75809;12314;labour-data;debtor_employment_status;employee;3;31/10/2023;DE2RS46OY26DA
+6432;75809;12314;labour-data;id_debtor_range_of_income;12;3;31/10/2023;DE2RS46OY26DA
+6433;75809;12314;labour-data;payroll_frequency;15;3;31/10/2023;DE2RS46OY26DA
+6434;75809;12314;labour-data;id_debtor_bank;16;3;31/10/2023;DE2RS46OY26DA
+6435;75809;12314;labour-data;id_debtor_occupation;46;3;31/10/2023;DE2RS46OY26DA
+6436;75809;12314;labour-data;debtor_occupation;analistas financieros;3;31/10/2023;DE2RS46OY26DA
+6437;75809;12314;labour-data;id_debtor_position;4;3;31/10/2023;DE2RS46OY26DA
+6438;75809;12314;labour-data;debtor_position;profesional junior;3;31/10/2023;DE2RS46OY26DA
+6439;75809;12314;labour-data;debtor_business_type;private;3;31/10/2023;DE2RS46OY26DA
+6440;75809;12314;labour-data;debtor_business_name;;3;31/10/2023;DE2RS46OY26DA
+6441;75809;12314;labour-data;debtor_business_date_admission;18/07/2022;3;31/10/2023;DE2RS46OY26DA
+6442;75809;12314;labour-data;debtor_duration_of_curr_employment;1;3;31/10/2023;DE2RS46OY26DA
+6443;75809;12314;labour-data;debtor_years_experience;1;3;31/10/2023;DE2RS46OY26DA
+6444;75809;12314;labour-data;id_debtor_business_activity;24;3;31/10/2023;DE2RS46OY26DA
+6445;75809;12314;labour-data;debtor_business_activity;servicios financieros;3;31/10/2023;DE2RS46OY26DA
+6446;75809;12314;labour-data;debtor_business_phone;5,76E+11;3;31/10/2023;DE2RS46OY26DA
+6447;75809;12314;labour-data;debtor_type_of_employment_contract;permanent-contract;3;31/10/2023;DE2RS46OY26DA
+6448;75809;12314;labour-data;debtor_business_registration;;3;31/10/2023;DE2RS46OY26DA
+6449;75809;12314;labour-data;debtor_business_tin;;3;31/10/2023;DE2RS46OY26DA
+6450;75809;12314;labour-data;id_debtor_other_income;0;3;31/10/2023;DE2RS46OY26DA
+6451;75809;12314;labour-data;table data_centrales_riesgo_obligaciones;;3;31/10/2023;DE2RS46OY26DA
+6452;75809;12314;credit-bureau-data;report_result;found;3;31/10/2023;DE2RS46OY26DA
+6453;75809;12314;credit-bureau-data;report_checkid;2,15E+19;3;31/10/2023;DE2RS46OY26DA
+6454;75809;12314;credit-bureau-data;report_date;30/10/2023 12:50;3;31/10/2023;DE2RS46OY26DA
+6455;75809;12314;credit-bureau-data;debtor_credit_agency;transunion;3;31/10/2023;DE2RS46OY26DA
+6456;75809;12314;credit-bureau-data;debtor_credit_score;608;3;31/10/2023;DE2RS46OY26DA
+6457;75809;12314;credit-bureau-data;debtor_default_loans;0;3;31/10/2023;DE2RS46OY26DA
+6458;75809;12314;credit-bureau-data;debtor_credit_agency_min_probable_income;8508200;3;31/10/2023;DE2RS46OY26DA
+6459;75809;12314;credit-bureau-data;debtor_payment_capacity;260346;3;31/10/2023;DE2RS46OY26DA
+6460;75809;12314;credit-bureau-data;debtor_current_loan_value;78648;3;31/10/2023;DE2RS46OY26DA
+6461;75809;12314;credit-bureau-data;debtor_current_no_loans;13;3;31/10/2023;DE2RS46OY26DA
+6462;75809;12314;credit-bureau-data;debtor_current_total_payment;8713;3;31/10/2023;DE2RS46OY26DA
+6463;75809;12314;credit-bureau-data;debtor_current_delinquency_value;0;3;31/10/2023;DE2RS46OY26DA
+6464;75809;12314;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6465;75809;12314;credit-bureau-data;debtor_total_loan_value;92428;3;31/10/2023;DE2RS46OY26DA
+6466;75809;12314;credit-bureau-data;debtor_total_no_loans;11;3;31/10/2023;DE2RS46OY26DA
+6467;75809;12314;credit-bureau-data;debtor_total_highest_loan_value;35089;3;31/10/2023;DE2RS46OY26DA
+6468;75809;12314;credit-bureau-data;debtor_total_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6469;75809;12314;credit-bureau-data;debtor_total_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6470;75809;12314;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6471;75809;12314;credit-bureau-data;debtor_total_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6472;75809;12314;credit-bureau-data;debtor_closed_loan_value;10300;3;31/10/2023;DE2RS46OY26DA
+6473;75809;12314;credit-bureau-data;debtor_closed_no_loans;2;3;31/10/2023;DE2RS46OY26DA
+6474;75809;12314;credit-bureau-data;debtor_closed_highest_loan_value;10000;3;31/10/2023;DE2RS46OY26DA
+6475;75809;12314;credit-bureau-data;debtor_closed_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6476;75809;12314;credit-bureau-data;debtor_closed_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6477;75809;12314;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6478;75809;12314;credit-bureau-data;debtor_closed_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6479;75809;12314;credit-bureau-data;debtor_current_highest_loan_value;35089;3;31/10/2023;DE2RS46OY26DA
+6480;75809;12314;credit-bureau-data;debtor_current_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6481;75809;12314;credit-bureau-data;debtor_current_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6482;75809;12314;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6483;75809;12314;credit-bureau-data;debtor_current_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6484;75809;12314;credit-bureau-data;debtor_current_no_tcr;4;3;31/10/2023;DE2RS46OY26DA
+6485;75809;12314;credit-bureau-data;debtor_current_tcr_initial_limit;8000;3;31/10/2023;DE2RS46OY26DA
+6486;75809;12314;credit-bureau-data;debtor_current_tcr_value;5937;3;31/10/2023;DE2RS46OY26DA
+6487;75809;12314;credit-bureau-data;debtor_current_tcr_usage;0,742125;3;31/10/2023;DE2RS46OY26DA
+6488;75809;12314;credit-bureau-data;table query_cr_obligaciones_1;;3;31/10/2023;DE2RS46OY26DA
+6489;75809;12314;credit-bureau-data;table query_cr_obligaciones_2;;3;31/10/2023;DE2RS46OY26DA
+6490;75809;12314;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;31/10/2023;DE2RS46OY26DA
+6491;75809;12314;bank-statement-data;bank_statement_result;found;3;31/10/2023;DE2RS46OY26DA
+6492;75809;12314;bank-statement-data;id_document;2.218.422.185.221.870.000.000.000;3;31/10/2023;DE2RS46OY26DA
+6493;75809;12314;bank-statement-data;bank_account_validation;2,2,2,1,1;3;31/10/2023;DE2RS46OY26DA
+6494;75809;12314;bank-statement-data;bank_statement_no_days;153;3;31/10/2023;DE2RS46OY26DA
+6495;75809;12314;bank-statement-data;bank_statement_max_days_passed;92;3;31/10/2023;DE2RS46OY26DA
+6496;75809;12314;bank-statement-data;bank_no_records;92;3;31/10/2023;DE2RS46OY26DA
+6497;75809;12314;bank-statement-data;bank_monthly_avg_blance;21572,82;3;31/10/2023;DE2RS46OY26DA
+6498;75809;12314;bank-statement-data;bank_monthly_avg_credit_value;5488643,814;3;31/10/2023;DE2RS46OY26DA
+6499;75809;12314;bank-statement-data;bank_monthly_avg_debit_value;-3565836,586;3;31/10/2023;DE2RS46OY26DA
+6500;75809;12314;bank-statement-data;bank_monthly_avg_payroll_value;721456;3;31/10/2023;DE2RS46OY26DA
+6501;75809;12314;bank-statement-data;bank_monthly_avg_no_credit_records;3,6;3;31/10/2023;DE2RS46OY26DA
+6502;75809;12314;bank-statement-data;bank_monthly_avg_no_payroll_records;0,8;3;31/10/2023;DE2RS46OY26DA
+6503;75809;12314;income-tax-return-data;tax_report_result;found;3;31/10/2023;DE2RS46OY26DA
+6504;75809;12314;income-tax-return-data;tax_report_year;2022;3;31/10/2023;DE2RS46OY26DA
+6505;75809;12314;income-tax-return-data;tax_report_total_income_value;$ 11.513.000,00;3;31/10/2023;DE2RS46OY26DA
+6506;75809;12314;income-tax-return-data;tax_report_total_assets_value;$ 851.349.000,00;3;31/10/2023;DE2RS46OY26DA
+6507;75809;12314;income-tax-return-data;tax_report_total_equity_value;$ 848.642.000,00;3;31/10/2023;DE2RS46OY26DA
+6508;75809;12314;income-tax-return-data;tax_report_total_debt_value;$ 8.707.000,00;3;31/10/2023;DE2RS46OY26DA
+6509;75809;12314;income-tax-return-data;tax_report_total_tax;$ 0,00;3;31/10/2023;DE2RS46OY26DA
+6510;75809;12314;income-tax-return-data;tax_report_value_to_pay;$ 51.012.000,00;3;31/10/2023;DE2RS46OY26DA
+6511;75809;12314;background-checks-data;public_db_result;found;3;31/10/2023;DE2RS46OY26DA
+6512;75809;12314;background-checks-data;public_db_check_id;CHKd23bc000dd78b31052c90c794c8d8d27;3;31/10/2023;DE2RS46OY26DA
+6513;75809;12314;background-checks-data;public_db_check_id_date;30/10/2023 14:44;3;31/10/2023;DE2RS46OY26DA
+6514;75809;12314;background-checks-data;public_db_no_lawsuits;9;3;31/10/2023;DE2RS46OY26DA
+6515;75809;12314;background-checks-data;public_db_no_lawsuits_defendant;;3;31/10/2023;DE2RS46OY26DA
+6516;75809;12314;background-checks-data;public_db_no_lawsuits_defendant_money;;3;31/10/2023;DE2RS46OY26DA
+6517;75809;12314;background-checks-data;public_db_tax_responsable;no;3;31/10/2023;DE2RS46OY26DA
+6518;75809;12314;background-checks-data;public_db_tax_responsable_bdme;;3;31/10/2023;DE2RS46OY26DA
+6519;75809;12314;background-checks-data;public_db_medical_status;activo;3;31/10/2023;DE2RS46OY26DA
+6520;75809;12314;background-checks-data;public_db_medical_regime;contributivo;3;31/10/2023;DE2RS46OY26DA
+6521;75809;12314;background-checks-data;public_db_medical_type;cotizante;3;31/10/2023;DE2RS46OY26DA
+6522;75809;12314;background-checks-data;public_db_pension_status;activo no cotizante;3;31/10/2023;DE2RS46OY26DA
+6523;75809;12314;background-checks-data;public_db_pension_regime;pensiones: ahorro individual;3;31/10/2023;DE2RS46OY26DA
+6524;75809;12314;background-checks-data;public_db_ccf_status;;3;31/10/2023;DE2RS46OY26DA
+6525;75809;12314;background-checks-data;public_db_ccf_type;;3;31/10/2023;DE2RS46OY26DA
+6526;75809;12314;background-checks-data;public_db_welfare_status;;3;31/10/2023;DE2RS46OY26DA
+6527;75809;12314;background-checks-data;public_db_police_check_result;is_missing;3;31/10/2023;DE2RS46OY26DA
+6528;75809;12314;background-checks-data;public_db_check_dni;vigente;3;31/10/2023;DE2RS46OY26DA
+6529;75809;12314;background-checks-data;public_db_check_pedofile;found-none;3;31/10/2023;DE2RS46OY26DA
+6530;75809;12314;background-checks-data;public_db_personal_identity_score;10;3;31/10/2023;DE2RS46OY26DA
+6531;75809;12314;background-checks-data;public_db_criminal_record_score;10;3;31/10/2023;DE2RS46OY26DA
+6532;75809;12314;background-checks-data;public_db_legal_background_score;0;3;31/10/2023;DE2RS46OY26DA
+6533;75809;12314;background-checks-data;public_db_international_background_score;10;3;31/10/2023;DE2RS46OY26DA
+6534;75809;12314;background-checks-data;public_db_professional_background_score;10;3;31/10/2023;DE2RS46OY26DA
+6535;75809;12314;background-checks-data;public_db_affiliations_and_insurances_score;10;3;31/10/2023;DE2RS46OY26DA
+6536;75809;12314;background-checks-data;public_db_alert_in_media_score;0;3;31/10/2023;DE2RS46OY26DA
+6537;75809;12314;background-checks-data;public_db_taxes_and_finances_score;10;3;31/10/2023;DE2RS46OY26DA
+6538;75809;12314;background-checks-data;table data_proceso_judicial;;3;31/10/2023;DE2RS46OY26DA
+6539;75809;12314;snr-data;snr_result;found;3;31/10/2023;DE2RS46OY26DA
+6540;75809;12314;snr-data;snr_check_id;F20231030125750U12314S75809;3;31/10/2023;DE2RS46OY26DA
+6541;75809;12314;snr-data;snr_check_id_date;30/10/2023 12:57;3;31/10/2023;DE2RS46OY26DA
+6542;75809;12314;snr-data;snr_no_records;2;3;31/10/2023;DE2RS46OY26DA
+6543;75809;12314;snr-data;snr_no_unique_id_number;2;3;31/10/2023;DE2RS46OY26DA
+6544;75809;12314;snr-data;snr_estimated_unique_properties;2;3;31/10/2023;DE2RS46OY26DA
+6545;75809;17033;personal-data;id_user;17033;3;31/10/2023;DE2RS46OY26DA
+6546;75809;17033;personal-data;id_type_debtor;2;3;31/10/2023;DE2RS46OY26DA
+6547;75809;17033;personal-data;debtor_full_name;;3;31/10/2023;DE2RS46OY26DA
+6548;75809;17033;personal-data;debtor_age;26;3;31/10/2023;DE2RS46OY26DA
+6549;75809;17033;personal-data;debtor_gender;female;3;31/10/2023;DE2RS46OY26DA
+6550;75809;17033;personal-data;debtor_type_dni;cc;3;31/10/2023;DE2RS46OY26DA
+6551;75809;17033;personal-data;debtor_dni;1015471952;3;31/10/2023;DE2RS46OY26DA
+6552;75809;17033;personal-data;id_debtor_nacionality;43;3;31/10/2023;DE2RS46OY26DA
+6553;75809;17033;personal-data;id_debtor_country_residence;13;3;31/10/2023;DE2RS46OY26DA
+6554;75809;17033;personal-data;id_debtor_dept_residence;is_missing;3;31/10/2023;DE2RS46OY26DA
+6555;75809;17033;personal-data;id_debtor_mun_residence;is_missing;3;31/10/2023;DE2RS46OY26DA
+6556;75809;17033;personal-data;debtor_date_birth;30/10/1997;3;31/10/2023;DE2RS46OY26DA
+6557;75809;17033;personal-data;debtor_marital_status;single;3;31/10/2023;DE2RS46OY26DA
+6558;75809;17033;personal-data;debtor_social_stratum;3;3;31/10/2023;DE2RS46OY26DA
+6559;75809;17033;personal-data;debtor_level_of_education;6;3;31/10/2023;DE2RS46OY26DA
+6560;75809;17033;personal-data;debtor_no_dependants;0;3;31/10/2023;DE2RS46OY26DA
+6561;75809;17033;personal-data;debtor_file_tax_reports;yes;3;31/10/2023;DE2RS46OY26DA
+6562;75809;17033;personal-data;debtor_tenure_at_curr_address;5;3;31/10/2023;DE2RS46OY26DA
+6563;75809;17033;personal-data;debtor_abroad_residence;yes;3;31/10/2023;DE2RS46OY26DA
+6564;75809;17033;personal-data;debtor_reports_credit_agency;no;3;31/10/2023;DE2RS46OY26DA
+6565;75809;17033;personal-data;debtor_reports_credit_agency_party;;3;31/10/2023;DE2RS46OY26DA
+6566;75809;17033;personal-data;debtor_reports_credit_agency_party_other;;3;31/10/2023;DE2RS46OY26DA
+6567;75809;17033;labour-data;debtor_employment_status;employee;3;31/10/2023;DE2RS46OY26DA
+6568;75809;17033;labour-data;id_debtor_range_of_income;6;3;31/10/2023;DE2RS46OY26DA
+6569;75809;17033;labour-data;payroll_frequency;30;3;31/10/2023;DE2RS46OY26DA
+6570;75809;17033;labour-data;id_debtor_bank;4;3;31/10/2023;DE2RS46OY26DA
+6571;75809;17033;labour-data;id_debtor_occupation;17;3;31/10/2023;DE2RS46OY26DA
+6572;75809;17033;labour-data;debtor_occupation;enfermera (a);3;31/10/2023;DE2RS46OY26DA
+6573;75809;17033;labour-data;id_debtor_position;2;3;31/10/2023;DE2RS46OY26DA
+6574;75809;17033;labour-data;debtor_position;auxiliar, asistente;3;31/10/2023;DE2RS46OY26DA
+6575;75809;17033;labour-data;debtor_business_type;private;3;31/10/2023;DE2RS46OY26DA
+6576;75809;17033;labour-data;debtor_business_name;;3;31/10/2023;DE2RS46OY26DA
+6577;75809;17033;labour-data;debtor_business_date_admission;1/12/2016;3;31/10/2023;DE2RS46OY26DA
+6578;75809;17033;labour-data;debtor_duration_of_curr_employment;6;3;31/10/2023;DE2RS46OY26DA
+6579;75809;17033;labour-data;debtor_years_experience;7;3;31/10/2023;DE2RS46OY26DA
+6580;75809;17033;labour-data;id_debtor_business_activity;16;3;31/10/2023;DE2RS46OY26DA
+6581;75809;17033;labour-data;debtor_business_activity;salud ;3;31/10/2023;DE2RS46OY26DA
+6582;75809;17033;labour-data;debtor_business_phone;5,41E+11;3;31/10/2023;DE2RS46OY26DA
+6583;75809;17033;labour-data;debtor_type_of_employment_contract;independent-contractor;3;31/10/2023;DE2RS46OY26DA
+6584;75809;17033;labour-data;debtor_business_registration;;3;31/10/2023;DE2RS46OY26DA
+6585;75809;17033;labour-data;debtor_business_tin;;3;31/10/2023;DE2RS46OY26DA
+6586;75809;17033;labour-data;id_debtor_other_income;0;3;31/10/2023;DE2RS46OY26DA
+6587;75809;17033;labour-data;table data_centrales_riesgo_obligaciones;;3;31/10/2023;DE2RS46OY26DA
+6588;75809;17033;credit-bureau-data;report_result;found;3;31/10/2023;DE2RS46OY26DA
+6589;75809;17033;credit-bureau-data;report_checkid;2,15E+19;3;31/10/2023;DE2RS46OY26DA
+6590;75809;17033;credit-bureau-data;report_date;30/10/2023 12:51;3;31/10/2023;DE2RS46OY26DA
+6591;75809;17033;credit-bureau-data;debtor_credit_agency;transunion;3;31/10/2023;DE2RS46OY26DA
+6592;75809;17033;credit-bureau-data;debtor_credit_score;-4;3;31/10/2023;DE2RS46OY26DA
+6593;75809;17033;credit-bureau-data;debtor_default_loans;0;3;31/10/2023;DE2RS46OY26DA
+6594;75809;17033;credit-bureau-data;debtor_credit_agency_min_probable_income;;3;31/10/2023;DE2RS46OY26DA
+6595;75809;17033;credit-bureau-data;debtor_payment_capacity;;3;31/10/2023;DE2RS46OY26DA
+6596;75809;17033;credit-bureau-data;debtor_current_loan_value;;3;31/10/2023;DE2RS46OY26DA
+6597;75809;17033;credit-bureau-data;debtor_current_no_loans;;3;31/10/2023;DE2RS46OY26DA
+6598;75809;17033;credit-bureau-data;debtor_current_total_payment;0;3;31/10/2023;DE2RS46OY26DA
+6599;75809;17033;credit-bureau-data;debtor_current_delinquency_value;;3;31/10/2023;DE2RS46OY26DA
+6600;75809;17033;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6601;75809;17033;credit-bureau-data;debtor_total_loan_value;0;3;31/10/2023;DE2RS46OY26DA
+6602;75809;17033;credit-bureau-data;debtor_total_no_loans;;3;31/10/2023;DE2RS46OY26DA
+6603;75809;17033;credit-bureau-data;debtor_total_highest_loan_value;0;3;31/10/2023;DE2RS46OY26DA
+6604;75809;17033;credit-bureau-data;debtor_total_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6605;75809;17033;credit-bureau-data;debtor_total_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6606;75809;17033;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6607;75809;17033;credit-bureau-data;debtor_total_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6608;75809;17033;credit-bureau-data;debtor_closed_loan_value;0;3;31/10/2023;DE2RS46OY26DA
+6609;75809;17033;credit-bureau-data;debtor_closed_no_loans;0;3;31/10/2023;DE2RS46OY26DA
+6610;75809;17033;credit-bureau-data;debtor_closed_highest_loan_value;0;3;31/10/2023;DE2RS46OY26DA
+6611;75809;17033;credit-bureau-data;debtor_closed_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6612;75809;17033;credit-bureau-data;debtor_closed_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6613;75809;17033;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6614;75809;17033;credit-bureau-data;debtor_closed_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6615;75809;17033;credit-bureau-data;debtor_current_highest_loan_value;0;3;31/10/2023;DE2RS46OY26DA
+6616;75809;17033;credit-bureau-data;debtor_current_no_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6617;75809;17033;credit-bureau-data;debtor_current_max_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6618;75809;17033;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;31/10/2023;DE2RS46OY26DA
+6619;75809;17033;credit-bureau-data;debtor_current_no_similar_loans;0;3;31/10/2023;DE2RS46OY26DA
+6620;75809;17033;credit-bureau-data;debtor_current_no_tcr;0;3;31/10/2023;DE2RS46OY26DA
+6621;75809;17033;credit-bureau-data;debtor_current_tcr_initial_limit;0;3;31/10/2023;DE2RS46OY26DA
+6622;75809;17033;credit-bureau-data;debtor_current_tcr_value;0;3;31/10/2023;DE2RS46OY26DA
+6623;75809;17033;credit-bureau-data;debtor_current_tcr_usage;0;3;31/10/2023;DE2RS46OY26DA
+6624;75809;17033;credit-bureau-data;table query_cr_obligaciones_1;;3;31/10/2023;DE2RS46OY26DA
+6625;75809;17033;credit-bureau-data;table query_cr_obligaciones_2;;3;31/10/2023;DE2RS46OY26DA
+6626;75809;17033;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;31/10/2023;DE2RS46OY26DA
+6627;75809;17033;bank-statement-data;bank_statement_result;found;3;31/10/2023;DE2RS46OY26DA
+6628;75809;17033;bank-statement-data;id_document;23095;3;31/10/2023;DE2RS46OY26DA
+6629;75809;17033;bank-statement-data;bank_account_validation;0;3;31/10/2023;DE2RS46OY26DA
+6630;75809;17033;bank-statement-data;bank_statement_no_days;90;3;31/10/2023;DE2RS46OY26DA
+6631;75809;17033;bank-statement-data;bank_statement_max_days_passed;1;3;31/10/2023;DE2RS46OY26DA
+6632;75809;17033;bank-statement-data;bank_no_records;0;3;31/10/2023;DE2RS46OY26DA
+6633;75809;17033;bank-statement-data;bank_monthly_avg_blance;0;3;31/10/2023;DE2RS46OY26DA
+6634;75809;17033;bank-statement-data;bank_monthly_avg_credit_value;0;3;31/10/2023;DE2RS46OY26DA
+6635;75809;17033;bank-statement-data;bank_monthly_avg_debit_value;0;3;31/10/2023;DE2RS46OY26DA
+6636;75809;17033;bank-statement-data;bank_monthly_avg_payroll_value;0;3;31/10/2023;DE2RS46OY26DA
+6637;75809;17033;bank-statement-data;bank_monthly_avg_no_credit_records;0;3;31/10/2023;DE2RS46OY26DA
+6638;75809;17033;bank-statement-data;bank_monthly_avg_no_payroll_records;0;3;31/10/2023;DE2RS46OY26DA
+6639;75809;17033;income-tax-return-data;tax_report_result;found;3;31/10/2023;DE2RS46OY26DA
+6640;75809;17033;income-tax-return-data;tax_report_year;2022;3;31/10/2023;DE2RS46OY26DA
+6641;75809;17033;income-tax-return-data;tax_report_total_income_value;48000000;3;31/10/2023;DE2RS46OY26DA
+6642;75809;17033;income-tax-return-data;tax_report_total_assets_value;789066000;3;31/10/2023;DE2RS46OY26DA
+6643;75809;17033;income-tax-return-data;tax_report_total_equity_value;789066000;3;31/10/2023;DE2RS46OY26DA
+6644;75809;17033;income-tax-return-data;tax_report_total_debt_value;0;3;31/10/2023;DE2RS46OY26DA
+6645;75809;17033;income-tax-return-data;tax_report_total_tax;0;3;31/10/2023;DE2RS46OY26DA
+6646;75809;17033;income-tax-return-data;tax_report_value_to_pay;51012000;3;31/10/2023;DE2RS46OY26DA
+6647;75809;17033;background-checks-data;public_db_result;found;3;31/10/2023;DE2RS46OY26DA
+6648;75809;17033;background-checks-data;public_db_check_id;CHK92f528d9ed65ff309af6628327b79529;3;31/10/2023;DE2RS46OY26DA
+6649;75809;17033;background-checks-data;public_db_check_id_date;30/10/2023 14:44;3;31/10/2023;DE2RS46OY26DA
+6650;75809;17033;background-checks-data;public_db_no_lawsuits;;3;31/10/2023;DE2RS46OY26DA
+6651;75809;17033;background-checks-data;public_db_no_lawsuits_defendant;;3;31/10/2023;DE2RS46OY26DA
+6652;75809;17033;background-checks-data;public_db_no_lawsuits_defendant_money;;3;31/10/2023;DE2RS46OY26DA
+6653;75809;17033;background-checks-data;public_db_tax_responsable;no;3;31/10/2023;DE2RS46OY26DA
+6654;75809;17033;background-checks-data;public_db_tax_responsable_bdme;;3;31/10/2023;DE2RS46OY26DA
+6655;75809;17033;background-checks-data;public_db_medical_status;activo;3;31/10/2023;DE2RS46OY26DA
+6656;75809;17033;background-checks-data;public_db_medical_regime;subsidiado;3;31/10/2023;DE2RS46OY26DA
+6657;75809;17033;background-checks-data;public_db_medical_type;cabeza de familia;3;31/10/2023;DE2RS46OY26DA
+6658;75809;17033;background-checks-data;public_db_pension_status;;3;31/10/2023;DE2RS46OY26DA
+6659;75809;17033;background-checks-data;public_db_pension_regime;;3;31/10/2023;DE2RS46OY26DA
+6660;75809;17033;background-checks-data;public_db_ccf_status;;3;31/10/2023;DE2RS46OY26DA
+6661;75809;17033;background-checks-data;public_db_ccf_type;;3;31/10/2023;DE2RS46OY26DA
+6662;75809;17033;background-checks-data;public_db_welfare_status;;3;31/10/2023;DE2RS46OY26DA
+6663;75809;17033;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;31/10/2023;DE2RS46OY26DA
+6664;75809;17033;background-checks-data;public_db_check_dni;vigente;3;31/10/2023;DE2RS46OY26DA
+6665;75809;17033;background-checks-data;public_db_check_pedofile;found-none;3;31/10/2023;DE2RS46OY26DA
+6666;75809;17033;background-checks-data;public_db_personal_identity_score;10;3;31/10/2023;DE2RS46OY26DA
+6667;75809;17033;background-checks-data;public_db_criminal_record_score;10;3;31/10/2023;DE2RS46OY26DA
+6668;75809;17033;background-checks-data;public_db_legal_background_score;10;3;31/10/2023;DE2RS46OY26DA
+6669;75809;17033;background-checks-data;public_db_international_background_score;10;3;31/10/2023;DE2RS46OY26DA
+6670;75809;17033;background-checks-data;public_db_professional_background_score;10;3;31/10/2023;DE2RS46OY26DA
+6671;75809;17033;background-checks-data;public_db_affiliations_and_insurances_score;10;3;31/10/2023;DE2RS46OY26DA
+6672;75809;17033;background-checks-data;public_db_alert_in_media_score;10;3;31/10/2023;DE2RS46OY26DA
+6673;75809;17033;background-checks-data;public_db_taxes_and_finances_score;10;3;31/10/2023;DE2RS46OY26DA
+6674;75809;17033;background-checks-data;table data_proceso_judicial;;3;31/10/2023;DE2RS46OY26DA
+6675;75809;17033;snr-data;snr_result;found;3;31/10/2023;DE2RS46OY26DA
+6676;75809;17033;snr-data;snr_check_id;F20231030125845U17033S75809;3;31/10/2023;DE2RS46OY26DA
+6677;75809;17033;snr-data;snr_check_id_date;30/10/2023 12:58;3;31/10/2023;DE2RS46OY26DA
+6678;75809;17033;snr-data;snr_no_records;2;3;31/10/2023;DE2RS46OY26DA
+6679;75809;17033;snr-data;snr_no_unique_id_number;2;3;31/10/2023;DE2RS46OY26DA
+6680;75809;17033;snr-data;snr_estimated_unique_properties;2;3;31/10/2023;DE2RS46OY26DA
+27311;79968;16544;general-loan-data;line_of_credit;3;3;19/01/2024;DM6IH43QW15MN
+27312;79968;16544;general-loan-data;type_of_loan;H;3;19/01/2024;DM6IH43QW15MN
+27313;79968;16544;general-loan-data;id_loan_request;79968;3;19/01/2024;DM6IH43QW15MN
+27314;79968;16544;general-loan-data;original_amount;$ 105.000.000,00;3;19/01/2024;DM6IH43QW15MN
+27315;79968;16544;general-loan-data;pct_interest_rate;0,406063132;3;19/01/2024;DM6IH43QW15MN
+27316;79968;16544;general-loan-data;loan_to_value_ratio;0,180723426;3;19/01/2024;DM6IH43QW15MN
+27317;79968;16544;general-loan-data;amortization_schedule;1;3;19/01/2024;DM6IH43QW15MN
+27318;79968;16544;general-loan-data;payment_frequency;30;3;19/01/2024;DM6IH43QW15MN
+27319;79968;16544;general-loan-data;value_monthly_payments;$ 3.697.486,00;3;19/01/2024;DM6IH43QW15MN
+27320;79968;16544;general-loan-data;loan_duration;60;3;19/01/2024;DM6IH43QW15MN
+27321;79968;16544;general-loan-data;no_debtors;1;3;19/01/2024;DM6IH43QW15MN
+27322;79968;16544;other-loan-data;use_of_funds;debt restructuring;3;19/01/2024;DM6IH43QW15MN
+27323;79968;16544;other-loan-data;advance_value;0;3;19/01/2024;DM6IH43QW15MN
+27324;79968;16544;other-loan-data;advance_use_of_funds;;3;19/01/2024;DM6IH43QW15MN
+27325;79968;16544;loan-scores;id_advisor;2503;3;19/01/2024;DM6IH43QW15MN
+27326;79968;16544;loan-scores;beauty_score;6;3;19/01/2024;DM6IH43QW15MN
+27327;79968;16544;loan-scores;cleaness_score;6;3;19/01/2024;DM6IH43QW15MN
+27328;79968;16544;loan-scores;advisor_score;8;3;19/01/2024;DM6IH43QW15MN
+27329;79968;16544;loan-scores;id_analist;6353;3;19/01/2024;DM6IH43QW15MN
+27330;79968;16544;loan-scores;analist_score;8;3;19/01/2024;DM6IH43QW15MN
+27331;79968;16544;loan-scores;id_inspector;0;3;19/01/2024;DM6IH43QW15MN
+27332;79968;16544;loan-scores;inspection_score;0;3;19/01/2024;DM6IH43QW15MN
+27333;79968;16544;collateral-data;id_collateral;1047;3;19/01/2024;DM6IH43QW15MN
+27334;79968;16544;collateral-data;type_collateral;casa;3;19/01/2024;DM6IH43QW15MN
+27335;79968;16544;collateral-data;id_location_collateral;107;3;19/01/2024;DM6IH43QW15MN
+27336;79968;16544;collateral-data;location_collateral;bogota d.c.;3;19/01/2024;DM6IH43QW15MN
+27337;79968;16544;collateral-data;collateral_identification_number;50C-667145;3;19/01/2024;DM6IH43QW15MN
+27338;79968;16544;collateral-data;collateral_purchase_date;26/07/2018;3;19/01/2024;DM6IH43QW15MN
+27339;79968;16544;collateral-data;collateral_tax_value;$ 283.104.000,00;3;19/01/2024;DM6IH43QW15MN
+27340;79968;16544;collateral-data;collateral_commercial_value;$ 580.998.283,00;3;19/01/2024;DM6IH43QW15MN
+27341;79968;16544;collateral-data;collateral_tax_to_value_ratio;0,4873;3;19/01/2024;DM6IH43QW15MN
+27342;79968;16544;collateral-data;collateral_area;283;3;19/01/2024;DM6IH43QW15MN
+27343;79968;16544;collateral-data;collateral_condominium_status;no;3;19/01/2024;DM6IH43QW15MN
+27344;79968;16544;collateral-data;collateral_tax_status;delinquent;3;19/01/2024;DM6IH43QW15MN
+27345;79968;16544;collateral-data;collateral_tax_delinquency_value;1554000;3;19/01/2024;DM6IH43QW15MN
+27346;79968;16544;collateral-data;collateral_tax_no_delinquency_payments;1;3;19/01/2024;DM6IH43QW15MN
+27347;79968;16544;collateral-data;collateral_admin_status;not_required;3;19/01/2024;DM6IH43QW15MN
+27348;79968;16544;collateral-data;collateral_admin_delinquency_value;;3;19/01/2024;DM6IH43QW15MN
+27349;79968;16544;collateral-data;collateral_admin_no_delinquency_payments;;3;19/01/2024;DM6IH43QW15MN
+27350;79968;16544;collateral-taxes;tax_record_result;found;3;19/01/2024;DM6IH43QW15MN
+27351;79968;16544;collateral-taxes;tax_record_no_records;3;3;19/01/2024;DM6IH43QW15MN
+27352;79968;16544;collateral-taxes;tax_record_status;current;3;19/01/2024;DM6IH43QW15MN
+27353;79968;16544;collateral-taxes;tax_record_delinquency_value;0;3;19/01/2024;DM6IH43QW15MN
+27354;79968;16544;collateral-taxes;tax_record_no_delinquency_payments;0;3;19/01/2024;DM6IH43QW15MN
+27355;79968;16544;collateral-taxes;tax_record_validation;is_inconsistent;3;19/01/2024;DM6IH43QW15MN
+27356;79968;16544;collateral-taxes;table data_tax_record;;3;19/01/2024;DM6IH43QW15MN
+27357;79968;16544;personal-data;id_user;16544;3;19/01/2024;DM6IH43QW15MN
+27358;79968;16544;personal-data;id_type_debtor;1;3;19/01/2024;DM6IH43QW15MN
+27359;79968;16544;personal-data;debtor_full_name;;3;19/01/2024;DM6IH43QW15MN
+27360;79968;16544;personal-data;debtor_age;51;3;19/01/2024;DM6IH43QW15MN
+27361;79968;16544;personal-data;debtor_gender;female;3;19/01/2024;DM6IH43QW15MN
+27362;79968;16544;personal-data;debtor_type_dni;cc;3;19/01/2024;DM6IH43QW15MN
+27363;79968;16544;personal-data;debtor_dni;39759871;3;19/01/2024;DM6IH43QW15MN
+27364;79968;16544;personal-data;id_debtor_nacionality;43;3;19/01/2024;DM6IH43QW15MN
+27365;79968;16544;personal-data;id_debtor_country_residence;52;3;19/01/2024;DM6IH43QW15MN
+27366;79968;16544;personal-data;id_debtor_dept_residence;11;3;19/01/2024;DM6IH43QW15MN
+27367;79968;16544;personal-data;id_debtor_mun_residence;107;3;19/01/2024;DM6IH43QW15MN
+27368;79968;16544;personal-data;debtor_date_birth;9/09/1972;3;19/01/2024;DM6IH43QW15MN
+27369;79968;16544;personal-data;debtor_marital_status;married;3;19/01/2024;DM6IH43QW15MN
+27370;79968;16544;personal-data;debtor_social_stratum;3;3;19/01/2024;DM6IH43QW15MN
+27371;79968;16544;personal-data;debtor_level_of_education;5;3;19/01/2024;DM6IH43QW15MN
+27372;79968;16544;personal-data;debtor_no_dependants;0;3;19/01/2024;DM6IH43QW15MN
+27373;79968;16544;personal-data;debtor_file_tax_reports;yes;3;19/01/2024;DM6IH43QW15MN
+27374;79968;16544;personal-data;debtor_tenure_at_curr_address;40;3;19/01/2024;DM6IH43QW15MN
+27375;79968;16544;personal-data;debtor_abroad_residence;no;3;19/01/2024;DM6IH43QW15MN
+27376;79968;16544;personal-data;debtor_reports_credit_agency;yes;3;19/01/2024;DM6IH43QW15MN
+27377;79968;16544;personal-data;debtor_reports_credit_agency_party;bancos o financieras;3;19/01/2024;DM6IH43QW15MN
+27378;79968;16544;personal-data;debtor_reports_credit_agency_party_other;;3;19/01/2024;DM6IH43QW15MN
+27379;79968;16544;labour-data;debtor_employment_status;self-employed;3;19/01/2024;DM6IH43QW15MN
+27380;79968;16544;labour-data;id_debtor_range_of_income;12;3;19/01/2024;DM6IH43QW15MN
+27381;79968;16544;labour-data;payroll_frequency;30;3;19/01/2024;DM6IH43QW15MN
+27382;79968;16544;labour-data;id_debtor_bank;4;3;19/01/2024;DM6IH43QW15MN
+27383;79968;16544;labour-data;id_debtor_occupation;254;3;19/01/2024;DM6IH43QW15MN
+27384;79968;16544;labour-data;debtor_occupation; ajustadores de electricistas incluye reparacion de aparatos de uso domestico;3;19/01/2024;DM6IH43QW15MN
+27385;79968;16544;labour-data;id_debtor_position;0;3;19/01/2024;DM6IH43QW15MN
+27386;79968;16544;labour-data;debtor_position;0;3;19/01/2024;DM6IH43QW15MN
+27387;79968;16544;labour-data;debtor_business_type;;3;19/01/2024;DM6IH43QW15MN
+27388;79968;16544;labour-data;debtor_business_name;;3;19/01/2024;DM6IH43QW15MN
+27389;79968;16544;labour-data;debtor_business_date_admission;;3;19/01/2024;DM6IH43QW15MN
+27390;79968;16544;labour-data;debtor_duration_of_curr_employment;0;3;19/01/2024;DM6IH43QW15MN
+27391;79968;16544;labour-data;debtor_years_experience;10;3;19/01/2024;DM6IH43QW15MN
+27392;79968;16544;labour-data;id_debtor_business_activity;17;3;19/01/2024;DM6IH43QW15MN
+27393;79968;16544;labour-data;debtor_business_activity;servicios ;3;19/01/2024;DM6IH43QW15MN
+27394;79968;16544;labour-data;debtor_business_phone;;3;19/01/2024;DM6IH43QW15MN
+27395;79968;16544;labour-data;debtor_type_of_employment_contract;no-contract;3;19/01/2024;DM6IH43QW15MN
+27396;79968;16544;labour-data;debtor_business_registration;no;3;19/01/2024;DM6IH43QW15MN
+27397;79968;16544;labour-data;debtor_business_tin;;3;19/01/2024;DM6IH43QW15MN
+27398;79968;16544;labour-data;id_debtor_other_income;0;3;19/01/2024;DM6IH43QW15MN
+27399;79968;16544;labour-data;table data_centrales_riesgo_obligaciones;;3;19/01/2024;DM6IH43QW15MN
+27400;79968;16544;credit-bureau-data;report_result;found;3;19/01/2024;DM6IH43QW15MN
+27401;79968;16544;credit-bureau-data;report_checkid;1,21E+18;3;19/01/2024;DM6IH43QW15MN
+27402;79968;16544;credit-bureau-data;report_date;18/01/2024 9:33;3;19/01/2024;DM6IH43QW15MN
+27403;79968;16544;credit-bureau-data;debtor_credit_agency;transunion;3;19/01/2024;DM6IH43QW15MN
+27404;79968;16544;credit-bureau-data;debtor_credit_score;692;3;19/01/2024;DM6IH43QW15MN
+27405;79968;16544;credit-bureau-data;debtor_default_loans;0;3;19/01/2024;DM6IH43QW15MN
+27406;79968;16544;credit-bureau-data;debtor_credit_agency_min_probable_income;5246160;3;19/01/2024;DM6IH43QW15MN
+27407;79968;16544;credit-bureau-data;debtor_payment_capacity;-1697289;3;19/01/2024;DM6IH43QW15MN
+27408;79968;16544;credit-bureau-data;debtor_current_loan_value;113662;3;19/01/2024;DM6IH43QW15MN
+27409;79968;16544;credit-bureau-data;debtor_current_no_loans;11;3;19/01/2024;DM6IH43QW15MN
+27410;79968;16544;credit-bureau-data;debtor_current_total_payment;5529;3;19/01/2024;DM6IH43QW15MN
+27411;79968;16544;credit-bureau-data;debtor_current_delinquency_value;0;3;19/01/2024;DM6IH43QW15MN
+27412;79968;16544;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27413;79968;16544;credit-bureau-data;debtor_total_loan_value;353333;3;19/01/2024;DM6IH43QW15MN
+27414;79968;16544;credit-bureau-data;debtor_total_no_loans;49;3;19/01/2024;DM6IH43QW15MN
+27415;79968;16544;credit-bureau-data;debtor_total_highest_loan_value;3/07/2013 0:00;3;19/01/2024;DM6IH43QW15MN
+27416;79968;16544;credit-bureau-data;debtor_total_no_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27417;79968;16544;credit-bureau-data;debtor_total_max_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27418;79968;16544;credit-bureau-data;debtor_total_no_loans_w_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27419;79968;16544;credit-bureau-data;debtor_total_no_similar_loans;0;3;19/01/2024;DM6IH43QW15MN
+27420;79968;16544;credit-bureau-data;debtor_closed_loan_value;267126;3;19/01/2024;DM6IH43QW15MN
+27421;79968;16544;credit-bureau-data;debtor_closed_no_loans;45;3;19/01/2024;DM6IH43QW15MN
+27422;79968;16544;credit-bureau-data;debtor_closed_highest_loan_value;41458;3;19/01/2024;DM6IH43QW15MN
+27423;79968;16544;credit-bureau-data;debtor_closed_no_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27424;79968;16544;credit-bureau-data;debtor_closed_max_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27425;79968;16544;credit-bureau-data;debtor_closed_no_loans_w_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27426;79968;16544;credit-bureau-data;debtor_closed_no_similar_loans;0;3;19/01/2024;DM6IH43QW15MN
+27427;79968;16544;credit-bureau-data;debtor_current_highest_loan_value;38757;3;19/01/2024;DM6IH43QW15MN
+27428;79968;16544;credit-bureau-data;debtor_current_no_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27429;79968;16544;credit-bureau-data;debtor_current_max_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27430;79968;16544;credit-bureau-data;debtor_current_no_loans_w_bad_reports;0;3;19/01/2024;DM6IH43QW15MN
+27431;79968;16544;credit-bureau-data;debtor_current_no_similar_loans;0;3;19/01/2024;DM6IH43QW15MN
+27432;79968;16544;credit-bureau-data;debtor_current_no_tcr;2;3;19/01/2024;DM6IH43QW15MN
+27433;79968;16544;credit-bureau-data;debtor_current_tcr_initial_limit;14450;3;19/01/2024;DM6IH43QW15MN
+27434;79968;16544;credit-bureau-data;debtor_current_tcr_value;14836;3;19/01/2024;DM6IH43QW15MN
+27435;79968;16544;credit-bureau-data;debtor_current_tcr_usage;1,026712803;3;19/01/2024;DM6IH43QW15MN
+27436;79968;16544;credit-bureau-data;table query_cr_obligaciones_1;;3;19/01/2024;DM6IH43QW15MN
+27437;79968;16544;credit-bureau-data;table query_cr_obligaciones_2;;3;19/01/2024;DM6IH43QW15MN
+27438;79968;16544;credit-bureau-data;table data_centrales_riesgo_obligaciones;;3;19/01/2024;DM6IH43QW15MN
+27439;79968;16544;bank-statement-data;bank_statement_result;found;3;19/01/2024;DM6IH43QW15MN
+27440;79968;16544;bank-statement-data;id_document;27122;3;19/01/2024;DM6IH43QW15MN
+27441;79968;16544;bank-statement-data;bank_account_validation;1;3;19/01/2024;DM6IH43QW15MN
+27442;79968;16544;bank-statement-data;bank_statement_no_days;93;3;19/01/2024;DM6IH43QW15MN
+27443;79968;16544;bank-statement-data;bank_statement_max_days_passed;19/01/1900 0:00;3;19/01/2024;DM6IH43QW15MN
+27444;79968;16544;bank-statement-data;bank_no_records;76;3;19/01/2024;DM6IH43QW15MN
+27445;79968;16544;bank-statement-data;bank_monthly_avg_blance;460113;3;19/01/2024;DM6IH43QW15MN
+27446;79968;16544;bank-statement-data;bank_monthly_avg_credit_value;6784156,2;3;19/01/2024;DM6IH43QW15MN
+27447;79968;16544;bank-statement-data;bank_monthly_avg_debit_value;6854217,86;3;19/01/2024;DM6IH43QW15MN
+27448;79968;16544;bank-statement-data;bank_monthly_avg_payroll_value;0;3;19/01/2024;DM6IH43QW15MN
+27449;79968;16544;bank-statement-data;bank_monthly_avg_no_credit_records;14;3;19/01/2024;DM6IH43QW15MN
+27450;79968;16544;bank-statement-data;bank_monthly_avg_no_payroll_records;$ 0,00;3;19/01/2024;DM6IH43QW15MN
+27451;79968;16544;income-tax-return-data;tax_report_result;found;3;19/01/2024;DM6IH43QW15MN
+27452;79968;16544;income-tax-return-data;tax_report_year;2022;3;19/01/2024;DM6IH43QW15MN
+27453;79968;16544;income-tax-return-data;tax_report_total_income_value;$ 40.000.000,00;3;19/01/2024;DM6IH43QW15MN
+27454;79968;16544;income-tax-return-data;tax_report_total_assets_value;$ 256.575.000,00;3;19/01/2024;DM6IH43QW15MN
+27455;79968;16544;income-tax-return-data;tax_report_total_equity_value;$ 199.607.000,00;3;19/01/2024;DM6IH43QW15MN
+27456;79968;16544;income-tax-return-data;tax_report_total_debt_value;$ 56.968.000,00;3;19/01/2024;DM6IH43QW15MN
+27457;79968;16544;income-tax-return-data;tax_report_total_tax;$ 0,00;3;19/01/2024;DM6IH43QW15MN
+27458;79968;16544;income-tax-return-data;tax_report_value_to_pay;$ 0,00;3;19/01/2024;DM6IH43QW15MN
+27459;79968;16544;background-checks-data;public_db_result;found;3;19/01/2024;DM6IH43QW15MN
+27460;79968;16544;background-checks-data;public_db_check_id;CHK64eb8c72b79357e0dfcb8587da75fb45;3;19/01/2024;DM6IH43QW15MN
+27461;79968;16544;background-checks-data;public_db_check_id_date;18/01/2024 12:32;3;19/01/2024;DM6IH43QW15MN
+27462;79968;16544;background-checks-data;public_db_no_lawsuits;3;3;19/01/2024;DM6IH43QW15MN
+27463;79968;16544;background-checks-data;public_db_no_lawsuits_defendant;3;3;19/01/2024;DM6IH43QW15MN
+27464;79968;16544;background-checks-data;public_db_no_lawsuits_defendant_money;2;3;19/01/2024;DM6IH43QW15MN
+27465;79968;16544;background-checks-data;public_db_tax_responsable;no;3;19/01/2024;DM6IH43QW15MN
+27466;79968;16544;background-checks-data;public_db_tax_responsable_bdme;;3;19/01/2024;DM6IH43QW15MN
+27467;79968;16544;background-checks-data;public_db_medical_status;;3;19/01/2024;DM6IH43QW15MN
+27468;79968;16544;background-checks-data;public_db_medical_regime;;3;19/01/2024;DM6IH43QW15MN
+27469;79968;16544;background-checks-data;public_db_medical_type;;3;19/01/2024;DM6IH43QW15MN
+27470;79968;16544;background-checks-data;public_db_pension_status;;3;19/01/2024;DM6IH43QW15MN
+27471;79968;16544;background-checks-data;public_db_pension_regime;;3;19/01/2024;DM6IH43QW15MN
+27472;79968;16544;background-checks-data;public_db_ccf_status;;3;19/01/2024;DM6IH43QW15MN
+27473;79968;16544;background-checks-data;public_db_ccf_type;;3;19/01/2024;DM6IH43QW15MN
+27474;79968;16544;background-checks-data;public_db_welfare_status;;3;19/01/2024;DM6IH43QW15MN
+27475;79968;16544;background-checks-data;public_db_police_check_result;no presenta antecedentes;3;19/01/2024;DM6IH43QW15MN
+27476;79968;16544;background-checks-data;public_db_check_dni;;3;19/01/2024;DM6IH43QW15MN
+27477;79968;16544;background-checks-data;public_db_check_pedofile;not_found-unknown;3;19/01/2024;DM6IH43QW15MN
+27478;79968;16544;background-checks-data;public_db_personal_identity_score;4;3;19/01/2024;DM6IH43QW15MN
+27479;79968;16544;background-checks-data;public_db_criminal_record_score;10;3;19/01/2024;DM6IH43QW15MN
+27480;79968;16544;background-checks-data;public_db_legal_background_score;2;3;19/01/2024;DM6IH43QW15MN
+27481;79968;16544;background-checks-data;public_db_international_background_score;10;3;19/01/2024;DM6IH43QW15MN
+27482;79968;16544;background-checks-data;public_db_professional_background_score;10;3;19/01/2024;DM6IH43QW15MN
+27483;79968;16544;background-checks-data;public_db_affiliations_and_insurances_score;10;3;19/01/2024;DM6IH43QW15MN
+27484;79968;16544;background-checks-data;public_db_alert_in_media_score;10;3;19/01/2024;DM6IH43QW15MN
+27485;79968;16544;background-checks-data;public_db_taxes_and_finances_score;10;3;19/01/2024;DM6IH43QW15MN
+27486;79968;16544;background-checks-data;table data_proceso_judicial;;3;19/01/2024;DM6IH43QW15MN
+27487;79968;16544;snr-data;snr_result;found;3;19/01/2024;DM6IH43QW15MN
+27488;79968;16544;snr-data;snr_check_id;F20240118095727U16544S79968;3;19/01/2024;DM6IH43QW15MN
+27489;79968;16544;snr-data;snr_check_id_date;18/01/2024 9:57;3;19/01/2024;DM6IH43QW15MN
+27490;79968;16544;snr-data;snr_no_records;1;3;19/01/2024;DM6IH43QW15MN
+27491;79968;16544;snr-data;snr_no_unique_id_number;1;3;19/01/2024;DM6IH43QW15MN
+27492;79968;16544;snr-data;snr_estimated_unique_properties;1;3;19/01/2024;DM6IH43QW15MN

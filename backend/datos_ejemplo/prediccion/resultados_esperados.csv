@@ -1,0 +1,17 @@
+﻿archivo;id_simulacion;deudores;calificacion_real_6M;calificacion_real_12M;puntaje_6M;banda_6M;decision_6M;puntaje_12M;banda_12M;decision_12M
+prediccion_calificadas.csv;79754;1;10.0;10.0;-2.02;Bajo;Buena;-2.22;Bajo;Buena
+prediccion_calificadas.csv;79968;1;10.0;10.0;0.82;Medio;Buena;0.43;Medio;Buena
+prediccion_calificadas.csv;78486;2;8.0;8.0;7.69;Alto;No-Buena (revisar);13.01;Alto;No-Buena (revisar)
+prediccion_calificadas.csv;79855;2;8.0;6.0;2.34;Alto;No-Buena (revisar);2.76;Alto;No-Buena (revisar)
+prediccion_calificadas.csv;75809;2;8.0;10.0;3.93;Alto;No-Buena (revisar);-1.03;Medio;Buena
+prediccion_calificadas.csv;78731;3;10.0;10.0;3.25;Alto;No-Buena (revisar);7.38;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;62855;1;;;0.36;Medio;Buena;0.65;Medio;Buena
+prediccion_no_formalizadas.csv;65526;1;;;-1.45;Bajo;Buena;-1.11;Medio;Buena
+prediccion_no_formalizadas.csv;73216;1;;;4.86;Alto;No-Buena (revisar);7.38;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;74202;1;;;0.32;Medio;Buena;3.71;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;75706;2;;;19.75;Alto;No-Buena (revisar);3.22;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;75729;2;;;-0.63;Medio;Buena;1.8;Alto;Buena
+prediccion_no_formalizadas.csv;77518;1;;;2.19;Alto;No-Buena (revisar);2.27;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;77628;3;;;1.8;Alto;No-Buena (revisar);3.65;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;77705;2;;;3.79;Alto;No-Buena (revisar);7.36;Alto;No-Buena (revisar)
+prediccion_no_formalizadas.csv;79019;2;;;3.01;Alto;No-Buena (revisar);4.8;Alto;No-Buena (revisar)

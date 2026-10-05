@@ -50,7 +50,7 @@ INDICES_6M = {
     'garantía_casa': {'garantia_casa': 1},
 }
 FACTOR_MARCADO = 1.5          # se marca como No-Buena el 1,5 x la tasa de No-Buena del entrenamiento
-CORTE_BUENA = 9               # Valor_calificacion >= 9 -> Buena
+CORTE_BUENA = 9               # por defecto: Valor_calificacion >= 9 -> Buena (se puede cambiar en 'Letras & clases')
 
 
 def slog(a):
@@ -173,8 +173,8 @@ class ModeloIndices:
     12M: log con signo + z-score (media/desv.), faltantes se omiten del promedio.
     6M : imputación por mediana + escalado robusto (mediana/IQR)."""
 
-    def __init__(self, horizonte):
-        assert horizonte in ('6M', '12M'); self.h = horizonte
+    def __init__(self, horizonte, corte=CORTE_BUENA):
+        assert horizonte in ('6M', '12M'); self.h = horizonte; self.corte = float(corte)
         self.defs = INDICES_12M if horizonte == '12M' else INDICES_6M
 
     # -- estandarización
@@ -192,8 +192,8 @@ class ModeloIndices:
         m = y.notna()
         if self.h == '6M' and valor_12m is not None:
             y12 = pd.Series(valor_12m, index=V.index).astype(float)
-            m &= ~((y < CORTE_BUENA) & (y12 >= CORTE_BUENA))
-        Vt = V.loc[m]; yt = (y[m] < CORTE_BUENA).astype(int)
+            m &= ~((y < self.corte) & (y12 >= self.corte))
+        Vt = V.loc[m]; yt = (y[m] < self.corte).astype(int)
         self.cols = sorted({c for v in self.defs.values() for c in v})
         faltan = [c for c in self.cols if c not in Vt]
         if faltan: raise ValueError(f'faltan variables: {faltan}')
@@ -230,14 +230,14 @@ class ModeloIndices:
         return out
 
     def guardar(self, ruta):
-        json.dump(dict(version_especificacion=VERSION_ESPEC, horizonte=self.h, definiciones=self.defs, columnas=self.cols, parametros=self.p,
+        json.dump(dict(version_especificacion=VERSION_ESPEC, horizonte=self.h, corte_buena=self.corte, definiciones=self.defs, columnas=self.cols, parametros=self.p,
                        umbral=self.umbral, terciles=self.terciles, frac_marcado=self.frac_marcado, tasa_entrenamiento=self.tasa_entrenamiento,
                        n_entrenamiento=self.n_entrenamiento, malos_entrenamiento=self.malos_entrenamiento, fecha=self.fecha),
                   open(ruta, 'w', encoding='utf-8'), ensure_ascii=False, indent=1)
 
     @classmethod
     def cargar(cls, ruta):
-        d = json.load(open(ruta, encoding='utf-8')); m = cls(d['horizonte'])
+        d = json.load(open(ruta, encoding='utf-8')); m = cls(d['horizonte'], d.get('corte_buena', CORTE_BUENA))
         m.defs, m.cols, m.p, m.umbral, m.terciles = d['definiciones'], d['columnas'], d['parametros'], d['umbral'], d['terciles']
         m.frac_marcado, m.tasa_entrenamiento = d['frac_marcado'], d['tasa_entrenamiento']
         m.n_entrenamiento, m.malos_entrenamiento, m.fecha = d['n_entrenamiento'], d['malos_entrenamiento'], d['fecha']
@@ -245,20 +245,20 @@ class ModeloIndices:
 
 
 # --------------------------------------------------------------------------------------------- evaluación
-def evaluar(h, V, valor_calificacion, valor_12m=None, repeticiones=10, semilla=0):
+def evaluar(h, V, valor_calificacion, valor_12m=None, repeticiones=10, semilla=0, corte=CORTE_BUENA):
     """Validación cruzada estratificada 5 x repeticiones con el mismo procedimiento del entrenamiento.
     6M: los transitorios se excluyen del ajuste pero se incluyen en la evaluación."""
     from sklearn.model_selection import StratifiedKFold
     from sklearn.metrics import roc_auc_score, f1_score, balanced_accuracy_score, confusion_matrix, precision_recall_fscore_support
     y = pd.Series(valor_calificacion, index=V.index).astype(float)
     m = y.notna(); Vm, ym = V.loc[m], y[m]
-    yb = (ym < CORTE_BUENA).astype(int).values                       # 1 = No-Buena
+    yb = (ym < corte).astype(int).values                             # 1 = No-Buena
     y12 = pd.Series(valor_12m, index=V.index).astype(float).loc[m] if (h == '6M' and valor_12m is not None) else None
     defs = INDICES_12M if h == '12M' else INDICES_6M
     R, cm, por, bandas = [], np.zeros((2, 2), int), {k: [] for k in defs}, np.zeros((3, 2))
     for r in range(semilla, semilla + repeticiones):
         for tr, te in StratifiedKFold(5, shuffle=True, random_state=r).split(Vm, yb):
-            mod = ModeloIndices(h).fit(Vm.iloc[tr], ym.iloc[tr], None if y12 is None else y12.iloc[tr])
+            mod = ModeloIndices(h, corte).fit(Vm.iloc[tr], ym.iloc[tr], None if y12 is None else y12.iloc[tr])
             I = mod.indices(Vm.iloc[te]); s = I.sum(axis=1).values; q = (s >= mod.umbral).astype(int); yt = yb[te]
             R.append([roc_auc_score(yt, s), f1_score(yt, q, average='macro'), balanced_accuracy_score(yt, q)])
             cm += confusion_matrix(yt, q, labels=[0, 1])
@@ -270,7 +270,7 @@ def evaluar(h, V, valor_calificacion, valor_12m=None, repeticiones=10, semilla=0
         np.repeat([0, 0, 1, 1], cm.ravel()), np.repeat([0, 1, 0, 1], cm.ravel()), labels=[0, 1], zero_division=0)
     clases = ['Buena', 'No-Buena']
     return {
-        'n': int(len(yb)), 'no_buena': int(yb.sum()), 'repeticiones': repeticiones,
+        'n': int(len(yb)), 'no_buena': int(yb.sum()), 'repeticiones': repeticiones, 'corte_buena': float(corte),
         'auc': round(float(R[:, 0].mean()), 3), 'auc_sd': round(float(R[:, 0].reshape(-1, 5).mean(1).std()), 3),
         'f1_macro': round(float(R[:, 1].mean()), 3), 'balanced_accuracy': round(float(R[:, 2].mean()), 3),
         'clases': clases, 'matriz_confusion': (cm / repeticiones).round(1).tolist(),

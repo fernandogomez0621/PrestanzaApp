@@ -1,4 +1,4 @@
-import React, { useState } from 'react';
+import React, { useState, useEffect } from 'react';
 import { api } from '../../api';
 import { FileDrop } from '../../components/ui';
 import { CalifUploader } from '../CargaDatos';
@@ -7,6 +7,8 @@ export default function CargaIndices({ showToast, recargarVersiones, setVersionA
   const [dpFile, setDpFile] = useState(null);
   const [dpInfo, setDpInfo] = useState(null);
   const [entrenando, setEntrenando] = useState(false);
+  const [corte, setCorte] = useState(null);
+  useEffect(() => { api.corte().then(r => setCorte(r.corte_buena)).catch(() => {}); }, []);
 
   const subirDp = async (f) => {
     setDpFile(f);
@@ -19,7 +21,8 @@ export default function CargaIndices({ showToast, recargarVersiones, setVersionA
     showToast('Ajustando los modelos por índices de 6M y 12M…');
     try {
       const r = await api.entrenar('titular');
-      showToast(`✓ Entrenamiento completo — versión ${r.version}`);
+      setCorte(r.corte_buena);
+      showToast(`✓ Entrenamiento completo — versión ${r.version} (Buena ≥ ${r.corte_buena})`);
       await recargarVersiones(); setVersionActiva(r.version);
     } catch (e) { showToast('Error al entrenar: ' + e.message); }
     setEntrenando(false);
@@ -52,6 +55,16 @@ export default function CargaIndices({ showToast, recargarVersiones, setVersionA
           Recalcula las escalas de cada variable, el umbral y los terciles con los datos vigentes, evalúa con validación cruzada
           y guarda una nueva versión fechada. La composición de los índices y sus signos no cambian.
         </p>
+        <div className="kpi-row">
+          <div className="kpi" style={{ maxWidth: 420 }}>
+            <div className="label">Definición de Buena que se usará</div>
+            <div className="value small">{corte == null ? '—' : `Buena ≥ ${corte} · No-Buena < ${corte}`}</div>
+            <div className="muted" style={{ fontSize: 11, marginTop: 6 }}>
+              Se cambia en la pestaña “Letras & clases” de la app principal (puerto 8501), corte de la clase Buena.
+              Es la misma definición para las dos apps; después de cambiarla hay que reentrenar en ambas.
+            </div>
+          </div>
+        </div>
         <button className="btn" onClick={reentrenar} disabled={entrenando}>
           {entrenando ? <><span className="spinner" /> Entrenando…</> : 'Actualizar datos y reentrenar'}
         </button>
