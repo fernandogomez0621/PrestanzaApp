@@ -6,9 +6,12 @@ Requisito: tener Docker y Docker Compose instalados.
 
     docker compose up --build
 
-Luego abre:  **http://localhost:8080**
+Luego abre:
 
-- El frontend (React + Nginx) queda en el puerto **8080**.
+- **http://localhost:8501** — app principal (4 familias de modelos, SHAP, EDA…)
+- **http://localhost:8502** — solo los modelos de riesgo por índices de 6 y 12 meses
+
+- El frontend (React + Nginx) de la app principal queda en el puerto **8501**.
 - El backend (FastAPI) corre interno y el frontend le habla por `/api` (Nginx hace el proxy).
 - Los datos cargados y los modelos entrenados **persisten** en `backend/datos_actuales/`
   y `backend/modelos_versionados/` aunque apagues los contenedores.
@@ -29,6 +32,15 @@ Frontend (otra terminal):
     cd frontend
     npm install
     npm run dev        # abre http://localhost:5173
+
+## Modelos por índices (puerto 8502)
+- Servicios `backend-indices` y `frontend-indices` en `docker-compose.yml`. Usan la misma imagen y el mismo código
+  (`backend/main_indices.py`, `backend/core/modelo_indices.py`); el frontend se compila con `MODO=indices`.
+- Comparten `backend/datos_actuales/` con la app principal: lo que se cargue en una queda disponible en la otra.
+- Los modelos se guardan en `backend/modelos_indices/<fecha>/` (JSON legibles + métricas). Si no hay ninguno al
+  arrancar y existen datos, se entrena solo en unos segundos.
+- Pestañas: carga de datos, modelos & versiones (métricas por validación cruzada), predicción (índices, puntaje,
+  banda y decisión por simulación) y cómo se construyen.
 
 ## Flujo de uso
 1. **Carga de datos**: sube calificaciones 6M y 12M (mapea columnas si el encabezado no coincide) + datapoints. Botón **reentrenar**.

@@ -2,7 +2,7 @@ import React, { useState } from 'react';
 import { api } from '../api';
 import { FileDrop } from '../components/ui';
 
-function CalifUploader({ periodo, showToast }) {
+export function CalifUploader({ periodo, showToast }) {
   const [file, setFile] = useState(null);
   const [insp, setInsp] = useState(null);
   const [colId, setColId] = useState('');
